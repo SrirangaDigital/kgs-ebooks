@@ -3,7 +3,7 @@
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:title>ಶಾಂಕರ ಸಂವತ್ಸರ</dc:title>
 		<dc:language>Kannada</dc:language>
-		<dc:identifier id="uid">KGS/K001</dc:identifier>
+		<dc:identifier id="uid">KGS/001</dc:identifier>
 		<dc:publisher>ಧ್ಯಾತ್ಮಪ್ರಕಾಶಕಾರ್ಯಾಲಯ ಪಬ್ಲಿಕ್ ಛಾರಿಟಬಲ್ ಟ್ರಸ್ಟ್ ರಿ.</dc:publisher>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessMode">visual</meta>
@@ -12,7 +12,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-04-23T13:36:54Z</meta>
+		<meta property="dcterms:modified">2018-04-26T12:41:31Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -20,6 +20,12 @@
 		<item id="id-000c-Preface1_xhtml" href="000c-Preface1.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000c-Preface2_xhtml" href="000c-Preface2.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-000c-Preface3_xhtml" href="000c-Preface3.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction1_xhtml" href="000d-Introduction1.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction2_xhtml" href="000d-Introduction2.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction3_xhtml" href="000d-Introduction3.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction4_xhtml" href="000d-Introduction4.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction5_xhtml" href="000d-Introduction5.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction6_xhtml" href="000d-Introduction6.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-002-chapter002_xhtml" href="002-chapter002.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-003-chapter003_xhtml" href="003-chapter003.xhtml" media-type="application/xhtml+xml" />
@@ -44,6 +50,12 @@
 		<itemref idref="id-000c-Preface1_xhtml" linear="yes" />
 		<itemref idref="id-000c-Preface2_xhtml" linear="yes" />
 		<itemref idref="id-000c-Preface3_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction1_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction2_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction3_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction4_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction5_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction6_xhtml" linear="yes" />
 		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
 		<itemref idref="id-002-chapter002_xhtml" linear="yes" />
 		<itemref idref="id-003-chapter003_xhtml" linear="yes" />
