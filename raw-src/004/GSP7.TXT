@@ -1,0 +1,37 @@
+@ENGH = <$!SD><$!SD><$!N><$!SD><$!PFE49><$!SD><$!SD><$!SD><$!SD><$!SD>Great 
+Men, About Bhagavad Geetha
+
+@ENGX = I find solace in <B>Bhagavad Geetha<D> that I miss even in 
+the Sermon on the Mount. When disappointment stares me in the face 
+and all alone I see not one ray of light, I go back to <B>Bhagavad 
+Geetha.<D> I find a verse here and a verse there and I immediately 
+begin to smile in the midst of overwhelming tragedies; and my life 
+has been full of external tragedies. And if they have left no visible 
+or indelible scar on me, I owe it all to the teachings of the <B>Bhagavad 
+Geetha<D>.
+
+@SIGNE1 = 	<197><|>Mahatma Gandhi
+
+@ENGX = The <B>Bhagavad Geetha<D> deals essentially with the spiritual 
+foundation of human existence. It is a call of acting (action) to 
+meet the obligations and duties of life, yet keeping in view the spiritual 
+nature and grander-purpose of the Universe.
+
+@SIGNE1 = 	<197><|>Jawaharlal Nehru
+
+@ENGX = When I read the <B>Bhagavad Geetha<D> and reflect about how 
+God created this universe, everything else seems so superfluous.
+
+@SIGNE1 = 	<197><|>Albert Einsteen
+
+@ENGX = The <B>Bhagavad Geetha<D> is the best authority on Vedanta.
+
+@SIGNE1 = 	<197><|>Swami Vivekananda
+
+@ENGX = If you repeat <F38788P13B>(ieerlee)<F255P255D> Gita<|>10 times it reverses 
+into <F38788P13B>leeieer<F255P255D>,<|><F38788P13B>l<147>eeieer<F255P255D>,
+
+@ENGK = which indicates renunciation.
+
+@SIGNE1 = 	<197><|>Sri Ramakrishna Paramahamsa
+
