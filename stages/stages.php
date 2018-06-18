@@ -26,7 +26,7 @@ class Stages{
 
 	    foreach($iterator as $file => $object) {
 	    	
-	    	if(preg_match('/.*\.TXT$/i',$file)) array_push($allFiles, $file);
+	    	if(preg_match('/.*\.(TXT|CAP)$/i',$file)) array_push($allFiles, $file);
 	    }
 
 	    sort($allFiles);
@@ -55,7 +55,7 @@ class Stages{
 			echo "Stage2 directory created\n";
 		}
 
-		$fileName = RAW_SRC . $bookID . '/Stage2/' . preg_replace('/\.txt$/i', '.html', $baseFileName);
+		$fileName = RAW_SRC . $bookID . '/Stage2/' . preg_replace('/\.(txt|cap)$/i', '.html', $baseFileName);
 
 		// $processedHTML = html_entity_decode($processedHTML, ENT_QUOTES);
 		file_put_contents($fileName, $html);
@@ -71,7 +71,7 @@ class Stages{
 			echo "Stage3 directory created\n";
 		}
 
-		$fileName = RAW_SRC . $bookID . '/Stage3/' . preg_replace('/\.txt$/i', '.html', $baseFileName);
+		$fileName = RAW_SRC . $bookID . '/Stage3/' . preg_replace('/\.(txt|cap)$/i', '.html', $baseFileName);
 
 		$unicodeHTML = html_entity_decode($unicodeHTML);
 		
