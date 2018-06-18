@@ -12,6 +12,7 @@ class Stages{
 
 		foreach($allFiles as $file){
 			
+			echo $file . "\n";
 			$this->process($bookID,$file);		
 		}
 	}
@@ -34,32 +35,39 @@ class Stages{
 		return $allFiles;
 	}
 
-	public function process($bookID,$file) {
+	public function process($bookID, $file) {
 
-		// stage1.ven : Input text from ventura
-		$rawVEN = file_get_contents($file);
-
-		// Get ANSI text
-		$rawVEN = $this->ventura2Text($rawVEN);
-
-		// Form html from ventura tags
-		$html = $this->formHTML($rawVEN);
-		$html = $this->cleanupInlineElements($html);
-
-		// stage2.html : Output html for conversion		
 		$baseFileName = basename($file);
+		$stage2File = str_replace('Stage1', 'Stage2', $file) . '.html';
 
-		if (!file_exists(RAW_SRC . $bookID . '/Stage2/')) {
+		if(!file_exists($stage2File)) {
 			
-			mkdir(RAW_SRC . $bookID . '/Stage2/', 0775);
-			echo "Stage2 directory created\n";
+			// stage1.ven : Input text from ventura
+			$rawVEN = file_get_contents($file);
+
+			// Get ANSI text
+			$rawVEN = $this->ventura2Text($rawVEN);
+
+			// Form html from ventura tags
+			$html = $this->formHTML($rawVEN);
+			$html = $this->cleanupInlineElements($html);
+			
+			if (!file_exists(RAW_SRC . $bookID . '/Stage2/')) {
+			
+				mkdir(RAW_SRC . $bookID . '/Stage2/', 0775);
+				echo "Stage2 directory created\n";
+			}
+			
+			// stage2.html : Output html for conversion		
+			$fileName = RAW_SRC . $bookID . '/Stage2/' . $baseFileName . '.html';
+
+			// $processedHTML = html_entity_decode($processedHTML, ENT_QUOTES);
+			file_put_contents($fileName, $html);
 		}
-
-		$fileName = RAW_SRC . $bookID . '/Stage2/' . preg_replace('/\.(txt|cap)$/i', '.html', $baseFileName);
-
-		// $processedHTML = html_entity_decode($processedHTML, ENT_QUOTES);
-		file_put_contents($fileName, $html);
-
+		else{
+			
+			$html = file_get_contents($stage2File);
+		}
 
 		// Stage 3
 		$unicodeHTML = $this->convert($html);
@@ -71,7 +79,7 @@ class Stages{
 			echo "Stage3 directory created\n";
 		}
 
-		$fileName = RAW_SRC . $bookID . '/Stage3/' . preg_replace('/\.(txt|cap)$/i', '.html', $baseFileName);
+		$fileName = RAW_SRC . $bookID . '/Stage3/' . $baseFileName . '.html';
 
 		$unicodeHTML = html_entity_decode($unicodeHTML);
 		
@@ -154,9 +162,14 @@ class Stages{
 	public function cleanupInlineElements($html) {
 
 		$html = preg_replace('/<span class="en">([^<\/span>]*?)<br \/>(.*?)<\/span>/', "<span class=\"en\">$1</span><br /><span class=\"en\">$2</span>", $html);
-		$html = preg_replace('/<span class="en">([[:punct:]\hefi]+)<strong>/', "<strong><span class=\"en\">$1", $html);
+		$html = preg_replace('/<span class="en">([^<\/>]*?)<strong>([^<\/>]*?)<\/span>([^<\/>]*?)<\/strong>/', "<span class=\"en\">$1<strong>$2</strong>$3</span>", $html);
+		// $html = preg_replace('/<span class="en">([[:punct:]\hefi]+)<strong>/', "<strong><span class=\"en\">$1", $html);
 		$html = str_replace('<p></p>', '', $html);
 		$html = str_replace('<span class="en"></span>', '', $html);
+
+		$html = str_replace('<span class="en"></strong>', '</strong><span class="en">', $html);
+		$html = str_replace('<strong></span>', '</span><strong>', $html);
+
 		$html = str_replace('<strong><strong>', '<strong>', $html);
 		$html = str_replace('</strong></strong>', '</strong>', $html);
 
