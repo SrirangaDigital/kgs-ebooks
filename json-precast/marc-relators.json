@@ -1,0 +1,10 @@
+{
+	"marcRelators": {
+		"author": "aut",
+		"translator": "trl",
+		"editor": "edt",
+		"bookDesigner": "bkd",
+		"compiler": "com",
+		"commentator": "cmm"
+	}
+}

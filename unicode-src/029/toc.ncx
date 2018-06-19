@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content="9789387784109"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>आत्मानुभूति तथा उसके मार्ग</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a.1"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>ನಮೋ ನಮಃ ಸದ್ಗುರುಪಾದುಕಾಭ್ಯಾಮ್</text></navLabel><content src="000b-preface.xhtml#id-000b.01"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಪಾರಾಯಣ ಶ್ಲೋಕಗಳು</text></navLabel><content src="000b-preface1.xhtml#id-000b.01"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>1  ವಾಲ್ಮೀಕಿ ಹಾಗೂ ನಾರದರ ಪ್ರಶ್ನೋತ್ತರ</text></navLabel><content src="001-chapter-001.xhtml#id-001.01"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>2  ಇದು ಶೋಕವಲ್ಲ; ಶ್ಲೋಕವಿದು!</text></navLabel><content src="002-chapter-002.xhtml#id-002.02"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>3  ಅಶ್ವಮೇಧಯಾಗಕ್ಕೆ ಸಿದ್ಧತೆ</text></navLabel><content src="003-chapter-003.xhtml#id-003.03"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>4   ಶ್ರೀರಾಮಲಕ್ಷ್ಮಣಭರತಶತ್ರುಘ್ನರ ಜನನ</text></navLabel><content src="004-chapter-004.xhtml#id-004.01"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>5  ವಿಶ್ವಾಮಿತ್ರರು ಬಂದಾಗ ದಶರಥನಿಗಾದ ಸಂತೋಷ!</text></navLabel><content src="005-chapter-005.xhtml#id-005.01"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>6  ವಿಶ್ವಾಮಿತ್ರರ ಕೃತಜ್ಞತೆಯ ಮಾತುಗಳು</text></navLabel><content src="006-chapter-006.xhtml#id-006.01"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>7  ಶ್ರೀರಾಮಾದಿಗಳಿಗೆ ವಿವಾಹಮಹೋತ್ಸವ</text></navLabel><content src="007-chapter-007.xhtml#id-007.01"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>8  ಕೌಸಲ್ಯೆಯಿಂದ ಶ್ರೀರಾಮನಿಗೆ ಆಶೀರ್ವಾದ</text></navLabel><content src="008-chapter-008.xhtml#id-008.01"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>9  ಲಕ್ಷ್ಮಣನಿಗೆ ಅಮ್ಮನ ಕಿವಿಮಾತು</text></navLabel><content src="009-chapter-009.xhtml#id-009.01"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>10   ಶ್ರೀರಾಮನಿಂದ ತಂದೆಗೆ ಪಿಂಡಪ್ರದಾನ</text></navLabel><content src="010-chapter-010.xhtml#id-004.01"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>11  ಪಂಚವಟೀದರ್ಶನ</text></navLabel><content src="011-chapter-011.xhtml#id-011.01"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>12  ರಾವಣನಿಗೆ ಮಾರೀಚನ ಹಿತನುಡಿ</text></navLabel><content src="012-chapter-012.xhtml#id-012.01"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>13  ಶ್ರೀರಾಮನೆಂದರೆ ಧರ್ಮಮೂರ್ತಿ!</text></navLabel><content src="013-chapter-013.xhtml#id-013.01"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>14  ರಾವಣನಿಗೆ ಸೀತಾದೇವಿಯ ಉಪದೇಶ</text></navLabel><content src="014-chapter-014.xhtml#id-014.01"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>15  ಶಬರಿಯು ರಾಮನಿಗೆ ಹೇಳಿದ್ದು</text></navLabel><content src="015-chapter-015.xhtml#id-015.01"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>16  ರಾಮನಿಂದ ಹನುಮಂತನ ಗುಣಗಾನ</text></navLabel><content src="016-chapter-016.xhtml#id-016.01"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>17  ಲಕ್ಷ್ಮಣನ ಬ್ರಹ್ಮಚರ್ಯನಿಷ್ಠೆ!</text></navLabel><content src="017-chapter-017.xhtml#id-017.01"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>18  ಆಂಜನೇಯನ ಸಾಮರ್ಥ್ಯ!</text></navLabel><content src="018-chapter-018.xhtml#id-018.01"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>19  ಆಂಜನೇಯನ ಆತ್ಮವಿಶ್ವಾಸದ ಮಾತುಗಳು</text></navLabel><content src="019-chapter-019.xhtml#id-019.01"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>20  ಆಂಜನೇಯನ ಸ್ವಾಮಿಭಕ್ತಿ</text></navLabel><content src="020-chapter-020.xhtml#id-020.01"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>21  ಅಶೋಕವನದಲ್ಲಿ ಸೀತೆಯು ಹೀಗಿದ್ದಳು!</text></navLabel><content src="021-chapter-021.xhtml#id-021.01"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>22  ರಾವಣನ ಮುಂದೆ ಸೀತೆಯ ಗರ್ಜನೆ</text></navLabel><content src="022-chapter-022.xhtml#id-022.01"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>23  ಸೀತಾವಿಲಾಪ</text></navLabel><content src="023-chapter-023.xhtml#id-023.01"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>24  ಮಾರುತಿಯು ಸೀತೆಗೆ ಉಂಗುರ ಕೊಡುತ್ತಾನೆ</text></navLabel><content src="024-chapter-024.xhtml#id-024.01"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>25  ಆಂಜನೇಯ ಕಾರ್ಯಸಿದ್ಧಿ ಮಂತ್ರ</text></navLabel><content src="025-chapter-025.xhtml#id-025.01"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>26  ಹನುಮಂತನ ಸಿಂಹಗರ್ಜನೆ</text></navLabel><content src="026-chapter-026.xhtml#id-026.01"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>27  ರಾವಣನನ್ನು ಕಂಡಾಗ....ಅಬ್ಬಾ !</text></navLabel><content src="027-chapter-027.xhtml#id-027.01"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>28  ಸೀತಾದೇವಿಯ ಪಾತಿವ್ರತ್ಯದ ಮಹಿಮೆ!</text></navLabel><content src="028-chapter-028.xhtml#id-028.01"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>29  ಶ್ರೀರಾಮನು ಚೂಡಾಮಣಿಯನ್ನು ಕಂಡಾಗ</text></navLabel><content src="029-chapter-029.xhtml#id-029.01"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>30  ರಾವಣನಿಗೆ ವಿಭೀಷಣನ ಉಪದೇಶ</text></navLabel><content src="030-chapter-030.xhtml#id-030.01"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>31  ಶ್ರೀರಾಮನ ವ್ರತ!</text></navLabel><content src="031-chapter-031.xhtml#id-031.01"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>32  ಕಪಿಗಳು ಸಾಗರಕ್ಕೆ ಸೇತುವೆ ಕಟ್ಟಿದರು!</text></navLabel><content src="032-chapter-032.xhtml#id-032.01"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>33  ಶ್ರೀರಾಮನು ಸತ್ಯಧರ್ಮಸಂಧನು!</text></navLabel><content src="033-chapter-033.xhtml#id-033.01"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>34  ಆದಿತ್ಯಹೃದಯಮ್</text></navLabel><content src="034-chapter-034.xhtml#id-034.01"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>35   ಶ್ರೀರಾಮನ ದೊಡ್ಡಗುಣ</text></navLabel><content src="035-chapter-035.xhtml#id-035.01"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>36  ಸೀತೆಯ ಪಾತಿವ್ರತ್ಯಪ್ರತಿಜ್ಞಾ!</text></navLabel><content src="036-chapter-036.xhtml#id-036.01"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>37 ಸೀತೆಯು ಅಗ್ನಿಯಿಂದ ಪರಿಶುದ್ಧಳು</text></navLabel><content src="037-chapter-037.xhtml#id-037.01"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>38 ಭರತನ ಕರ್ತವ್ಯನಿಷ್ಠೆ!</text></navLabel><content src="038-chapter-038.xhtml#id-038.01"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>39 ಶ್ರೀರಾಮಪಟ್ಟಾಭಿಷೇಕ</text></navLabel><content src="039-chapter-039.xhtml#id-039.01"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>40  ಶ್ರೀರಾಮರಾಜ್ಯದ ಮಹಿಮೆ!</text></navLabel><content src="040-chapter-040.xhtml#id-040.01"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>41  ಆದಿಕಾವ್ಯದ ಮಹಿಮೆ</text></navLabel><content src="041-chapter-041.xhtml#id-041.01"/>
+</navPoint>
+   </navMap>
+</ncx>

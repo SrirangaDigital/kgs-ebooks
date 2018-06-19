@@ -6,7 +6,9 @@ class epub {
 		
 	}
 
-	public function createEPUBFile($id) {
+	public function createEPUBFile($id,$isbn='') {
+
+		$bookName = ($isbn != '')? $isbn : $id;
 
 		$out = '';
 		$out .= exec('mkdir -p ' . $id);
@@ -14,16 +16,19 @@ class epub {
 		$out .= exec('cp -r files/META-INF ' . $id . '/.');
 		$out .= exec('cp files/mimetype ' . $id . '/.');
 		
-		$out .= exec('cd ' . $id . '; zip -Xq ' . $id . '.epub mimetype; zip -rgq ' . $id . '.epub META-INF; zip -rgq ' . $id . '.epub OEBPS/;');
-		$out .= exec('cp ' . $id . '/' . $id . '.epub ' . EPUB_FILES . '/.');
+		$out .= exec('cd ' . $id . '; zip -Xq ' . $bookName . '.epub mimetype; zip -rgq ' . $bookName . '.epub META-INF; zip -rgq ' . $bookName . '.epub OEBPS/;');
+		$out .= exec('cp ' . $id . '/' . $bookName . '.epub ' . EPUB_FILES . '/.');
+		$out .= exec('cp ' . UNICODE_SRC . $id . '/images/cover.jpg ' . EPUB_FILES . '/' . $bookName . '_frontcover.jpg');
 		$out .= exec('rm -fr ' . $id);
 
 		return $out;
 	}
 
-	public function validateEPUBFile($id) {
+	public function validateEPUBFile($id,$isbn='') {
 
-		$status = exec('java -jar epubcheck-4.0.2/epubcheck.jar ' . EPUB_FILES . '/' . $id . '.epub', $output, $returnVar);
+		$bookName = ($isbn != '')? $isbn : $id;
+
+		$status = exec('java -jar epubcheck-4.0.2/epubcheck.jar ' . EPUB_FILES . '/' . $bookName . '.epub', $output, $returnVar);
 
 		return (($returnVar == 0) && (in_array('No errors or warnings detected.', $output)));
 	}
@@ -152,6 +157,12 @@ class epub {
         return $details;
 	}
 
+	public function getMarcRelators() {
+
+        $details = json_decode(file_get_contents(JSON_PRECAST . 'marc-relators.json'), true);
+        return $details;
+	}
+
 	public function printTocXhtml($id, $sectionHierarchy, $bookDetails, $pageNumbers) {
 
 		$template['bookTitle'] = (isset($bookDetails['books']{$id}['title'])) ? $bookDetails['books']{$id}['title'] : DEFAULT_TITLE;
@@ -206,7 +217,7 @@ class epub {
 
 	public function printTocNcx($id, $sectionHierarchy, $bookDetails) {
 
-		$template['bookIdentifier'] = (isset($bookDetails['books']{$id}['identifier'])) ? $bookDetails['books']{$id}['identifier'] : DEFAULT_TITLE;
+		$template['bookIdentifier'] = (isset($bookDetails['books']{$id}['isbn'])) ? $bookDetails['books']{$id}['isbn'] : DEFAULT_TITLE;
 		$template['bookTitle'] = (isset($bookDetails['books']{$id}['title'])) ? $bookDetails['books']{$id}['title'] : DEFAULT_TITLE;
 
 		$prevLevel = 0;
@@ -255,7 +266,9 @@ class epub {
 		
 		date_default_timezone_set('Asia/Kolkata');
 		$template['dateModified'] = date('Y-m-d') . 'T' . date('G:i:s') . 'Z';
-		
+	
+		if(isset($template['creators'])) $template['creators'] = $this->formCreatorMetadata($template['creators']);
+
 		$fileListing = '';
 		$spine = '';
 		foreach ($allFiles as $file) {
@@ -303,6 +316,30 @@ class epub {
 		$html = preg_replace('/.*\{\{.*\}\}.*\n/', '', $html);
 
 		return $html;
+	}
+
+	public function formCreatorMetadata($creators) {
+
+		$creators = array_merge($creators, ["bookDesigner" => "Sriranga Digital Software Technologies Private Limited"]);
+		$creatorString = '';
+
+	    $marcRelators = $this->getMarcRelators();
+
+		foreach ($creators as $type => $creator) {
+			
+			$names = explode(';', $creator);
+
+			$index = 1;
+			foreach ($names as $name) {
+
+				$creatorString .= '
+		<dc:creator id="' . $type . $index . '">' . $name . '</dc:creator>
+		<meta refines="#' . $type . $index . '" property="role" scheme="marc:relators">' . $marcRelators['marcRelators']{$type} . '</meta>    
+				';
+				$index++;
+			}
+		}
+		return $creatorString;
 	}
 }
 

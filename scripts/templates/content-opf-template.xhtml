@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="uid">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:title>{{ title }}</dc:title>
 		<dc:language>{{ language }}</dc:language>
-		<dc:identifier id="uid">{{ identifier }}</dc:identifier>
-		<dc:subject>{{ subject }}</dc:subject>
-		<dc:description>{{ description }}</dc:description>            
-		<dc:creator>{{ creator }}</dc:creator>      
+		<dc:identifier id="isbn">urn:isbn:{{ isbn }}</dc:identifier>
+		<dc:subject>{{ category }}</dc:subject>
+		<dc:description>{{ description }}</dc:description>
+		{{ creators }}
 		<dc:publisher>{{ publisher }}</dc:publisher>
 		<dc:date>{{ datePublished }}</dc:date>
+		<dc:rights>{{ copyright }}</dc:rights>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual,visual</meta>		
