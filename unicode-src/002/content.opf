@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="uid">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>श्रीरामकृष्ण वचनामृत - खण्ड - 1</dc:title>
+		<dc:language>hi</dc:language>
+		<dc:identifier id="uid">Nagpur_eBooks/H001</dc:identifier>
+		<dc:description>भगवान् श्रीरामकृष्ण परमहंसदेव का जीवन नितान्त आध्यात्मिक था। ईश्वरीय भाव उनके लिए ऐसा ही स्वाभाविक था जैसा किसी प्राणी के लिए श्वास लेना। उनके जीवन का प्रत्येक क्षण मनुष्य-मात्र के लिए आदेशप्रद कहा जा सकता है तथा उनके उपदेश विशेष रूप से अध्यात्म-गर्भित हैं और सार्वलौकिक होते हुए मानव-जीवन पर अपना प्रभाव डालने में अद्वितीय हैं।</dc:description>            
+		<dc:publisher>Ramakrishna Math, Nagpur</dc:publisher>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2018-06-18T18:57:39Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-Preface1_xhtml" href="000c-Preface1.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-Preface2_xhtml" href="000c-Preface2.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-Preface3_xhtml" href="000c-Preface3.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction1_xhtml" href="000d-Introduction1.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction2_xhtml" href="000d-Introduction2.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction3_xhtml" href="000d-Introduction3.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction4_xhtml" href="000d-Introduction4.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction5_xhtml" href="000d-Introduction5.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000d-Introduction6_xhtml" href="000d-Introduction6.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-002-chapter002_xhtml" href="002-chapter002.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-003-chapter003_xhtml" href="003-chapter003.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-004-chapter004_xhtml" href="004-chapter004.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-005-chapter005_xhtml" href="005-chapter005.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-006-chapter006_xhtml" href="006-chapter006.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-007-chapter007_xhtml" href="007-chapter007.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-008-chapter008_xhtml" href="008-chapter008.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-009-chapter009_xhtml" href="009-chapter009.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-010-chapter010_xhtml" href="010-chapter010.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-011-chapter011_xhtml" href="011-chapter011.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-012-chapter012_xhtml" href="012-chapter012.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_NUDIUNI01K_ttf" href="css/NUDIUNI01K.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-000c-Preface1_xhtml" linear="yes" />
+		<itemref idref="id-000c-Preface2_xhtml" linear="yes" />
+		<itemref idref="id-000c-Preface3_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction1_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction2_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction3_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction4_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction5_xhtml" linear="yes" />
+		<itemref idref="id-000d-Introduction6_xhtml" linear="yes" />
+		<itemref idref="id-001-chapter001_xhtml" linear="yes" />
+		<itemref idref="id-002-chapter002_xhtml" linear="yes" />
+		<itemref idref="id-003-chapter003_xhtml" linear="yes" />
+		<itemref idref="id-004-chapter004_xhtml" linear="yes" />
+		<itemref idref="id-005-chapter005_xhtml" linear="yes" />
+		<itemref idref="id-006-chapter006_xhtml" linear="yes" />
+		<itemref idref="id-007-chapter007_xhtml" linear="yes" />
+		<itemref idref="id-008-chapter008_xhtml" linear="yes" />
+		<itemref idref="id-009-chapter009_xhtml" linear="yes" />
+		<itemref idref="id-010-chapter010_xhtml" linear="yes" />
+		<itemref idref="id-011-chapter011_xhtml" linear="yes" />
+		<itemref idref="id-012-chapter012_xhtml" linear="yes" />
+
+	</spine>
+</package>
