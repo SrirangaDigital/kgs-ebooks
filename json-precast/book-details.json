@@ -11,7 +11,6 @@
             "description": ""
         },
         "029": {
-            {
             "language": "kn",
             "identifier": "kgs_eBooks/029",
             "isbn": "",
@@ -26,6 +25,16 @@
             "identifier": "kgs_eBooks/016",
             "isbn": "",
             "title": "ಶಾಂತಿಮಂತ್ರಗಳು",
+            "category": "",
+            "publisher": "",
+            "pages": "52",
+            "description": ""
+        },
+        "091": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/091",
+            "isbn": "",
+            "title": "ಮಾತೃದೇವೋ ಭವ",
             "category": "",
             "publisher": "",
             "pages": "52",

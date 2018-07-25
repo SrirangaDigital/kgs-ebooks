@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content=""/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಮಾತೃದೇವೋ ಭವ</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a.1"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ನಮೋ ನಮಃ ಸದ್ಗುರುಪಾದುಕಾಭ್ಯಾಮ್</text></navLabel><content src="000c-preface.xhtml#id-000c.01"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಮಾತೃದೇವೋ ಭವ</text></navLabel><content src="000c-preface.xhtml#id-000c.02"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>1. ಸನಾತನ ಹಿಂದೂ ಸಂಸ್ಕೃತಿ</text></navLabel><content src="001-chapter-001.xhtml#id-1"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>2. ‘ಮಾತೃದೇವೋ ಭವ’ ಎಂದು ಶ್ರುತಿಯ ಆದೇಶ</text></navLabel><content src="001-chapter-001.xhtml#id-2"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>3. ಮಾತಾ ಪೂರ್ವರೂಪಮ್</text></navLabel><content src="001-chapter-001.xhtml#id-3"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>4. ಶ್ರೀಶಂಕರಾಚಾರ್ಯಕೃತಂ “ಮಾತೃಪಂಚಕಮ್”</text></navLabel><content src="001-chapter-001.xhtml#id-4"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>5. ನಮಸ್ಕಾರವೊಂದೇ ನಿಷ್ಕೃತಿ</text></navLabel><content src="001-chapter-001.xhtml#id-5"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>6. ತಾಯಿಯ ಪುತ್ರವಾತ್ಸಲ್ಯ</text></navLabel><content src="001-chapter-001.xhtml#id-6"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>7. ತಾಯಿಗೆ ಮಗನ ಕರ್ತವ್ಯ</text></navLabel><content src="001-chapter-001.xhtml#id-7"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>8. ಅಮ್ಮನ ಅಕ್ಕರೆಯ ಮಾತುಗಳಿವು!</text></navLabel><content src="001-chapter-001.xhtml#id-8"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>9. ಅಮ್ಮನಿಗೆ ಕೃತಜ್ಞತೆಯ ಅಂಜಲಿ</text></navLabel><content src="001-chapter-001.xhtml#id-9"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>10. ದೇವಕೃತ ದೇವೀ ಸ್ತೋತ್ರಮ್</text></navLabel><content src="001-chapter-001.xhtml#id-10"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>11. ಗಣೇಶನ ಮಾತೃಭಕ್ತಿ</text></navLabel><content src="001-chapter-001.xhtml#id-11"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>12. ವಾಚಕರಿಗೆ ಕಿವಿಮಾತು</text></navLabel><content src="001-chapter-001.xhtml#id-12"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>13.  ಶಕ್ತಿದೇವತಾ ಪಾರಾಯಣಗ್ರಂಥಗಳು</text></navLabel><content src="001-chapter-001.xhtml#id-13"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>14.  ಹತ್ತೂ ಮಕ್ಕಳಿಗೆ ಒಬ್ಬಳೇ ತಾಯಿ</text></navLabel><content src="001-chapter-001.xhtml#id-14"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>15.  ಸ್ತ್ರೀಯರು ಅಬಲೆಯರಲ್ಲ</text></navLabel><content src="001-chapter-001.xhtml#id-15"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>16.  ಪತ್ನಿಯರೇ ಪುರುಷರಿಗೆ ಭೂಷಣ</text></navLabel><content src="001-chapter-001.xhtml#id-16"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>17.  ವಂದೇಽಹಂ ಮಾತರಂ ಮುದಾ</text></navLabel><content src="001-chapter-001.xhtml#id-17"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>18.  ಶಕ್ತಿಸ್ವರೂಪಿಣಿಯಾಗಿ ಅಮ್ಮಾ</text></navLabel><content src="001-chapter-001.xhtml#id-18"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>19.  ಭಾರತಮಾತಾ</text></navLabel><content src="001-chapter-001.xhtml#id-19"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>20.  ಹೆಣ್ಣಿನ ಅನಂತನಾಮರೂಪಗಳು</text></navLabel><content src="001-chapter-001.xhtml#id-20"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>21.  ಶ್ರೀರಮಣರ ಮಾತೃಭಕ್ತಿ</text></navLabel><content src="001-chapter-001.xhtml#id-21"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>22.  ನಿತ್ಯಂ ಪಾದಾಭಿವಂದನಾತ್</text></navLabel><content src="001-chapter-001.xhtml#id-22"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>23.  ಪುರುಷನ ಜೀವನವೆಲ್ಲಾ ಸ್ತ್ರೀಜೊತೆಯಲ್ಲಿಯೇ</text></navLabel><content src="001-chapter-001.xhtml#id-23"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>24.  ನ ಮಾತುಃ ಪರದೈವತಮ್</text></navLabel><content src="001-chapter-001.xhtml#id-24"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>25.  ನರನು ಹೆಣ್ಣಿನಿಂದಲೇ ಗೃಹಸ್ಥನಾಗುತ್ತಾನೆ</text></navLabel><content src="001-chapter-001.xhtml#id-25"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>26.  ಯತಿಗಳಿಗೂ ತಾಯಿಯು ವಂದ್ಯಳೇ!</text></navLabel><content src="001-chapter-001.xhtml#id-26"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>27.  ಅತ್ಯಾಚಾರಿಗೆ ನಾರಿಯು ಬೆಂಕಿಯಂತೆ</text></navLabel><content src="001-chapter-001.xhtml#id-27"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>28.  ಪತ್ನಿಯು ಗಂಡನಿಗೆ ಸರ್ವವಿಧದಲ್ಲೂ ಸಂಪತ್ತು</text></navLabel><content src="001-chapter-001.xhtml#id-28"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>29.  ಮಾತೃದೇವೋ ಭವ</text></navLabel><content src="001-chapter-001.xhtml#id-29"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>30.  ಶ್ರೀಶಂಕರರ ಮಾತೃಭಕ್ತಿ</text></navLabel><content src="001-chapter-001.xhtml#id-30"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>31.  ಮಾತೃವತ್ ಪರದಾರೇಷು</text></navLabel><content src="001-chapter-001.xhtml#id-31"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>32.  ಮಾತೃರೂಪೇಣ ಸಂಸ್ಥಿತಾ</text></navLabel><content src="001-chapter-001.xhtml#id-32"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>33.  ಪಾರ್ವತೀಪರಮೇಶ್ವರೌ ವಂದೇ</text></navLabel><content src="001-chapter-001.xhtml#id-33"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>34.  ಮಹರ್ಷಿಗಳೆಲ್ಲರೂ ಗೃಹಸ್ಥರೇ</text></navLabel><content src="001-chapter-001.xhtml#id-34"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>35.  ಭವಾನಿಯ ಕೈಹಿಡಿದು ಮೆರೆದ ಭವ!</text></navLabel><content src="001-chapter-001.xhtml#id-35"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>36.  ಗೃಹಿಣೀ ಗೃಹಮುಚ್ಯತೇ</text></navLabel><content src="001-chapter-001.xhtml#id-36"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>37.  ಶಕ್ತಿಯಿಂದಲೇ ಶಿವ</text></navLabel><content src="001-chapter-001.xhtml#id-37"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>38.  ಮೊದಲು ‘ದಂ’; ಆಮೇಲೆ ‘ಪತಿ’</text></navLabel><content src="001-chapter-001.xhtml#id-38"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>39.  ಪ್ರೀತಿಯ ಅಮ್ಮಾ</text></navLabel><content src="001-chapter-001.xhtml#id-39"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>40.  ಸ್ತ್ರೀಸಂನಿಧಿಯಲ್ಲಿ ಸಕಲ ಸೌಭಾಗ್ಯಗಳೂ!</text></navLabel><content src="001-chapter-001.xhtml#id-40"/>
+</navPoint>
+   </navMap>
+</ncx>
