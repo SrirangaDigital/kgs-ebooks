@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content=""/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಮಕ್ಕಳಿಗಾಗಿ ಸ್ತೋತ್ರಗಳು</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a.1"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>ನಮೋ ನಮಃ ಸದ್ಗುರುಪಾದುಕಾಭ್ಯಾಮ್</text></navLabel><content src="000b-preface.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಮಕ್ಕಳಿಗಾಗಿ ಸ್ತೋತ್ರಗಳು</text></navLabel><content src="000b-preface.xhtml#id-000b.2"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>1. ಗಣಪತಿ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>2.  ಸರಸ್ವತೀ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>3.  ಶ್ರೀಶಂಕರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>4. ಅಶ್ವತ್ಥವೃಕ್ಷ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>5. ಮೃತ್ಯುಂಜಯ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>6. ನಾರಾಯಣೀ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>7. ಸೂರ್ಯನಾರಾಯಣ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-7"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>8.  ಶ್ರೀರಾಮಚಂದ್ರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-8"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>9. ಆಂಜನೇಯ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-9"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>10. ವೇಂಕಟೇಶ್ವರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-10"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>11. ಅನ್ನಪೂರ್ಣಾ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-11"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>12. ಪೃಥಿವೀ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-12"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>13. ಲಕ್ಷ್ಮೀನರಸಿಂಹ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-13"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>14. ಪಂಚಪಾಂಡವ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-14"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>15. ಪಾರ್ವತೀಪರಮೇಶ್ವರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-15"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>16. ಮಹಾಲಕ್ಷ್ಮೀ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-16"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>17. ಶ್ರೀದತ್ತರಾಜ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-17"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>18. ದಶಾವತಾರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-18"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>19. ಪಂಚಧೀರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-19"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>20. ಭೂಮಿಕ್ಷಮಾಪಣ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-20"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>21. ಸಂಧ್ಯಾದೀಪ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-21"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>22.  ಶ್ರೀರಾಘವೇಂದ್ರಸ್ವಾಮಿ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-22"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>23. ಯಜ್ಞೇಶ್ವರ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-23"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>24. ಕಾರ್ತವೀರ್ಯಾಜುರ್ನ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-24"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>25.  ಶ್ರೀಮನ್ಮಧ್ವಾಚಾರ್ಯ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-25"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>26. ಧನ್ವಂತರಿ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-26"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>27. ಪಂಚಪತಿವ್ರತಾ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-27"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>28. ತುಳಸೀ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-28"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>29. ಮಹಾನದೀ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-29"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>30. ಸತ್ಯನಾರಾಯಣ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-30"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>31. ಬಾದರಾಯಣಾಚಾರ್ಯ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-31"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>32. ಸಪ್ತರ್ಷಿ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-32"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>33. ಮಹಾವಿಷ್ಣು ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-33"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>34. ಗರುಡ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-34"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>35.  ಸಪ್ತಚಿರಂಜೀವಿ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-35"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>36. ನವಗ್ರಹ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-36"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>37.  ಶ್ರೀಕೃಷ್ಣ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-37"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>38. ಸದ್ಗುರು ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-38"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>39. ವೇದವ್ಯಾಸ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-39"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>40. ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-40"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>41. ಮಾರ್ಕಂಡೇಯ ಸ್ತೋತ್ರಂ</text></navLabel><content src="001-chapter001.xhtml#id-41"/>
+</navPoint>
+   </navMap>
+</ncx>

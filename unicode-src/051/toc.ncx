@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content=""/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಆನಂದಗ್ರಂಥಮಾಲಾ–ಕುಸುಮ ೫೧</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>108  “ಅಷ್ಟಕ”ಸ್ತೋತ್ರಗಳು</text></navLabel><content src="000c-Preface.xhtml#id-000c"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>೧. –  ಗಣೇಶಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>೨. –  ಪರಬ್ರಹ್ಮಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>೩. –  ನಾರಾಯಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>೪. –  ಹಿರಣ್ಯಗರ್ಭಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>೫. –  ಶ್ರೀರಾಮಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>೬. –  ವಸಿಷ್ಠಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>೭. –  ಸೂರ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-7"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>೮. –  ಶ್ರೀಕೃಷ್ಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-8"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>೯. –  ಶುಕಾಚಾರ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-9"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>೧೦. –  ಗೌಡಪಾದಾಚಾರ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-10"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>೧೧. –  ಗೋವಿಂದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-11"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>೧೨. –  ಸದ್ಗುರ್ವಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-12"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>೧೩. –  ಗೀತಾಚಾರ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-13"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>೧೪. –  ಶ್ರೀಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-14"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>೧೫. –  ವೇದನಾರಾಯಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-15"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>೧೬. –  ಗೀತಾಂಬಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-16"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>೧೭. –  ಶ್ರೀಶಂಕರಸದ್ಗುರ್ವಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-17"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>೧೮. –  ಸುಬ್ರಹ್ಮಣ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-18"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>೧೯. –  ಸೀತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-19"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>೨೦. –  ದತ್ತಾತ್ರೇಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-20"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>೨೧. –  ಮಹಾಲಕ್ಷ್ಮೀ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-21"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>೨೨. –  ಸುರೇಶ್ವರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-22"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೨೩. –  ಆಂಜನೇಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-23"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>೨೪. –  ರಾಮಕೃಷ್ಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-24"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>೨೫. –  ವಿವೇಕಾನಂದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-25"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>೨೬. –  ಸಚ್ಚಿದಾನಂದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-26"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>೨೭. –  ಕಾಂಚೀಶ್ರೀಪರಮಾಚಾರ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-27"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>೨೮. –  ವೇದವ್ಯಾಸಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-28"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>೨೯. –  ಲಕ್ಷ್ಮೀನೃಸಿಂಹಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-29"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>೩೦. –  ಚಂದ್ರಶೇಖರಭಾರತ್ಯಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-30"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>೩೧. –  ಶ್ರೀರಮಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-31"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>೩೨. –  ವೇದಾಂತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-32"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>೩೩. –  ಬ್ರಹ್ಮಚೈತನ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-33"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>೩೪. –  ದಕ್ಷಿಣಾಮೂರ್ತ್ಯಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-34"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>೩೫. –  ಅವಧೂತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-35"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>೩೬. –  ಶ್ರೀಧರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-36"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>೩೭. –  ಭಾರತೀತೀರ್ಥಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-37"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>೩೮. –  ಶಾರದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-38"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>೩೯. –  ಶ್ರೀಗೌರೀ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-39"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>೪೦. –  ಅಭಿನವವಿದ್ಯಾತೀರ್ಥಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-40"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>೪೧. –  ಜೀವನ್ಮುಕ್ತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-41"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>೪೨. –  ವೇಂಕಟೇಶಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-42"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>೪೩. –  ಅದ್ವಯಾನಂದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-43"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>೪೪. –  ಕನ್ನಡಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-44"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>೪೫. –  ಶಿವಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-45"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>೪೬. –  ನಾರದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-46"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>೪೭. –  ಸಪ್ತರ್ಷಿ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-47"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>೪೮. –  ಚಿರಂಜೀವಿ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-48"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>೪೯. –  ಸದಾಶಿವಬ್ರಹ್ಮೇಂದ್ರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-49"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>೫೦. –  ಬ್ರಹ್ಮನಿಷ್ಠಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-50"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>೫೧. –  ಪ್ರಹ್ಲಾದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-51"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>೫೨. –  ರಾಮಾಯಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-52"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>೫೩. –  ಪಾಂಡವಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-53"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>೫೪. –  ಪಾರ್ವತ್ಯಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-54"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>೫೫. –  ಮಂಜುನಾಥಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-55"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>೫೬. –  ರಾಘವೇಂದ್ರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-56"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>೫೭. –  ವರಸಿದ್ಧಿವಿನಾಯಕಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-57"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>೫೮. –  ಮೃತ್ಯುಂಜಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-58"/>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>೫೯. –  ವಿಶ್ವನಾಥಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-59"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>೬೦. –  ಅಶ್ವತ್ಥಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-60"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>೬೧. –  ಬ್ರಹ್ಮವಿದ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-61"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>೬೨. –  ಶ್ರೀಪ್ರಣವಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-62"/>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>೬೩. –  ಅಹಲ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-63"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>೬೪. –  ಋಷ್ಯಶೃಂಗಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-64"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>೬೫. –  ದೇವೇಂದ್ರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-65"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>೬೬. –  ಯಮರಾಜಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-66"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>೬೭. –  ಶನೈಶ್ಚರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-67"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>೬೮. –  ಶಬರೀಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-68"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>೬೯. –  ಚಂದ್ರಶೇಖರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-69"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>೭೦. –  ಬನಶಂಕರೀ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-70"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>೭೧. –  ವಿಶ್ವಾಮಿತ್ರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-71"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>೭೨. –  ಚೆನ್ನಕೇಶವಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-72"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>೭೩. –  ದ್ರೌಪದೀ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-73"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>೭೪. –  ಮಹಾಭಾರತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-74"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>೭೫. –  ಬಾದರಾಯಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-75"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>೭೬. –  ಪುರಾಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-76"/>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>೭೭. –  ನಂಜುಂಡೇಶ್ವರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-77"/>
+</navPoint>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>೭೮. –  ಮಹತೋಭಾರಮಹಾಲಿಂಗೇಶ್ವರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-78"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>೭೯. –  ನಟರಾಜಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-79"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>೮೦. –  ಸತ್ಯನಾರಾಯಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-80"/>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>೮೧. –  ಅದ್ಭುತಸಚ್ಚಿದಾನಂದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-81"/>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>೮೨. –  ವಿಭೂತಿಶ್ರೀಕೃಷ್ಣಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-82"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>೮೩. –  ವಿಶ್ವರೂಪಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-83"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>೮೪. –  ಭಗವದ್ಗೀತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-84"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>೮೫. –  ಭಕ್ತಾರ್ಜುನಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-85"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>೮೬. –  ದಕ್ಷಿಣಾಮೂರ್ತಿ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-86"/>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>೮೭. –  ಆತ್ಮಜ್ಞಾನಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-87"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>೮೮. –  ರಮಣಮಂಗಳಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-88"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>೮೯. –  ಅಧ್ಯಾರೋಪಾಪವಾದಪ್ರಕ್ರಿಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-89"/>
+</navPoint>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>೯೦. –  Ph.D.ಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-90"/>
+</navPoint>
+<navPoint id="navPoint-94" playOrder="94">
+<navLabel><text>೯೧. –  ಗೌಡಪಾದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-91"/>
+</navPoint>
+<navPoint id="navPoint-95" playOrder="95">
+<navLabel><text>೯೨. –  ಶ್ರೀಮದ್ಭಾಗವತಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-92"/>
+</navPoint>
+<navPoint id="navPoint-96" playOrder="96">
+<navLabel><text>೯೩. –  ಈಶಾದಿವೇದಾಂತಸ್ತೋತ್ರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-93"/>
+</navPoint>
+<navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>೯೪. –  ಸನಾತನಧರ್ಮಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-94"/>
+</navPoint>
+<navPoint id="navPoint-98" playOrder="98">
+<navLabel><text>೯೫. –  ಸನಾತನವೇದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-95"/>
+</navPoint>
+<navPoint id="navPoint-99" playOrder="99">
+<navLabel><text>೯೬. –  ನಿರಂಜನಬ್ರಹ್ಮಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-96"/>
+</navPoint>
+<navPoint id="navPoint-100" playOrder="100">
+<navLabel><text>೯೭. –  ಗೀತಾಕಲ್ಪತರು ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-97"/>
+</navPoint>
+<navPoint id="navPoint-101" playOrder="101">
+<navLabel><text>೯೮. –  ಮಹರ್ಷಿ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-98"/>
+</navPoint>
+<navPoint id="navPoint-102" playOrder="102">
+<navLabel><text>೯೯. –  ಔಪನಿಷದಪುರುಷಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-99"/>
+</navPoint>
+<navPoint id="navPoint-103" playOrder="103">
+<navLabel><text>೧೦೦. –  ತೈತ್ತಿರೀಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-100"/>
+</navPoint>
+<navPoint id="navPoint-104" playOrder="104">
+<navLabel><text>೧೦೧. –  ಆಂಜನೇಯ ಮಂಗಳಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-101"/>
+</navPoint>
+<navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>೧೦೨. –  ಹನೂಮತ್ ದ್ವಾದಶನಾಮಸ್ತೋತ್ರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-102"/>
+</navPoint>
+<navPoint id="navPoint-106" playOrder="106">
+<navLabel><text>೧೦೩. –  ರಾಮಾಂಜನೇಯಸದ್ಭಕ್ತಬ್ರಹ್ಮಚೈತನ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-103"/>
+</navPoint>
+<navPoint id="navPoint-107" playOrder="107">
+<navLabel><text>೧೦೪. –  ರಾಮಾಂಜನೇಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-104"/>
+</navPoint>
+<navPoint id="navPoint-108" playOrder="108">
+<navLabel><text>೧೦೫. –  ತತ್ತ್ವಮಸ್ಯಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-105"/>
+</navPoint>
+<navPoint id="navPoint-109" playOrder="109">
+<navLabel><text>೧೦೬. –  ಶ್ರೀರಾಮ – ಆಂಜನೇಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-106"/>
+</navPoint>
+<navPoint id="navPoint-110" playOrder="110">
+<navLabel><text>೧೦೭. –  ಮಾರ್ಕಂಡೇಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-107"/>
+</navPoint>
+<navPoint id="navPoint-111" playOrder="111">
+<navLabel><text>೧೦೮. –  ಶ್ರೀಗಂಗಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-108"/>
+</navPoint>
+   </navMap>
+</ncx>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:title>ಶಾಂತಿಮಂತ್ರಗಳು</dc:title>
+		<dc:title>ಭಗವಾನ್ ಶ್ರೀರಮಣ ಮಹರ್ಷಿಗಳವರ “ಸದ್ದರ್ಶನಮ್”</dc:title>
 		<dc:language>kn</dc:language>
 		<dc:identifier id="isbn">urn:isbn:</dc:identifier>
 		<meta property="schema:accessMode">textual</meta>
@@ -11,7 +11,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-07-25T17:34:19Z</meta>
+		<meta property="dcterms:modified">2018-07-25T17:43:34Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -19,6 +19,7 @@
 		<item id="id-001-chapter001_xhtml" href="001-chapter001.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-css_NUDIUNI01K_ttf" href="css/NUDIUNI01K.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:title>ಶಾಂತಿಮಂತ್ರಗಳು</dc:title>
+		<dc:title>ವಂದೇ ಶಂಕರಸದ್ಗುರುಮ್</dc:title>
 		<dc:language>kn</dc:language>
 		<dc:identifier id="isbn">urn:isbn:</dc:identifier>
 		<meta property="schema:accessMode">textual</meta>
@@ -11,7 +11,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-07-25T17:34:19Z</meta>
+		<meta property="dcterms:modified">2018-07-25T17:39:27Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />

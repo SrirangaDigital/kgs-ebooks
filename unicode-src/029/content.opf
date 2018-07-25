@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
 	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:title>आत्मानुभूति तथा उसके मार्ग</dc:title>
-		<dc:language>hi</dc:language>
-		<dc:identifier id="isbn">urn:isbn:9789387784109</dc:identifier>
-		<dc:description>‘आत्मानुभूति तथा उसके मार्ग’ एक ऐसी पुस्तक है जो मुख्यत: प्रयोग में लाने योग्य है। यह निश्चय है कि इसके पाठकगणों को इसके अमूल्य आदेशों से अत्यन्त लाभ होगा तथा अध्यात्मज्ञान के आकांक्षा-भक्तों के हेतु इसमें दिए हुए अमूल्य आदेश वास्तव में सफल पथ प्रदर्शक होंगे। मानुषिक जीवन का अन्तिम ध्येय यही है कि मनुष्य स्वयं की वास्तविकता को पहचाने। प्रयोग में लाने योग्य सांकेतिक उपायों का दिग्दर्शन करा कर श्री स्वामी विवेकानन्दजी ने सांसारिक जनता का बड़ा उपकार किया है। यह साधना के सांकेतिक उपाय हमारे लिए अन्तिम ध्येय प्राप्त करने के निमित्त वास्तव में बड़े उपयोगी होंगे।</dc:description>
-		
-		<dc:creator id="author1">Swami Vivekananda</dc:creator>
-		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
-				
-		<dc:creator id="translator1">Sri Madhusudan</dc:creator>
-		<meta refines="#translator1" property="role" scheme="marc:relators">trl</meta>    
-				
-		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
-		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
-				
-		<dc:publisher>Ramakrishna Math, Nagpur</dc:publisher>
+		<dc:title>ಬಾಲರಾಮಾಯಣಂ</dc:title>
+		<dc:language>kn</dc:language>
+		<dc:identifier id="isbn">urn:isbn:</dc:identifier>
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual,visual</meta>		
@@ -23,7 +11,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2018-06-20T12:00:13Z</meta>
+		<meta property="dcterms:modified">2018-07-25T17:34:31Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />

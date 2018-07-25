@@ -10,6 +10,16 @@
             "pages": "418",
             "description": ""
         },
+        "016": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/016",
+            "isbn": "",
+            "title": "ಶಾಂತಿಮಂತ್ರಗಳು",
+            "category": "",
+            "publisher": "",
+            "pages": "52",
+            "description": ""
+        },
         "029": {
             "language": "kn",
             "identifier": "kgs_eBooks/029",
@@ -20,11 +30,51 @@
             "pages": "52",
             "description": ""
         },
-        "016": {
+        "051": {
             "language": "kn",
-            "identifier": "kgs_eBooks/016",
+            "identifier": "kgs_eBooks/051",
             "isbn": "",
-            "title": "ಶಾಂತಿಮಂತ್ರಗಳು",
+            "title": "ಆನಂದಗ್ರಂಥಮಾಲಾ–ಕುಸುಮ ೫೧",
+            "category": "",
+            "publisher": "",
+            "pages": "52",
+            "description": ""
+        },
+        "064": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/064",
+            "isbn": "",
+            "title": "ವಂದೇ ಶಂಕರಸದ್ಗುರುಮ್",
+            "category": "",
+            "publisher": "",
+            "pages": "52",
+            "description": ""
+        },
+        "065": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/065",
+            "isbn": "",
+            "title": "ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಸಾರ",
+            "category": "",
+            "publisher": "",
+            "pages": "52",
+            "description": ""
+        },
+        "066": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/066",
+            "isbn": "",
+            "title": "ಭಗವಾನ್ ಶ್ರೀರಮಣ ಮಹರ್ಷಿಗಳವರ “ಸದ್ದರ್ಶನಮ್”",
+            "category": "",
+            "publisher": "",
+            "pages": "52",
+            "description": ""
+        },
+        "075": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/075",
+            "isbn": "",
+            "title": "ಮಕ್ಕಳಿಗಾಗಿ ಸ್ತೋತ್ರಗಳು",
             "category": "",
             "publisher": "",
             "pages": "52",
