@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content=""/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಉಪನಯನಂ</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>ನಮೋ ನಮಃ ಸದ್ಗುರುಪಾದುಕಾಭ್ಯಾಮ್</text></navLabel><content src="000b-preface.xhtml#id-000b.1"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಉಪನಯನವು ಅನ್ವರ್ಥವಾಗಲಿ</text></navLabel><content src="000b-preface.xhtml#id-000b.2"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>1. ಉಪನಯನಂ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>2. ಉಪನಯನ ಎಂದರೆ ಏನರ್ಥ?</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>3. ಇದು ಶ್ರೇಷ್ಠವಾದ ನಯನ</text></navLabel><content src="001-chapter001.xhtml#id-003"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>4. ಬ್ರಹ್ಮೋಪದೇಶ</text></navLabel><content src="001-chapter001.xhtml#id-004"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>5. ಉಪನಯನ ಸಂಸ್ಕಾರ</text></navLabel><content src="001-chapter001.xhtml#id-005"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>6. ಉಪನಯನವು ಎಷ್ಟನೇ ವಯಸ್ಸಿನಲ್ಲಿ?</text></navLabel><content src="001-chapter001.xhtml#id-006"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>7. ಸಂಸ್ಕಾರದಿಂದ ಫಲವೇನು?</text></navLabel><content src="001-chapter001.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>8. ಇದು ಮೊದಲನೆಯ ಹೆಜ್ಜೆ</text></navLabel><content src="001-chapter001.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>9. ಹದಿನಾರು ಸಂಸ್ಕಾರಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-009"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>10. ಬ್ರಹ್ಮಚರ್ಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-010"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>11. ಉಪನಯನವು CET ಇದ್ದಂತೆ</text></navLabel><content src="001-chapter001.xhtml#id-011"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>12. ಸಂಧ್ಯೋಪಾಸನಂ</text></navLabel><content src="001-chapter001.xhtml#id-012"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>13. ಬ್ರಹ್ಮಚಾರಿಗೆ ಇಪ್ಪತ್ತು ಹಿತೋಪದೇಶಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-013"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>14.  ಗಾಯತ್ರೀಮಂತ್ರ</text></navLabel><content src="001-chapter001.xhtml#id-014"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>15.  ಗಾಯತ್ರೀಮಂತ್ರದ ಅರ್ಥ</text></navLabel><content src="001-chapter001.xhtml#id-015"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>16.  ಅಕ್ಷರಲಕ್ಷ ಜಪಾನುಷ್ಠಾನ</text></navLabel><content src="001-chapter001.xhtml#id-016"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>17.  ಬ್ರಾಹ್ಮಣರ ಮಹಾಸೌಭಾಗ್ಯ!</text></navLabel><content src="001-chapter001.xhtml#id-017"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>18.  ವಿಪ್ರವೃಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-018"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>19.  “ಶರ್ಮಾ” ಎಂದರೇನು?</text></navLabel><content src="001-chapter001.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>20.  ಸಂಧ್ಯಾದೇವ್ಯಷ್ಟಕಂ</text></navLabel><content src="001-chapter001.xhtml#id-020"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>21.  ರಾಜರ್ಷಿಯು ಬ್ರಹ್ಮರ್ಷಿಯಾದ!</text></navLabel><content src="001-chapter001.xhtml#id-021"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>22.  ಯಜ್ಞೋಪವೀತದ ರಹಸ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-022"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>23.  ಬ್ರಹ್ಮಚರ್ಯವ್ರತ</text></navLabel><content src="001-chapter001.xhtml#id-023"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>24.  ಅಗ್ನಿಕಾರ್ಯಂ</text></navLabel><content src="001-chapter001.xhtml#id-024"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>25.  ಸದ್ಬುದ್ಧಿಯನ್ನು ನಮಗೆ ಕೊಡು</text></navLabel><content src="001-chapter001.xhtml#id-025"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>26.  ಉಪನಯನವೂ ಉಪಾಕರ್ಮವೂ</text></navLabel><content src="001-chapter001.xhtml#id-026"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>27.  ಬ್ರಹ್ಮಚರ್ಯ, ಅಬ್ಬಾ ಅದ್ಭುತಸಾಧನೆ!</text></navLabel><content src="001-chapter001.xhtml#id-027"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>28.  ವೇದಮಂತ್ರೋಚ್ಚಾರಣಂ</text></navLabel><content src="001-chapter001.xhtml#id-028"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>29.  ಸೂರ್ಯನು ತ್ರಯೀಮಯನು</text></navLabel><content src="001-chapter001.xhtml#id-029"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>30.  ವಿಶ್ವಾಮಿತ್ರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-030"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>31.  ಅಧ್ಯಯನಮಾಡಲೇಬೇಕಾದ ಮಂತ್ರಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-031"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>32.  ಸೂರ್ಯನ ಹತ್ತು ಮಹಿಮೆಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-032"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>33.  ವೇದಗಳ ಇಪ್ಪತ್ತು ಮಹತ್ತ್ವಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-033"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>34.  ಆರೋಗ್ಯಂ ಭಾಸ್ಕರಾದ್ ಇಚ್ಛೇತ್</text></navLabel><content src="001-chapter001.xhtml#id-034"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>35.  ದ್ವಾದಶನಾಮಕನಾದ ಸೂರ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-035"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>36.  ಸವಿತೃದೇವನ ಕೆಲವು ಸ್ವರೂಪಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-036"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>37.  ಇದು, ಸಪ್ತಕೋಟಿಮಂತ್ರರಾಜ!</text></navLabel><content src="001-chapter001.xhtml#id-037"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>38.  ಸವಿತ್ರಷ್ಟಕಂ</text></navLabel><content src="001-chapter001.xhtml#id-038"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>39.  ಗಾಯತ್ರೀಮಂತ್ರದ ಹತ್ತು ಮಹತ್ತ್ವಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-039"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>40.  ಬ್ರಾಹ್ಮಣ್ಯದ ಮಹತ್ತ್ವ</text></navLabel><content src="001-chapter001.xhtml#id-040"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>41.  ಬ್ರಹ್ಮಚರ್ಯವ್ರತದ ಧೀಮಂತರು!</text></navLabel><content src="001-chapter001.xhtml#id-041"/>
+</navPoint>
+   </navMap>
+</ncx>

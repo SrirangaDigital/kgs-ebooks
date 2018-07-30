@@ -94,6 +94,23 @@ section p.shanti{
 .hide {
 	display: none;
 }
+.maintext ol,
+.maintext ul {
+	padding-left: 1.75em;
+}
+.maintext span.quote-author,
+.maintext p.quote-author,
+.maintext span.verse-num,
+.maintext p.verse-num,
+.maintext span.verse-author,
+.maintext p.verse-author {
+	display: block;
+	text-align: right;
+	page-break-before: avoid;
+}
+.maintext .myquote, .maintext .verse {
+	margin: 0.5em 0 0.5em 1.5em;
+}
 /*
 .maintext section {
 	margin-bottom: 2em;
