@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+
+   <head>
+      <meta name="dtb:uid" content=""/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+
+   <docTitle>
+      <text>ಗೀತಾ ಸಂವತ್ಸರ</text>
+   </docTitle>
+
+   <navMap>
+		
+<navPoint id="navPoint-1" playOrder="1">
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a.01"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b.01"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+<navLabel><text>ಪ್ರಕಾಶಕರ ಬಿನ್ನಪ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.01"/>
+</navPoint>
+<navPoint id="navPoint-4" playOrder="4">
+<navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.02"/>
+</navPoint>
+<navPoint id="navPoint-5" playOrder="5">
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.03"/>
+</navPoint>
+<navPoint id="navPoint-6" playOrder="6">
+<navLabel><text>ಶ್ರೀಶರ್ಮರ ಮಹತ್ ಸಾಧನೆ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.04"/>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel><text>ಲೇಖಕನ ವಿನಮ್ರ ನಿವೇದನೆ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.05"/>
+</navPoint>
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel><text>ಸುಬ್ರಾಯಶರ್ಮರ ಸಾತ್ತ್ವಿಕ ಸಾಹಸಚತುಷ್ಟಯ!</text></navLabel><content src="000c-Preface1.xhtml#id-000c.06"/>
+</navPoint>
+<navPoint id="navPoint-9" playOrder="9">
+<navLabel><text>ಪೀಠಿಕೆ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.07"/>
+</navPoint>
+<navPoint id="navPoint-10" playOrder="10">
+<navLabel><text>ಲೇಖಕನ ನಲ್ನುಡಿ ದ್ವಿತೀಯ ಮುದ್ರಣಕ್ಕೆ </text></navLabel><content src="000c-Preface1.xhtml#id-000c.08"/>
+</navPoint>
+<navPoint id="navPoint-11" playOrder="11">
+<navLabel><text>ಭಾನುವಾರ೧. – ಆದಿತ್ಯನ ತೇಜಸ್ಸು ಆತ್ಮನದೇ</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.01"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>ಸೋಮವಾರ೨. – ಚಂದ್ರನ ಕಾಂತಿಯೂ ಆತ್ಮನೇ</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.02"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>ಮಂಗಳವಾರ ೩. –  ಆತ್ಮಜ್ಞಾನವೇ ಮಂಗಳ</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.03"/>
+</navPoint>
+<navPoint id="navPoint-14" playOrder="14">
+<navLabel><text>ಬುಧವಾರ೪. –  ವಿವೇಕಿಯಾಗಬೇಕು</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.04"/>
+</navPoint>
+<navPoint id="navPoint-15" playOrder="15">
+<navLabel><text>ಗುರುವಾರ೫. –  ಗುರುಸೇವಾಫಲವಿದು</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.05"/>
+</navPoint>
+<navPoint id="navPoint-16" playOrder="16">
+<navLabel><text>ಶುಕ್ರವಾರ೬. –  ಗುರುಸ್ಮರಣೆ</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.06"/>
+</navPoint>
+<navPoint id="navPoint-17" playOrder="17">
+<navLabel><text>ಶನಿವಾರ೭. –  ಜ್ಞಾನದಿಂದ ಮುಕ್ತ</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01.07"/>
+</navPoint>
+<navPoint id="navPoint-18" playOrder="18">
+<navLabel><text>Sri Sharma, the Blessed Disciple</text></navLabel><content src="000d-Introduction2.xhtml#id-000d.02.01"/>
+</navPoint>
+<navPoint id="navPoint-19" playOrder="19">
+<navLabel><text>Sri Sharmaji and Pujya Swamiji</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.01"/>
+</navPoint>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>೧ . ಚೈತ್ರಮಾಸಶ್ರೀರಾಮನಂತೆ ಬಾಳೋಣ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.01"/>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel><text>೨ . ವೈಶಾಖಮಾಸತಪಸ್ಸಿನ ಆರು ಮುಖಗಳು</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.02"/>
+</navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>೩ . ಜ್ಯೇಷ್ಠಮಾಸಶ್ರೇಷ್ಠಸಾಧಕನ ಲಕ್ಷಣ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.03"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>೪ . ಆಷಾಢಮಾಸಸಂನ್ಯಾಸಿಯ ಏಳು ವ್ರತಗಳು</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.04"/>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
+<navLabel><text>೫ . ಶ್ರಾವಣಮಾಸಶ್ರವಣದಿಂದಲೇ ಮುಕ್ತಿಯು</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.05"/>
+</navPoint>
+<navPoint id="navPoint-25" playOrder="25">
+<navLabel><text>೬ . ಭಾದ್ರಪದಮಾಸಭಕ್ತಿಯಿಂದ ಮುಕ್ತಿ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.06"/>
+</navPoint>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೭ . ಆಶ್ವಯುಜಮಾಸಸ್ತ್ರೀಯರ ವಿಭೂತಿಗಳಿವು</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.07"/>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel><text>೮ . ಕಾರ್ತಿಕ ಮಾಸಭಗವಂತನೇ ಕಾಮಧೇನು</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.08"/>
+</navPoint>
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel><text>೯ . ಮಾರ್ಗಶೀರ್ಷಮಾಸಮಾರ್ಗಶಿರಮಾಸದ ಮಹತ್ತ್ವ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.09"/>
+</navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>೧೦ . ಪುಷ್ಯಮಾಸಒಳಕ್ಕೆ ಸರಿಯಬೇಕು</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.10"/>
+</navPoint>
+<navPoint id="navPoint-30" playOrder="30">
+<navLabel><text>೧೧ . ಮಾಘಮಾಸಮಹಾಸೂರ್ಯನಿವನು!</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.11"/>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31">
+<navLabel><text>೧೨ . ಫಾಲ್ಗುಣಮಾಸಬ್ರಹ್ಮಜ್ಞಾನಿಗೆ ಜನ್ಮಾಂತರವಿಲ್ಲ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04.12"/>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel><text>“ಗೀತಾ”ಪಾರಾಯಣಪ್ರಾರಂಭೇ ಮಂಗಳಶ್ಲೋಕಾಃ</text></navLabel><content src="000d-Introduction5.xhtml#id-000d.05"/>
+</navPoint>
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel><text>ಗೀತಾಪಾರಾಯಣೇ ಧ್ಯಾನಶ್ಲೋಕಾಃ</text></navLabel><content src="000d-Introduction6.xhtml#id-000d.06"/>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34">
+<navLabel><text>ಜನವರಿ ೧೧. –  ಸರ್ವರಿಗೂ ಭಗವಂತನು ಸಮನೇ</text></navLabel><content src="001-Chapter001.xhtml#id-001.01"/>
+</navPoint>
+<navPoint id="navPoint-35" playOrder="35">
+<navLabel><text>ಜನವರಿ ೨.೨. – ಸ್ವಧರ್ಮಾನುಷ್ಠಾನದ ಮಹಿಮೆ</text></navLabel><content src="001-Chapter001.xhtml#id-001.02"/>
+</navPoint>
+<navPoint id="navPoint-36" playOrder="36">
+<navLabel><text>ಜನವರಿ ೩.೩. – ಆತ್ಮಜ್ಞಾನದಿಂದ ಜನ್ಮರಾಹಿತ್ಯ</text></navLabel><content src="001-Chapter001.xhtml#id-001.03"/>
+</navPoint>
+<navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>ಜನವರಿ ೪.೪. – ಆತ್ಮಜ್ಞಾನಯಜ್ಞದ ಮಹಿಮೆ!</text></navLabel><content src="001-Chapter001.xhtml#id-001.04"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
+<navLabel><text>ಜನವರಿ ೫.೫. – ಇವನೇ ಉತ್ತಮಯೋಗಿಯು</text></navLabel><content src="001-Chapter001.xhtml#id-001.05"/>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39">
+<navLabel><text>ಜನವರಿ ೬.೬. – ತಿಳಿಯಬೇಕಾದ ಪುರುಷನಿವನು</text></navLabel><content src="001-Chapter001.xhtml#id-001.06"/>
+</navPoint>
+<navPoint id="navPoint-40" playOrder="40">
+<navLabel><text>ಜನವರಿ ೭.೭. – ಭಕ್ತನ ಆರು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="001-Chapter001.xhtml#id-001.07"/>
+</navPoint>
+<navPoint id="navPoint-41" playOrder="41">
+<navLabel><text>ಜನವರಿ ೮.೮. – ‘ಅನುದರ್ಶನ’ದ ಫಲವಿದು</text></navLabel><content src="001-Chapter001.xhtml#id-001.08"/>
+</navPoint>
+<navPoint id="navPoint-42" playOrder="42">
+<navLabel><text>ಜನವರಿ ೯.೯. – ಕಾಮಶತ್ರುವಿನ ಮನೆ</text></navLabel><content src="001-Chapter001.xhtml#id-001.09"/>
+</navPoint>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>ಜನವರಿ ೧೦.೧೦. – ಕರ್ಮಯೋಗವೇ ಸುಲಭ</text></navLabel><content src="001-Chapter001.xhtml#id-001.10"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>ಜನವರಿ ೧೧.೧೧. – ಆತ್ಮನು ದೋಷರಹಿತನು</text></navLabel><content src="001-Chapter001.xhtml#id-001.11"/>
+</navPoint>
+<navPoint id="navPoint-45" playOrder="45">
+<navLabel><text>ಜನವರಿ ೧೨.೧೨. – ಹೀಗೆ ತಿಳಿದರೂ ದುಃಖವಿಲ್ಲ</text></navLabel><content src="001-Chapter001.xhtml#id-001.12"/>
+</navPoint>
+<navPoint id="navPoint-46" playOrder="46">
+<navLabel><text>ಜನವರಿ ೧೩.೧೩. – ಅವಿವೇಕದ ಫಲವಿದು</text></navLabel><content src="001-Chapter001.xhtml#id-001.13"/>
+</navPoint>
+<navPoint id="navPoint-47" playOrder="47">
+<navLabel><text>ಜನವರಿ ೧೪.೧೪. – ಇವರು ವಾಪಸ್ಸು ಬರುವುದಿಲ್ಲ</text></navLabel><content src="001-Chapter001.xhtml#id-001.14"/>
+</navPoint>
+<navPoint id="navPoint-48" playOrder="48">
+<navLabel><text>ಜನವರಿ ೧೫.೧೫. – ಅಜ್ಞಾನಿಗಳ ದೌರ್ಭಾಗ್ಯವಿದು!</text></navLabel><content src="001-Chapter001.xhtml#id-001.15"/>
+</navPoint>
+<navPoint id="navPoint-49" playOrder="49">
+<navLabel><text>ಜನವರಿ ೧೬.೧೬. – ಮುಕ್ತಿಗೆ ಎರಡೇ ಮಾರ್ಗಗಳು</text></navLabel><content src="001-Chapter001.xhtml#id-001.16"/>
+</navPoint>
+<navPoint id="navPoint-50" playOrder="50">
+<navLabel><text>ಜನವರಿ ೧೭.೧೭. – ಇದೊಂದೇ ಮಹಾಜ್ಞೇಯವು</text></navLabel><content src="001-Chapter001.xhtml#id-001.17"/>
+</navPoint>
+<navPoint id="navPoint-51" playOrder="51">
+<navLabel><text>ಜನವರಿ ೧೮.೧೮. – ಯೋಗವೆಂದರೆ ವಿಯೋಗವೇ</text></navLabel><content src="001-Chapter001.xhtml#id-001.18"/>
+</navPoint>
+<navPoint id="navPoint-52" playOrder="52">
+<navLabel><text>ಜನವರಿ ೧೯.೧೯. – ದ್ವಂದ್ವಾತೀತರಿವರು</text></navLabel><content src="001-Chapter001.xhtml#id-001.19"/>
+</navPoint>
+<navPoint id="navPoint-53" playOrder="53">
+<navLabel><text>ಜನವರಿ ೨೦.೨೦. – ಜ್ಞಾನಕ್ಕೆ ಮೂರು ಸಾಧನಗಳಿವು</text></navLabel><content src="001-Chapter001.xhtml#id-001.20"/>
+</navPoint>
+<navPoint id="navPoint-54" playOrder="54">
+<navLabel><text>ಜನವರಿ ೨೧.೨೧. – ನಿಜವಾದ ಜ್ಞಾನಿಯಿವನು</text></navLabel><content src="001-Chapter001.xhtml#id-001.21"/>
+</navPoint>
+<navPoint id="navPoint-55" playOrder="55">
+<navLabel><text>ಜನವರಿ ೨೨.೨೨. – ಆತ್ಮಜ್ಞಾನಿಯೇ ಯುಕ್ತನು</text></navLabel><content src="001-Chapter001.xhtml#id-001.22"/>
+</navPoint>
+<navPoint id="navPoint-56" playOrder="56">
+<navLabel><text>ಜನವರಿ ೨೩.೨೩. – ಸಂನ್ಯಾಸಿಯ ಆರು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="001-Chapter001.xhtml#id-001.23"/>
+</navPoint>
+<navPoint id="navPoint-57" playOrder="57">
+<navLabel><text>ಜನವರಿ ೨೪.೨೪. – ಸಾತ್ತ್ವಿಕಸುಖವಿದು</text></navLabel><content src="001-Chapter001.xhtml#id-001.24"/>
+</navPoint>
+<navPoint id="navPoint-58" playOrder="58">
+<navLabel><text>ಜನವರಿ ೨೫.೨೫. – ಇದು ಆಸುರರ ತಪಸ್ಸು</text></navLabel><content src="001-Chapter001.xhtml#id-001.25"/>
+</navPoint>
+<navPoint id="navPoint-59" playOrder="59">
+<navLabel><text>ಜನವರಿ ೨೬.೨೬. – ಯತಿಗಳಿಗೆ ಬ್ರಹ್ಮನಿರ್ವಾಣ</text></navLabel><content src="001-Chapter001.xhtml#id-001.26"/>
+</navPoint>
+<navPoint id="navPoint-60" playOrder="60">
+<navLabel><text>ಜನವರಿ ೨೭.೨೭. – ಇಂಥವರ ಜೀವನ ವ್ಯರ್ಥ</text></navLabel><content src="001-Chapter001.xhtml#id-001.27"/>
+</navPoint>
+<navPoint id="navPoint-61" playOrder="61">
+<navLabel><text>ಜನವರಿ ೨೮.೨೮. – ದುಃಖಿಸುವುದೇತಕೆ?</text></navLabel><content src="001-Chapter001.xhtml#id-001.28"/>
+</navPoint>
+<navPoint id="navPoint-62" playOrder="62">
+<navLabel><text>ಜನವರಿ ೨೯.೨೯. – ತ್ರಿವಿಧೋಪಾಸಕರು</text></navLabel><content src="001-Chapter001.xhtml#id-001.29"/>
+</navPoint>
+<navPoint id="navPoint-63" playOrder="63">
+<navLabel><text>ಜನವರಿ ೩೦.೩೦. – ತನಗೆ ತಾನೇ ಬಂಧು, ಶತ್ರು</text></navLabel><content src="001-Chapter001.xhtml#id-001.30"/>
+</navPoint>
+<navPoint id="navPoint-64" playOrder="64">
+<navLabel><text>ಜನವರಿ ೩೧.೩೧. – ಇಂಥವರೇ ಮಹಾತ್ಮರು</text></navLabel><content src="001-Chapter001.xhtml#id-001.31"/>
+</navPoint>
+<navPoint id="navPoint-65" playOrder="65">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೩೨. –  ಭಗವಂತನನ್ನು ಇಲ್ಲಿ ಕಾಣಬೇಕು</text></navLabel><content src="002-chapter002.xhtml#id-002.01"/>
+</navPoint>
+<navPoint id="navPoint-66" playOrder="66">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೩೩. –  ಆತ್ಮಜ್ಞಾನದಿಂದ ದುಃಖನಿವೃತ್ತಿ</text></navLabel><content src="002-chapter002.xhtml#id-002.02"/>
+</navPoint>
+<navPoint id="navPoint-67" playOrder="67">
+<navLabel><text>ಫೆಬ್ರವರಿ ೩೩೪. –  ಆತ್ಮನಲ್ಲಿ ಆರು ವಿಕಾರಗಳಿಲ್ಲ</text></navLabel><content src="002-chapter002.xhtml#id-002.03"/>
+</navPoint>
+<navPoint id="navPoint-68" playOrder="68">
+<navLabel><text>ಫೆಬ್ರವರಿ ೪೩೫. –  ಭಗವಂತನ ಮಹಿಮೆ</text></navLabel><content src="002-chapter002.xhtml#id-002.04"/>
+</navPoint>
+<navPoint id="navPoint-69" playOrder="69">
+<navLabel><text>ಫೆಬ್ರವರಿ ೫೩೬. –  ಸಾತ್ತ್ವಿಕಾಹಾರವಿದು</text></navLabel><content src="002-chapter002.xhtml#id-002.05"/>
+</navPoint>
+<navPoint id="navPoint-70" playOrder="70">
+<navLabel><text>ಫೆಬ್ರವರಿ ೬೩೭. –  ಸಂಸಾರಿಯು ಅಸಂಸಾರಿಯೇ</text></navLabel><content src="002-chapter002.xhtml#id-002.06"/>
+</navPoint>
+<navPoint id="navPoint-71" playOrder="71">
+<navLabel><text>ಫೆಬ್ರವರಿ ೭೩೮. –  ನರಕಕ್ಕೆ ಹೆಬ್ಬಾಗಿಲು!</text></navLabel><content src="002-chapter002.xhtml#id-002.07"/>
+</navPoint>
+<navPoint id="navPoint-72" playOrder="72">
+<navLabel><text>ಫೆಬ್ರವರಿ ೮೩೯. –  ಬ್ರಹ್ಮಜ್ಞಾನಿಗಳಿವರು</text></navLabel><content src="002-chapter002.xhtml#id-002.08"/>
+</navPoint>
+<navPoint id="navPoint-73" playOrder="73">
+<navLabel><text>ಫೆಬ್ರವರಿ ೯೪೦. –  ಈ ಐದೂ ‘ಶಾರೀರ’ ತಪಸ್ಸೇ</text></navLabel><content src="002-chapter002.xhtml#id-002.09"/>
+</navPoint>
+<navPoint id="navPoint-74" playOrder="74">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೦೪೧. –  ಮೂರು ಗುಣಗಳಿವು</text></navLabel><content src="002-chapter002.xhtml#id-002.10"/>
+</navPoint>
+<navPoint id="navPoint-75" playOrder="75">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೧೪೨. –  ವಿಷಯಧ್ಯಾನದಿಂದ ಅಧೋಗತಿ!</text></navLabel><content src="002-chapter002.xhtml#id-002.11"/>
+</navPoint>
+<navPoint id="navPoint-76" playOrder="76">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೨೪೩. –  ಮಿತ್ರನೂ ಹೌದು, ಶತ್ರುವೂ ಹೌದು</text></navLabel><content src="002-chapter002.xhtml#id-002.12"/>
+</navPoint>
+<navPoint id="navPoint-77" playOrder="77">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೩೪೪. –  ಇವನೇ ಉತ್ತಮಯೋಗಿ</text></navLabel><content src="002-chapter002.xhtml#id-002.13"/>
+</navPoint>
+<navPoint id="navPoint-78" playOrder="78">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೪೪೫. –  ಬ್ರಹ್ಮನಿಷ್ಠರಿವರು</text></navLabel><content src="002-chapter002.xhtml#id-002.14"/>
+</navPoint>
+<navPoint id="navPoint-79" playOrder="79">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೫೪೬. –  ತಾಮಸತ್ಯಾಗವಿದು</text></navLabel><content src="002-chapter002.xhtml#id-002.15"/>
+</navPoint>
+<navPoint id="navPoint-80" playOrder="80">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೬೪೭. –  ಸತ್ತ್ವಗುಣದ ಕಾರ್ಯವಿದು</text></navLabel><content src="002-chapter002.xhtml#id-002.16"/>
+</navPoint>
+<navPoint id="navPoint-81" playOrder="81">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೭೪೮. –  ಸಾಧಕರಿಗೆ ಸಂದೇಶವಿದು</text></navLabel><content src="002-chapter002.xhtml#id-002.17"/>
+</navPoint>
+<navPoint id="navPoint-82" playOrder="82">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೮೪೯. –  ಪರಬ್ರಹ್ಮದ ಹೆಸರುಗಳಿವು</text></navLabel><content src="002-chapter002.xhtml#id-002.18"/>
+</navPoint>
+<navPoint id="navPoint-83" playOrder="83">
+<navLabel><text>ಫೆಬ್ರವರಿ ೧೯೫೦. –  ಉಪಾಸಕರಿಗೆ ಉಪದೇಶವಿದು</text></navLabel><content src="002-chapter002.xhtml#id-002.19"/>
+</navPoint>
+<navPoint id="navPoint-84" playOrder="84">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೦೫೧. –  ತನ್ನಿಂದಲೇ ತನ್ನ ಉದ್ಧಾರ!</text></navLabel><content src="002-chapter002.xhtml#id-002.20"/>
+</navPoint>
+<navPoint id="navPoint-85" playOrder="85">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೧೫೨. –  ಸಾತ್ತ್ವಿಕಜ್ಞಾನದ ಲಕ್ಷಣವಿದು</text></navLabel><content src="002-chapter002.xhtml#id-002.21"/>
+</navPoint>
+<navPoint id="navPoint-86" playOrder="86">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೨೫೩. –  ಈಶ್ವರನ ನಾಲ್ಕು ವಿಭೂತಿಗಳು</text></navLabel><content src="002-chapter002.xhtml#id-002.22"/>
+</navPoint>
+<navPoint id="navPoint-87" playOrder="87">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೩೫೪. –  ಇಂಥವರು ಆಸುರರೇ</text></navLabel><content src="002-chapter002.xhtml#id-002.23"/>
+</navPoint>
+<navPoint id="navPoint-88" playOrder="88">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೪೫೫. –  ಎಲ್ಲರಿಗೂ ಭಗವಂತನೇ ತಂದೆಯು</text></navLabel><content src="002-chapter002.xhtml#id-002.24"/>
+</navPoint>
+<navPoint id="navPoint-89" playOrder="89">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೫೫೬. –  ಅಭ್ಯಾಸಯೋಗದ ಫಲವಿದು!</text></navLabel><content src="002-chapter002.xhtml#id-002.25"/>
+</navPoint>
+<navPoint id="navPoint-90" playOrder="90">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೬೫೭. –  ಆತ್ಮಲಾಭದ ಹಿರಿಮೆ</text></navLabel><content src="002-chapter002.xhtml#id-002.26"/>
+</navPoint>
+<navPoint id="navPoint-91" playOrder="91">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೭೫೮. –  ಇವನೇ ಪಂಡಿತ</text></navLabel><content src="002-chapter002.xhtml#id-002.27"/>
+</navPoint>
+<navPoint id="navPoint-92" playOrder="92">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೮೫೯. –  ಸೊಗಸಾದ ಮೂರು ದೃಷ್ಟಾಂತಗಳು</text></navLabel><content src="002-chapter002.xhtml#id-002.28"/>
+</navPoint>
+<navPoint id="navPoint-93" playOrder="93">
+<navLabel><text>ಫೆಬ್ರವರಿ ೨೯೬೦. –  ಅಜ್ಞರಿಗೆ ಕರ್ಮಯೋಗ</text></navLabel><content src="002-chapter002.xhtml#id-002.29"/>
+</navPoint>
+<navPoint id="navPoint-94" playOrder="94">
+<navLabel><text>ಮಾರ್ಚ್ ೧೬೧. –  ಈಶಾನುಗ್ರಹದಿಂದ ಮುಕ್ತಿ</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
+</navPoint>
+<navPoint id="navPoint-95" playOrder="95">
+<navLabel><text>ಮಾರ್ಚ್ ೨೬೨. –  ಜ್ಞಾನಿಗಳ ನಿಶ್ಚಯವಿದು</text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
+</navPoint>
+<navPoint id="navPoint-96" playOrder="96">
+<navLabel><text>ಮಾರ್ಚ್ ೩೬೩. –  ರಜೋಗುಣದ ಸ್ವಭಾವವಿದು</text></navLabel><content src="003-chapter003.xhtml#id-003.03"/>
+</navPoint>
+<navPoint id="navPoint-97" playOrder="97">
+<navLabel><text>ಮಾರ್ಚ್ ೪೬೪. –  ತಪಸ್ಸಿನ ಫಲವಿದು!</text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
+</navPoint>
+<navPoint id="navPoint-98" playOrder="98">
+<navLabel><text>ಮಾರ್ಚ್ ೫೬೫. –  ಭಗವಂತನ ಸ್ವರೂಪವಿದು</text></navLabel><content src="003-chapter003.xhtml#id-003.05"/>
+</navPoint>
+<navPoint id="navPoint-99" playOrder="99">
+<navLabel><text>ಮಾರ್ಚ್ ೬೬೬. –  ಕಾಮವೇ ದೊಡ್ಡ ಶತ್ರು</text></navLabel><content src="003-chapter003.xhtml#id-003.06"/>
+</navPoint>
+<navPoint id="navPoint-100" playOrder="100">
+<navLabel><text>ಮಾರ್ಚ್ ೭೬೭. –  ಆತ್ಮದರ್ಶನವು ಯಾವಾಗ?</text></navLabel><content src="003-chapter003.xhtml#id-003.07"/>
+</navPoint>
+<navPoint id="navPoint-101" playOrder="101">
+<navLabel><text>ಮಾರ್ಚ್ ೮೬೮. –  ಪ್ರಕೃತಿಗೆ ಶಕ್ತಿ ಎಲ್ಲಿಂದ?</text></navLabel><content src="003-chapter003.xhtml#id-003.08"/>
+</navPoint>
+<navPoint id="navPoint-102" playOrder="102">
+<navLabel><text>ಮಾರ್ಚ್ ೯೬೯. –  ಎಲ್ಲವೂ ಭಗವಂತನೇ</text></navLabel><content src="003-chapter003.xhtml#id-003.09"/>
+</navPoint>
+<navPoint id="navPoint-103" playOrder="103">
+<navLabel><text>ಮಾರ್ಚ್ ೧೦೭೦. –  ಅಜ್ಞನು ಪ್ರಕೃತಿಗೆ ವಶನು</text></navLabel><content src="003-chapter003.xhtml#id-003.10"/>
+</navPoint>
+<navPoint id="navPoint-104" playOrder="104">
+<navLabel><text>ಮಾರ್ಚ್ ೧೧೭೧. –  ಯೋಗಿಯ ಮನಸ್ಸಿಗೆ ದೃಷ್ಟಾಂತ</text></navLabel><content src="003-chapter003.xhtml#id-003.11"/>
+</navPoint>
+<navPoint id="navPoint-105" playOrder="105">
+<navLabel><text>ಮಾರ್ಚ್ ೧೨೭೨. –  ಇವನೇ ಸಮ್ಯಗ್ದರ್ಶಿಯು</text></navLabel><content src="003-chapter003.xhtml#id-003.12"/>
+</navPoint>
+<navPoint id="navPoint-106" playOrder="106">
+<navLabel><text>ಮಾರ್ಚ್ ೧೩೭೩. –  ಇಂಥವರಿಗೆ ಸಂನ್ಯಾಸವು ಕಷ್ಟ</text></navLabel><content src="003-chapter003.xhtml#id-003.13"/>
+</navPoint>
+<navPoint id="navPoint-107" playOrder="107">
+<navLabel><text>ಮಾರ್ಚ್ ೧೪೭೪. –  ತತ್ತ್ವದರ್ಶಿಗಳಿವರು!</text></navLabel><content src="003-chapter003.xhtml#id-003.14"/>
+</navPoint>
+<navPoint id="navPoint-108" playOrder="108">
+<navLabel><text>ಮಾರ್ಚ್ ೧೫೭೫. –  ಇವನೇ ನಿಜವಾದ ಪಂಡಿತ</text></navLabel><content src="003-chapter003.xhtml#id-003.15"/>
+</navPoint>
+<navPoint id="navPoint-109" playOrder="109">
+<navLabel><text>ಮಾರ್ಚ್ ೧೬೭೬. –  ಕರ್ಮಯೋಗದಿಂದ ಮೋಕ್ಷ</text></navLabel><content src="003-chapter003.xhtml#id-003.16"/>
+</navPoint>
+<navPoint id="navPoint-110" playOrder="110">
+<navLabel><text>ಮಾರ್ಚ್ ೧೭೭೭. –  ಪರಮಸುಖವಿದು</text></navLabel><content src="003-chapter003.xhtml#id-003.17"/>
+</navPoint>
+<navPoint id="navPoint-111" playOrder="111">
+<navLabel><text>ಮಾರ್ಚ್ ೧೮೭೮. –  ಇವನೇ ಭಕ್ತನಾದ ಯೋಗಿ</text></navLabel><content src="003-chapter003.xhtml#id-003.18"/>
+</navPoint>
+<navPoint id="navPoint-112" playOrder="112">
+<navLabel><text>ಮಾರ್ಚ್ ೧೯೭೯. –  ವೇದವೇದ್ಯನೂ ಶ್ರೀಕೃಷ್ಣನೇ</text></navLabel><content src="003-chapter003.xhtml#id-003.19"/>
+</navPoint>
+<navPoint id="navPoint-113" playOrder="113">
+<navLabel><text>ಮಾರ್ಚ್ ೨೦೮೦. –  ಅಜ್ಞನ ಹಣೆಬರಹವಿದು</text></navLabel><content src="003-chapter003.xhtml#id-003.20"/>
+</navPoint>
+<navPoint id="navPoint-114" playOrder="114">
+<navLabel><text>ಮಾರ್ಚ್ ೨೧೮೧. –  ಬ್ರಾಹ್ಮಣನ ಒಂಬತ್ತು ಗುಣಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003.21"/>
+</navPoint>
+<navPoint id="navPoint-115" playOrder="115">
+<navLabel><text>ಮಾರ್ಚ್ ೨೨೮೨. –  ಇವನೇ ಯೋಗಾರೂಢನು</text></navLabel><content src="003-chapter003.xhtml#id-003.22"/>
+</navPoint>
+<navPoint id="navPoint-116" playOrder="116">
+<navLabel><text>ಮಾರ್ಚ್ ೨೩೮೩. –  ಸಗುಣನಾಗಿದ್ದರೂ ನಿರ್ಗುಣನೇ!</text></navLabel><content src="003-chapter003.xhtml#id-003.23"/>
+</navPoint>
+<navPoint id="navPoint-117" playOrder="117">
+<navLabel><text>ಮಾರ್ಚ್ ೨೪೮೪. –  ಕ್ಷೇತ್ರ ಕ್ಷೇತ್ರಜ್ಞರ ಲಕ್ಷಣಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003.24"/>
+</navPoint>
+<navPoint id="navPoint-118" playOrder="118">
+<navLabel><text>ಮಾರ್ಚ್ ೨೫೮೫. –  ಇದು ವಾಙ್ಮಯ ತಪಸ್ಸು</text></navLabel><content src="003-chapter003.xhtml#id-003.25"/>
+</navPoint>
+<navPoint id="navPoint-119" playOrder="119">
+<navLabel><text>ಮಾರ್ಚ್ ೨೬೮೬. –  ಈ ಆತ್ಮನಿಗೇ ಆರು ಗುಣಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003.26"/>
+</navPoint>
+<navPoint id="navPoint-120" playOrder="120">
+<navLabel><text>ಮಾರ್ಚ್ ೨೭೮೭. –  ಸಮದರ್ಶನದ ಫಲ</text></navLabel><content src="003-chapter003.xhtml#id-003.27"/>
+</navPoint>
+<navPoint id="navPoint-121" playOrder="121">
+<navLabel><text>ಮಾರ್ಚ್ ೨೮೮೮. –  ಸಂಸಾರವೃಕ್ಷವಿದು</text></navLabel><content src="003-chapter003.xhtml#id-003.28"/>
+</navPoint>
+<navPoint id="navPoint-122" playOrder="122">
+<navLabel><text>ಮಾರ್ಚ್ ೨೯೮೯. –  “ಮಾನಸ”ತಪಸ್ಸು</text></navLabel><content src="003-chapter003.xhtml#id-003.29"/>
+</navPoint>
+<navPoint id="navPoint-123" playOrder="123">
+<navLabel><text>ಮಾರ್ಚ್ ೩೦೯೦. –  ಯೋಗಿಪುಂಗವನಿವನು</text></navLabel><content src="003-chapter003.xhtml#id-003.30"/>
+</navPoint>
+<navPoint id="navPoint-124" playOrder="124">
+<navLabel><text>ಮಾರ್ಚ್ ೩೧೯೧. –  ಜ್ಞಾನವೇ ಅನನ್ಯಭಕ್ತಿ</text></navLabel><content src="003-chapter003.xhtml#id-003.31"/>
+</navPoint>
+<navPoint id="navPoint-125" playOrder="125">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೯೨. –  ಇದೊಂದರಿಂದ ಸರ್ವನಾಶ!</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
+</navPoint>
+<navPoint id="navPoint-126" playOrder="126">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೯೩. –  ಯೋಗಿಗೆ ಮೂರು ಸಂದೇಶಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004.02"/>
+</navPoint>
+<navPoint id="navPoint-127" playOrder="127">
+<navLabel><text>ಏಪ್ರಿಲ್ ೩೯೪. –  ಇವರಿಬ್ಬರೂ ದಡ್ಡರೇ</text></navLabel><content src="004-chapter004.xhtml#id-004.03"/>
+</navPoint>
+<navPoint id="navPoint-128" playOrder="128">
+<navLabel><text>ಏಪ್ರಿಲ್ ೪೯೫. –  ‘ಸಾತ್ತ್ವಿಕ’ತಪಸ್ಸಿನ ‘ಮೂರು’ ಲಕ್ಷಣಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004.04"/>
+</navPoint>
+<navPoint id="navPoint-129" playOrder="129">
+<navLabel><text>ಏಪ್ರಿಲ್ ೫೯೬. –  ಇಂಥವನೇ ಧೀರ!</text></navLabel><content src="004-chapter004.xhtml#id-004.05"/>
+</navPoint>
+<navPoint id="navPoint-130" playOrder="130">
+<navLabel><text>ಏಪ್ರಿಲ್ ೬೯೭. –  ಇದರಿಂದ ಅಂಟು ಆಗುವುದಿಲ್ಲ</text></navLabel><content src="004-chapter004.xhtml#id-004.06"/>
+</navPoint>
+<navPoint id="navPoint-131" playOrder="131">
+<navLabel><text>ಏಪ್ರಿಲ್ ೭೯೮. –  ಬ್ರಹ್ಮವು ಶೂನ್ಯವಲ್ಲ</text></navLabel><content src="004-chapter004.xhtml#id-004.07"/>
+</navPoint>
+<navPoint id="navPoint-132" playOrder="132">
+<navLabel><text>ಏಪ್ರಿಲ್ ೮೯೯. –  ‘ಸತ್’ ಶಬ್ದಕ್ಕೆ ಮೂರು ಅರ್ಥಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004.08"/>
+</navPoint>
+<navPoint id="navPoint-133" playOrder="133">
+<navLabel><text>ಏಪ್ರಿಲ್ ೯೧೦೦. –  ಅಧ್ಯಾಸದಿಂದಲೇ ಸಂಸಾರಬಂಧನ</text></navLabel><content src="004-chapter004.xhtml#id-004.09"/>
+</navPoint>
+<navPoint id="navPoint-134" playOrder="134">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೦೧೦೧. –  ಕರ್ಮಯೋಗವು ಸುಲಭಸಾಧನ</text></navLabel><content src="004-chapter004.xhtml#id-004.10"/>
+</navPoint>
+<navPoint id="navPoint-135" playOrder="135">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೧೧೦೨. –  ಭಕ್ತಿಯ ಪವಾಡವಿದು!</text></navLabel><content src="004-chapter004.xhtml#id-004.11"/>
+</navPoint>
+<navPoint id="navPoint-136" playOrder="136">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೨೧೦೩. –  ವಿವೇಕಶಸ್ತ್ರದ ಶಕ್ತಿ!</text></navLabel><content src="004-chapter004.xhtml#id-004.12"/>
+</navPoint>
+<navPoint id="navPoint-137" playOrder="137">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೩೧೦೪. –  ಜೀವ ಈಶ್ವರರ ಸಾಮರ್ಥ್ಯಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004.13"/>
+</navPoint>
+<navPoint id="navPoint-138" playOrder="138">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೪೧೦೫. –  ಯೋಗಿಯ ನಾಲ್ಕು ಲಕ್ಷಣಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-004.14"/>
+</navPoint>
+<navPoint id="navPoint-139" playOrder="139">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೫೧೦೬. –  ಇದು ರಾಜಸೀ ಬುದ್ಧಿಯು</text></navLabel><content src="004-chapter004.xhtml#id-004.15"/>
+</navPoint>
+<navPoint id="navPoint-140" playOrder="140">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೬೧೦೭. –  ಧರ್ಮವನ್ನು ತಿಳಿದೇ ಮಾಡಬೇಕು</text></navLabel><content src="004-chapter004.xhtml#id-004.16"/>
+</navPoint>
+<navPoint id="navPoint-141" playOrder="141">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೭೧೦೮. –  ಪರಮಾತ್ಮನೆಂದರೆ ಯಾರು?</text></navLabel><content src="004-chapter004.xhtml#id-004.17"/>
+</navPoint>
+<navPoint id="navPoint-142" playOrder="142">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೮೧೦೯. –  ಭಗವಂತನೇ ರಸಸ್ವರೂಪನು</text></navLabel><content src="004-chapter004.xhtml#id-004.18"/>
+</navPoint>
+<navPoint id="navPoint-143" playOrder="143">
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೯೧೧೦. –  ಯುಕ್ತ ಅಯುಕ್ತರಿಗೆ ಫಲಗಳಿವು</text></navLabel><content src="004-chapter004.xhtml#id-004.19"/>
+</navPoint>
+<navPoint id="navPoint-144" playOrder="144">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೦೧೧೧. –  ಮೂವರಿಗಿಂತಲೂ ಯೋಗಿಯು ಶ್ರೇಷ್ಠನು</text></navLabel><content src="004-chapter004.xhtml#id-004.20"/>
+</navPoint>
+<navPoint id="navPoint-145" playOrder="145">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೧೧೧೨. –  ಶ್ರದ್ಧೆಯೇ ಬಂಡವಾಳ</text></navLabel><content src="004-chapter004.xhtml#id-004.21"/>
+</navPoint>
+<navPoint id="navPoint-146" playOrder="146">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೨೧೧೩. –  ಇವನೇ ಸುಖಿಯಾದ ನರ!</text></navLabel><content src="004-chapter004.xhtml#id-004.22"/>
+</navPoint>
+<navPoint id="navPoint-147" playOrder="147">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೩೧೧೪. –  ಸಾತ್ತ್ವಿಕ ಬುದ್ಧಿಯಿದು</text></navLabel><content src="004-chapter004.xhtml#id-004.23"/>
+</navPoint>
+<navPoint id="navPoint-148" playOrder="148">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೪೧೧೫. –  ಇವನೇ ವೇದವಿತ್</text></navLabel><content src="004-chapter004.xhtml#id-004.24"/>
+</navPoint>
+<navPoint id="navPoint-149" playOrder="149">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೫೧೧೬. –  ಇವನಿಗೆ ಬ್ರಹ್ಮನಿರ್ವಾಣವು!</text></navLabel><content src="004-chapter004.xhtml#id-004.25"/>
+</navPoint>
+<navPoint id="navPoint-150" playOrder="150">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೬೧೧೭. –  ಆತ್ಮನಿಗೆ ಕರ್ಮಬಂಧನವಿಲ್ಲ</text></navLabel><content src="004-chapter004.xhtml#id-004.26"/>
+</navPoint>
+<navPoint id="navPoint-151" playOrder="151">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೭೧೧೮. –  ‘ಪುರುಷೋತ್ತಮ’ನಿವನು</text></navLabel><content src="004-chapter004.xhtml#id-004.27"/>
+</navPoint>
+<navPoint id="navPoint-152" playOrder="152">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೮೧೧೯. –  ಇವನೇ ಜ್ಞಾನಿ, ಇವನೇ ಮುನಿ</text></navLabel><content src="004-chapter004.xhtml#id-004.28"/>
+</navPoint>
+<navPoint id="navPoint-153" playOrder="153">
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೯೧೨೦. –  ಜ್ಞಾನಿಯ ಐದು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="004-chapter004.xhtml#id-004.29"/>
+</navPoint>
+<navPoint id="navPoint-154" playOrder="154">
+<navLabel><text>ಏಪ್ರಿಲ್ ೩೦೧೨೧. –  ಇಷ್ಟುಮಾತ್ರದಿಂದ ಮುಕ್ತಿಯಿಲ್ಲ</text></navLabel><content src="004-chapter004.xhtml#id-004.30"/>
+</navPoint>
+<navPoint id="navPoint-155" playOrder="155">
+<navLabel><text>ಮೇ ೧೧೨೨. –  ಎರಡೂ ಉಪಾಧಿಗಳೇ</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
+</navPoint>
+<navPoint id="navPoint-156" playOrder="156">
+<navLabel><text>ಮೇ ೨೧೨೩. –  ಬ್ರಹ್ಮವಿದ್ಯೆಯ ಎಂಟು ಮಹಿಮೆಗಳು</text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
+</navPoint>
+<navPoint id="navPoint-157" playOrder="157">
+<navLabel><text>ಮೇ ೩೧೨೪. –  ಮುಮುಕ್ಷುಗಳ ಆರು ಗುಣಗಳು</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
+</navPoint>
+<navPoint id="navPoint-158" playOrder="158">
+<navLabel><text>ಮೇ ೪೧೨೫. –  ಪರಂಧಾಮವಿದು</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
+</navPoint>
+<navPoint id="navPoint-159" playOrder="159">
+<navLabel><text>ಮೇ ೫೧೨೬. –  ನಾಲ್ಕು ಹಿತೋಪದೇಶಗಳು</text></navLabel><content src="005-chapter005.xhtml#id-005.05"/>
+</navPoint>
+<navPoint id="navPoint-160" playOrder="160">
+<navLabel><text>ಮೇ ೬೧೨೭. –  ಅಂತ್ಯಕಾಲದಲ್ಲಿ ಸ್ಮರಣೆಯ ಫಲ</text></navLabel><content src="005-chapter005.xhtml#id-005.06"/>
+</navPoint>
+<navPoint id="navPoint-161" playOrder="161">
+<navLabel><text>ಮೇ ೭೧೨೮. –  ಈ ಆರೂ ಯಜ್ಞಗಳೇ</text></navLabel><content src="005-chapter005.xhtml#id-005.07"/>
+</navPoint>
+<navPoint id="navPoint-162" playOrder="162">
+<navLabel><text>ಮೇ ೮೧೨೯. –  ಭಕ್ತನ ಆರು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="005-chapter005.xhtml#id-005.08"/>
+</navPoint>
+<navPoint id="navPoint-163" playOrder="163">
+<navLabel><text>ಮೇ ೯೧೩೦. –  ಈ ಏಳೂ ಈಶ್ವರನಿಂದಲೇ</text></navLabel><content src="005-chapter005.xhtml#id-005.09"/>
+</navPoint>
+<navPoint id="navPoint-164" playOrder="164">
+<navLabel><text>ಮೇ ೧೦೧೩೧. –  ಪೂರ್ವಜನ್ಮತಪಸ್ಸಿನ ಫಲವಿದು!</text></navLabel><content src="005-chapter005.xhtml#id-005.10"/>
+</navPoint>
+<navPoint id="navPoint-165" playOrder="165">
+<navLabel><text>ಮೇ ೧೧೧೩೨. –  ಇಂಥವನಿಗೆ ಪರಮಾನಂದಪ್ರಾಪ್ತಿ</text></navLabel><content src="005-chapter005.xhtml#id-005.11"/>
+</navPoint>
+<navPoint id="navPoint-166" playOrder="166">
+<navLabel><text>ಮೇ ೧೨೧೩೩. –  ಮೂರು ಗುಣಗಳ ಫಲಗಳಿವು</text></navLabel><content src="005-chapter005.xhtml#id-005.12"/>
+</navPoint>
+<navPoint id="navPoint-167" playOrder="167">
+<navLabel><text>ಮೇ ೧೩೧೩೪. –  ಇಂಥವರಿಗೆ ಪುನರ್ಜನ್ಮವಿಲ್ಲ</text></navLabel><content src="005-chapter005.xhtml#id-005.13"/>
+</navPoint>
+<navPoint id="navPoint-168" playOrder="168">
+<navLabel><text>ಮೇ ೧೪೧೩೫. –  ಶ್ರೇಷ್ಠರ ಜವಾಬ್ದಾರಿ</text></navLabel><content src="005-chapter005.xhtml#id-005.14"/>
+</navPoint>
+<navPoint id="navPoint-169" playOrder="169">
+<navLabel><text>ಮೇ ೧೫೧೩೬. –  ಇಂಥ ತ್ಯಾಗದಿಂದ ಮೋಕ್ಷವಿಲ್ಲ</text></navLabel><content src="005-chapter005.xhtml#id-005.15"/>
+</navPoint>
+<navPoint id="navPoint-170" playOrder="170">
+<navLabel><text>ಮೇ ೧೬೧೩೭. –  ಆತ್ಮನೇ ಮೂಲಕಾರಣ</text></navLabel><content src="005-chapter005.xhtml#id-005.16"/>
+</navPoint>
+<navPoint id="navPoint-171" playOrder="171">
+<navLabel><text>ಮೇ ೧೭೧೩೮. –  ಇವುಗಳಿಂದ ಮುಕ್ತನೇ ಜೀವನ್ಮುಕ್ತನು</text></navLabel><content src="005-chapter005.xhtml#id-005.17"/>
+</navPoint>
+<navPoint id="navPoint-172" playOrder="172">
+<navLabel><text>ಮೇ ೧೮೧೩೯. –  ಬ್ರಹ್ಮನಿಷ್ಠನೇ ನಿತ್ಯಾನಂದಿ</text></navLabel><content src="005-chapter005.xhtml#id-005.18"/>
+</navPoint>
+<navPoint id="navPoint-173" playOrder="173">
+<navLabel><text>ಮೇ ೧೯೧೪೦. –  ಇವೆಲ್ಲವೂ ಪರಮಾತ್ಮನಿಂದಲೇ</text></navLabel><content src="005-chapter005.xhtml#id-005.19"/>
+</navPoint>
+<navPoint id="navPoint-174" playOrder="174">
+<navLabel><text>ಮೇ ೨೦೧೪೧. –  ಆತ್ಮನಿಗೆ ಆಕಾಶದ ದೃಷ್ಟಾಂತ</text></navLabel><content src="005-chapter005.xhtml#id-005.20"/>
+</navPoint>
+<navPoint id="navPoint-175" playOrder="175">
+<navLabel><text>ಮೇ ೨೧೧೪೨. –  ಆತ್ಮನಲ್ಲಿಯೇ ವಿಶ್ವ</text></navLabel><content src="005-chapter005.xhtml#id-005.21"/>
+</navPoint>
+<navPoint id="navPoint-176" playOrder="176">
+<navLabel><text>ಮೇ ೨೨೧೪೩. –  ಸಿಂಹದ ಮಹಿಮೆ</text></navLabel><content src="005-chapter005.xhtml#id-005.22"/>
+</navPoint>
+<navPoint id="navPoint-177" playOrder="177">
+<navLabel><text>ಮೇ ೨೩೧೪೪. –  ಈ ಒಂಬತ್ತು ಸಹಕಾರಿಸಾಧನಗಳು</text></navLabel><content src="005-chapter005.xhtml#id-005.23"/>
+</navPoint>
+<navPoint id="navPoint-178" playOrder="178">
+<navLabel><text>ಮೇ ೨೪೧೪೫. –  ಸಂಯತಾತ್ಮನಿಗೆ ಸುಲಭ!</text></navLabel><content src="005-chapter005.xhtml#id-005.24"/>
+</navPoint>
+<navPoint id="navPoint-179" playOrder="179">
+<navLabel><text>ಮೇ ೨೫೧೪೬. –  ಈ ಹದಿಮೂರೂ ಭಗವಂತನಿಂದಲೇ</text></navLabel><content src="005-chapter005.xhtml#id-005.25"/>
+</navPoint>
+<navPoint id="navPoint-180" playOrder="180">
+<navLabel><text>ಮೇ ೨೬೧೪೭. –  ಪ್ರಕೃತಿ ಪುರುಷರ ಲಕ್ಷಣ</text></navLabel><content src="005-chapter005.xhtml#id-005.26"/>
+</navPoint>
+<navPoint id="navPoint-181" playOrder="181">
+<navLabel><text>ಮೇ ೨೭೧೪೮. –  ಜೀವನು ಈಶ್ವರಾಂಶವೇ</text></navLabel><content src="005-chapter005.xhtml#id-005.27"/>
+</navPoint>
+<navPoint id="navPoint-182" playOrder="182">
+<navLabel><text>ಮೇ ೨೮೧೪೯. –  ಪರಮ ರಸವಿದು</text></navLabel><content src="005-chapter005.xhtml#id-005.28"/>
+</navPoint>
+<navPoint id="navPoint-183" playOrder="183">
+<navLabel><text>ಮೇ ೨೯೧೫೦. –  ಪ್ರಾಣಾಯಾಮತ್ರಯ</text></navLabel><content src="005-chapter005.xhtml#id-005.29"/>
+</navPoint>
+<navPoint id="navPoint-184" playOrder="184">
+<navLabel><text>ಮೇ ೩೦೧೫೧. –  ಈ ಏಳು, ಕ್ಷಾತ್ರಗುಣಗಳು</text></navLabel><content src="005-chapter005.xhtml#id-005.30"/>
+</navPoint>
+<navPoint id="navPoint-185" playOrder="185">
+<navLabel><text>ಮೇ ೩೧೧೫೨. –  ಗುಣತ್ರಯದ ಸ್ವಭಾವ</text></navLabel><content src="005-chapter005.xhtml#id-005.31"/>
+</navPoint>
+<navPoint id="navPoint-186" playOrder="186">
+<navLabel><text>ಜೂನ್ ೧೧೫೩. –  ಭಗವತ್ ಸ್ಮರಣಫಲಮ್</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
+</navPoint>
+<navPoint id="navPoint-187" playOrder="187">
+<navLabel><text>ಜೂನ್ ೨೧೫೪. –  ಫಲತ್ಯಾಗದ ಫಲವಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.02"/>
+</navPoint>
+<navPoint id="navPoint-188" playOrder="188">
+<navLabel><text>ಜೂನ್ ೩೧೫೫. –  ಇಂಥವನೇ ಸರ್ವಜ್ಞ</text></navLabel><content src="006-chapter006.xhtml#id-006.03"/>
+</navPoint>
+<navPoint id="navPoint-189" playOrder="189">
+<navLabel><text>ಜೂನ್ ೪೧೫೬. –  ಆತ್ಮನ ಮಹಿಮೆಯಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.04"/>
+</navPoint>
+<navPoint id="navPoint-190" playOrder="190">
+<navLabel><text>ಜೂನ್ ೫೧೫೭. –  ವರ್ಣಗಳಿಗೆ ಸ್ವಭಾವವಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.05"/>
+</navPoint>
+<navPoint id="navPoint-191" playOrder="191">
+<navLabel><text>ಜೂನ್ ೬೧೫೮. –  ಸಂನ್ಯಾಸಿಗೆ ಆರು ಉಪದೇಶಗಳು</text></navLabel><content src="006-chapter006.xhtml#id-006.06"/>
+</navPoint>
+<navPoint id="navPoint-192" playOrder="192">
+<navLabel><text>ಜೂನ್ ೭೧೫೯. –  ಸಾಧಕರು ಶ್ರದ್ಧಾಳುಗಳಾಗಬೇಕು</text></navLabel><content src="006-chapter006.xhtml#id-006.07"/>
+</navPoint>
+<navPoint id="navPoint-193" playOrder="193">
+<navLabel><text>ಜೂನ್ ೮೧೬೦. –  ವಿಶ್ವರೂಪದರ್ಶನವಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.08"/>
+</navPoint>
+<navPoint id="navPoint-194" playOrder="194">
+<navLabel><text>ಜೂನ್ ೯೧೬೧. –  ಇಂಥವರು ಭಗವಂತನಿಗೆ ಪ್ರಿಯರು</text></navLabel><content src="006-chapter006.xhtml#id-006.09"/>
+</navPoint>
+<navPoint id="navPoint-195" playOrder="195">
+<navLabel><text>ಜೂನ್ ೧೦೧೬೨. –  ಜ್ಞಾನಿಗಳ ಕರ್ಮಾಭಾಸ</text></navLabel><content src="006-chapter006.xhtml#id-006.10"/>
+</navPoint>
+<navPoint id="navPoint-196" playOrder="196">
+<navLabel><text>ಜೂನ್ ೧೧೧೬೩. –  ಆತ್ಮಜ್ಞಾನಮಾಹಾತ್ಮ್ಯಮ್</text></navLabel><content src="006-chapter006.xhtml#id-006.11"/>
+</navPoint>
+<navPoint id="navPoint-197" playOrder="197">
+<navLabel><text>ಜೂನ್ ೧೨೧೬೪. –  ಜ್ಞಾನಿಯ ಲೋಕಕಲ್ಯಾಣ</text></navLabel><content src="006-chapter006.xhtml#id-006.12"/>
+</navPoint>
+<navPoint id="navPoint-198" playOrder="198">
+<navLabel><text>ಜೂನ್ ೧೩೧೬೫. –  ಸಂಶಯವಿರಬಾರದು</text></navLabel><content src="006-chapter006.xhtml#id-006.13"/>
+</navPoint>
+<navPoint id="navPoint-199" playOrder="199">
+<navLabel><text>ಜೂನ್ ೧೪೧೬೬. –  ಆತ್ಮನು ನಿರ್ಲಿಪ್ತನು</text></navLabel><content src="006-chapter006.xhtml#id-006.14"/>
+</navPoint>
+<navPoint id="navPoint-200" playOrder="200">
+<navLabel><text>ಜೂನ್ ೧೫೧೬೭. –  ಮುನಿಗಳ ಆಸ್ತಿಯಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.15"/>
+</navPoint>
+<navPoint id="navPoint-201" playOrder="201">
+<navLabel><text>ಜೂನ್ ೧೬೧೬೮. –  ಇವರೇ ಬುದ್ಧಿವಂತರು</text></navLabel><content src="006-chapter006.xhtml#id-006.16"/>
+</navPoint>
+<navPoint id="navPoint-202" playOrder="202">
+<navLabel><text>ಜೂನ್ ೧೭೧೬೯. –  ಸಾತ್ತ್ವಿಕಕರ್ಮವಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.17"/>
+</navPoint>
+<navPoint id="navPoint-203" playOrder="203">
+<navLabel><text>ಜೂನ್ ೧೮೧೭೦. –  ಪ್ರಕೃತಿಯ ಪ್ರಭಾವ!</text></navLabel><content src="006-chapter006.xhtml#id-006.18"/>
+</navPoint>
+<navPoint id="navPoint-204" playOrder="204">
+<navLabel><text>ಜೂನ್ ೧೯೧೭೧. –  ಜ್ಞಾನಿಯ ಆರು ಲಕ್ಷಣಗಳು</text></navLabel><content src="006-chapter006.xhtml#id-006.19"/>
+</navPoint>
+<navPoint id="navPoint-205" playOrder="205">
+<navLabel><text>ಜೂನ್ ೨೦೧೭೨. –  ಇದು, ತಮೋಗುಣವು</text></navLabel><content src="006-chapter006.xhtml#id-006.20"/>
+</navPoint>
+<navPoint id="navPoint-206" playOrder="206">
+<navLabel><text>ಜೂನ್ ೨೧೧೭೩. –  ಮುಕ್ತಿಗೆ ಸಾಧನವಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.21"/>
+</navPoint>
+<navPoint id="navPoint-207" playOrder="207">
+<navLabel><text>ಜೂನ್ ೨೨೧೭೪. –  ಯಜ್ಞದ ಫಲವಿದು</text></navLabel><content src="006-chapter006.xhtml#id-006.22"/>
+</navPoint>
+<navPoint id="navPoint-208" playOrder="208">
+<navLabel><text>ಜೂನ್ ೨೩೧೭೫. –  ಇವನಿಗೆ ಕರ್ಮಗಳು ಬಂಧಕವಲ್ಲ</text></navLabel><content src="006-chapter006.xhtml#id-006.23"/>
+</navPoint>
+<navPoint id="navPoint-209" playOrder="209">
+<navLabel><text>ಜೂನ್ ೨೪೧೭೬. –  ಇವೆರಡೂ ಮುಕ್ತಿಗೆ ಸಾಧನಗಳೇ</text></navLabel><content src="006-chapter006.xhtml#id-006.24"/>
+</navPoint>
+<navPoint id="navPoint-210" playOrder="210">
+<navLabel><text>ಜೂನ್ ೨೫೧೭೭. –  ಇವರು ಬುಧರು</text></navLabel><content src="006-chapter006.xhtml#id-006.25"/>
+</navPoint>
+<navPoint id="navPoint-211" playOrder="211">
+<navLabel><text>ಜೂನ್ ೨೬೧೭೮. –  ಎಲ್ಲವೂ ಬ್ರಹ್ಮವೇ</text></navLabel><content src="006-chapter006.xhtml#id-006.26"/>
+</navPoint>
+<navPoint id="navPoint-212" playOrder="212">
+<navLabel><text>ಜೂನ್ ೨೭೧೭೯. –  ಜ್ಞಾನಸೂರ್ಯರಿವರು!</text></navLabel><content src="006-chapter006.xhtml#id-006.27"/>
+</navPoint>
+<navPoint id="navPoint-213" playOrder="213">
+<navLabel><text>ಜೂನ್ ೨೮೧೮೦. –  ಈ ನಾಲ್ಕೂ ಭಗವದ್ವಿಭೂತಿಗಳೇ</text></navLabel><content src="006-chapter006.xhtml#id-006.28"/>
+</navPoint>
+<navPoint id="navPoint-214" playOrder="214">
+<navLabel><text>ಜೂನ್ ೨೯೧೮೧. –  ಸಾಧಕರಿಗೆ ಶತ್ರುಗಳಿವು</text></navLabel><content src="006-chapter006.xhtml#id-006.29"/>
+</navPoint>
+<navPoint id="navPoint-215" playOrder="215">
+<navLabel><text>ಜೂನ್ ೩೦೧೮೨. –  ಅಜ್ಞರ ನಿತ್ಯಜೀವನಕ್ರಮ</text></navLabel><content src="006-chapter006.xhtml#id-006.30"/>
+</navPoint>
+<navPoint id="navPoint-216" playOrder="216">
+<navLabel><text>ಜುಲೈ ೧೧೮೩. –  ಸುಲಭೋಪಾಯವಿದು</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
+</navPoint>
+<navPoint id="navPoint-217" playOrder="217">
+<navLabel><text>ಜುಲೈ ೨೧೮೪. –  ಧೀರನಾದ ಉದಾಸೀನನಿವನು</text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
+</navPoint>
+<navPoint id="navPoint-218" playOrder="218">
+<navLabel><text>ಜುಲೈ ೩೧೮೫. –  ಚಿತ್ತಶುದ್ಧಿಗೆ ರಹಸ್ಯೋಪಾಯ</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
+</navPoint>
+<navPoint id="navPoint-219" playOrder="219">
+<navLabel><text>ಜುಲೈ ೪೧೮೬. –  ಸಾಧಕರು ಹೀಗಿರಬಾರದು</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
+</navPoint>
+<navPoint id="navPoint-220" playOrder="220">
+<navLabel><text>ಜುಲೈ ೫೧೮೭. –  ಇಂಥವನಿಗೆ ನೈಷ್ಕರ್ಮ್ಯಸಿದ್ಧಿ</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
+</navPoint>
+<navPoint id="navPoint-221" playOrder="221">
+<navLabel><text>ಜುಲೈ ೬೧೮೮. –  ರಾಜಸ ಸುಖವಿದು</text></navLabel><content src="007-chapter007.xhtml#id-007.06"/>
+</navPoint>
+<navPoint id="navPoint-222" playOrder="222">
+<navLabel><text>ಜುಲೈ ೭೧೮೯. –  ಚಿತ್ತಶುದ್ಧಿಗೆ ಸಾಧನವಿದು</text></navLabel><content src="007-chapter007.xhtml#id-007.07"/>
+</navPoint>
+<navPoint id="navPoint-223" playOrder="223">
+<navLabel><text>ಜುಲೈ ೮೧೯೦. –  ಈ ಮೂರೂ, ಮೋಕ್ಷಮಾರ್ಗಗಳೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.08"/>
+</navPoint>
+<navPoint id="navPoint-224" playOrder="224">
+<navLabel><text>ಜುಲೈ ೯೧೯೧. –  ಈ ನಾಲ್ವರೂ ಭಕ್ತರೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.09"/>
+</navPoint>
+<navPoint id="navPoint-225" playOrder="225">
+<navLabel><text>ಜುಲೈ ೧೦೧೯೨. –  ಇಂಥವನಿಗೆ ಪಾಪವೆಂಬುದೇ ಇಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-007.10"/>
+</navPoint>
+<navPoint id="navPoint-226" playOrder="226">
+<navLabel><text>ಜುಲೈ ೧೧೧೯೩. –  ಈಶ್ವರನ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿ</text></navLabel><content src="007-chapter007.xhtml#id-007.11"/>
+</navPoint>
+<navPoint id="navPoint-227" playOrder="227">
+<navLabel><text>ಜುಲೈ ೧೨೧೯೪. –  ಕ್ರಿಯಾಸಿದ್ಧಿಗೆ ಐದು ಕಾರಣಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-007.12"/>
+</navPoint>
+<navPoint id="navPoint-228" playOrder="228">
+<navLabel><text>ಜುಲೈ ೧೩೧೯೫. –  ಎರಡೂ ಒಂದೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.13"/>
+</navPoint>
+<navPoint id="navPoint-229" playOrder="229">
+<navLabel><text>ಜುಲೈ ೧೪೧೯೬. –  ದೈವೀಸಂಪತ್ತಿನಿಂದ ಮೋಕ್ಷ</text></navLabel><content src="007-chapter007.xhtml#id-007.14"/>
+</navPoint>
+<navPoint id="navPoint-230" playOrder="230">
+<navLabel><text>ಜುಲೈ ೧೫೧೯೭. –  ಧ್ಯಾನಯೋಗೋಪಾಯ</text></navLabel><content src="007-chapter007.xhtml#id-007.15"/>
+</navPoint>
+<navPoint id="navPoint-231" playOrder="231">
+<navLabel><text>ಜುಲೈ ೧೬೧೯೮. –  ಸಾತ್ತ್ವಿಕಕರ್ತೃವಿನ ನಾಲ್ಕು ಲಕ್ಷಣಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-007.16"/>
+</navPoint>
+<navPoint id="navPoint-232" playOrder="232">
+<navLabel><text>ಜುಲೈ ೧೭೧೯೯. –  ಸಮ್ಯಗ್ದರ್ಶಿಯಿವನು</text></navLabel><content src="007-chapter007.xhtml#id-007.17"/>
+</navPoint>
+<navPoint id="navPoint-233" playOrder="233">
+<navLabel><text>ಜುಲೈ ೧೮೨೦೦. –  ಇದೂ ಹೋಮವೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.18"/>
+</navPoint>
+<navPoint id="navPoint-234" playOrder="234">
+<navLabel><text>ಜುಲೈ ೧೯೨೦೧. –  ಇಷ್ಟರಿಂದ ಮುಕ್ತಿಯಿಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-007.19"/>
+</navPoint>
+<navPoint id="navPoint-235" playOrder="235">
+<navLabel><text>ಜುಲೈ ೨೦೨೦೨. –  ಈ ಮೂರನ್ನುಳ್ಳವನೇ ಜ್ಞಾನಿ</text></navLabel><content src="007-chapter007.xhtml#id-007.20"/>
+</navPoint>
+<navPoint id="navPoint-236" playOrder="236">
+<navLabel><text>ಜುಲೈ ೨೧೨೦೩. –  ಅನೇಕರಲ್ಲಿ ಇಂಥವನು ಒಬ್ಬನೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.21"/>
+</navPoint>
+<navPoint id="navPoint-237" playOrder="237">
+<navLabel><text>ಜುಲೈ ೨೨೨೦೪. –  ಇಂಥವನಿಗೆ ದುಃಖವಿರುವುದಿಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-007.22"/>
+</navPoint>
+<navPoint id="navPoint-238" playOrder="238">
+<navLabel><text>ಜುಲೈ ೨೩೨೦೫. –  ಜ್ಞಾನಿಯು ನಿತ್ಯತೃಪ್ತನು</text></navLabel><content src="007-chapter007.xhtml#id-007.23"/>
+</navPoint>
+<navPoint id="navPoint-239" playOrder="239">
+<navLabel><text>ಜುಲೈ ೨೪೨೦೬. –  ಸಹಕಾರಿ ಸಾಧನಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-007.24"/>
+</navPoint>
+<navPoint id="navPoint-240" playOrder="240">
+<navLabel><text>ಜುಲೈ ೨೫೨೦೭. –  ಬುದ್ಧಿವಂತನಿವನು</text></navLabel><content src="007-chapter007.xhtml#id-007.25"/>
+</navPoint>
+<navPoint id="navPoint-241" playOrder="241">
+<navLabel><text>ಜುಲೈ ೨೬೨೦೮. –  ಪೂರ್ವಾಭ್ಯಾಸದ ಫಲವಿದು</text></navLabel><content src="007-chapter007.xhtml#id-007.26"/>
+</navPoint>
+<navPoint id="navPoint-242" playOrder="242">
+<navLabel><text>ಜುಲೈ ೨೭೨೦೯. –  ಬ್ರಹ್ಮಾಗ್ನಿಯಜ್ಞವಿದು</text></navLabel><content src="007-chapter007.xhtml#id-007.27"/>
+</navPoint>
+<navPoint id="navPoint-243" playOrder="243">
+<navLabel><text>ಜುಲೈ ೨೮೨೧೦. –  ಸಮದರ್ಶಿಯ ನಾಲ್ಕು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="007-chapter007.xhtml#id-007.28"/>
+</navPoint>
+<navPoint id="navPoint-244" playOrder="244">
+<navLabel><text>ಜುಲೈ ೨೯೨೧೧. –  ಭಕ್ತನಿಗೆ ನಾಶವೆಂಬುದೇ ಇಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-007.29"/>
+</navPoint>
+<navPoint id="navPoint-245" playOrder="245">
+<navLabel><text>ಜುಲೈ ೩೦೨೧೨. –  ಕರ್ಮಯೋಗದ ರಹಸ್ಯಗಳೆರಡು</text></navLabel><content src="007-chapter007.xhtml#id-007.30"/>
+</navPoint>
+<navPoint id="navPoint-246" playOrder="246">
+<navLabel><text>ಜುಲೈ ೩೧೨೧೩. –  ಜಗತ್ತೆಲ್ಲವೂ ಪರಮಾತ್ಮನೇ</text></navLabel><content src="007-chapter007.xhtml#id-007.31"/>
+</navPoint>
+<navPoint id="navPoint-247" playOrder="247">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೨೧೪. –  ಸ್ವಧರ್ಮವೇ ಶ್ರೇಷ್ಠ</text></navLabel><content src="008-chapter008.xhtml#id-008.01"/>
+</navPoint>
+<navPoint id="navPoint-248" playOrder="248">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೨೧೫. –  ಮಾಯೆಯು ಈಶ್ವರಾಧೀನ</text></navLabel><content src="008-chapter008.xhtml#id-008.02"/>
+</navPoint>
+<navPoint id="navPoint-249" playOrder="249">
+<navLabel><text>ಆಗಸ್ಟ್ ೩೨೧೬. –  ಸಾತ್ತ್ವಿಕ ತ್ಯಾಗವಿದು</text></navLabel><content src="008-chapter008.xhtml#id-008.03"/>
+</navPoint>
+<navPoint id="navPoint-250" playOrder="250">
+<navLabel><text>ಆಗಸ್ಟ್ ೪೨೧೭. –  ಇಂಥವರು ಹಿಂತಿರುಗುತ್ತಾರೆ</text></navLabel><content src="008-chapter008.xhtml#id-008.04"/>
+</navPoint>
+<navPoint id="navPoint-251" playOrder="251">
+<navLabel><text>ಆಗಸ್ಟ್ ೫೨೧೮. –  ಇಲ್ಲಿ ದುಃಖಕ್ಕೆ ಕಾರಣವಿಲ್ಲ</text></navLabel><content src="008-chapter008.xhtml#id-008.05"/>
+</navPoint>
+<navPoint id="navPoint-252" playOrder="252">
+<navLabel><text>ಆಗಸ್ಟ್ ೬೨೧೯. –  ಜಗವೆಲ್ಲವೂ ದ್ವಂದ್ವಾತ್ಮಕವೇ</text></navLabel><content src="008-chapter008.xhtml#id-008.06"/>
+</navPoint>
+<navPoint id="navPoint-253" playOrder="253">
+<navLabel><text>ಆಗಸ್ಟ್ ೭೨೨೦. –  ಪ್ರಕೃತಿಯಲ್ಲಿ ಲಯ</text></navLabel><content src="008-chapter008.xhtml#id-008.07"/>
+</navPoint>
+<navPoint id="navPoint-254" playOrder="254">
+<navLabel><text>ಆಗಸ್ಟ್ ೮೨೨೧. –  ಇದು ರಾಜಸೀ ಧೃತಿ</text></navLabel><content src="008-chapter008.xhtml#id-008.08"/>
+</navPoint>
+<navPoint id="navPoint-255" playOrder="255">
+<navLabel><text>ಆಗಸ್ಟ್ ೯೨೨೨. –  ಕ್ಷರಾಕ್ಷರವಿಲಕ್ಷಣನಿವನು</text></navLabel><content src="008-chapter008.xhtml#id-008.09"/>
+</navPoint>
+<navPoint id="navPoint-256" playOrder="256">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೦೨೨೩. –  ಅಕ್ಷರದ ಏಳು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="008-chapter008.xhtml#id-008.10"/>
+</navPoint>
+<navPoint id="navPoint-257" playOrder="257">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೧೨೨೪. –  ಎರಡೂ ಬೇಕು</text></navLabel><content src="008-chapter008.xhtml#id-008.11"/>
+</navPoint>
+<navPoint id="navPoint-258" playOrder="258">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೨೨೨೫. –  ಪ್ರಕೃತಿವಶರ ಹಣೆಬರಹ</text></navLabel><content src="008-chapter008.xhtml#id-008.12"/>
+</navPoint>
+<navPoint id="navPoint-259" playOrder="259">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೩೨೨೬. –  ಈಶ್ವರನ ಯೋಗಶಕ್ತಿ</text></navLabel><content src="008-chapter008.xhtml#id-008.13"/>
+</navPoint>
+<navPoint id="navPoint-260" playOrder="260">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೪೨೨೭. –  ವಿಶ್ವವೆಲ್ಲವೂ ಬ್ರಹ್ಮವೇ</text></navLabel><content src="008-chapter008.xhtml#id-008.14"/>
+</navPoint>
+<navPoint id="navPoint-261" playOrder="261">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೫೨೨೮. –  ಸ್ಮರಣೆಗೆ ತಕ್ಕ ಜನ್ಮಾಂತರ</text></navLabel><content src="008-chapter008.xhtml#id-008.15"/>
+</navPoint>
+<navPoint id="navPoint-262" playOrder="262">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೬೨೨೯. –  ಬ್ರಹ್ಮದ ಏಳು ಲಕ್ಷಣಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.16"/>
+</navPoint>
+<navPoint id="navPoint-263" playOrder="263">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೭೨೩೦. –  ಆತ್ಮನಿಷ್ಠನಿಗೆ ಮೂರು ಲಕ್ಷಣಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.17"/>
+</navPoint>
+<navPoint id="navPoint-264" playOrder="264">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೮೨೩೧. –  ಮಾಯಾಪ್ರಭಾವವಿದು!</text></navLabel><content src="008-chapter008.xhtml#id-008.18"/>
+</navPoint>
+<navPoint id="navPoint-265" playOrder="265">
+<navLabel><text>ಆಗಸ್ಟ್ ೧೯೨೩೨. –  “ಸತ್”ಶಬ್ದದ ಮಹತ್ತ್ವ</text></navLabel><content src="008-chapter008.xhtml#id-008.19"/>
+</navPoint>
+<navPoint id="navPoint-266" playOrder="266">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೦೨೩೩. –  ರಾಜಸಜ್ಞಾನವಿದು!</text></navLabel><content src="008-chapter008.xhtml#id-008.20"/>
+</navPoint>
+<navPoint id="navPoint-267" playOrder="267">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೧೨೩೪. –  ಇವು ಅಸುರರ ಆಸ್ತಿಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.21"/>
+</navPoint>
+<navPoint id="navPoint-268" playOrder="268">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೨೨೩೫. –  ಗುಣಾತೀತನ ಆರು ಲಕ್ಷಣಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.22"/>
+</navPoint>
+<navPoint id="navPoint-269" playOrder="269">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೩೨೩೬. –  ಎಲ್ಲಾ ಫಲಗಳೂ ಪರಮಾತ್ಮನಿಂದಲೇ</text></navLabel><content src="008-chapter008.xhtml#id-008.23"/>
+</navPoint>
+<navPoint id="navPoint-270" playOrder="270">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೪೨೩೭. –  ಪರಮಾತ್ಮನ ಪಂಚ ಲಕ್ಷಣಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.24"/>
+</navPoint>
+<navPoint id="navPoint-271" playOrder="271">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೫೨೩೮. –  ಜ್ಞಾನಿಯ ಪಂಚ ಲಕ್ಷಣಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.25"/>
+</navPoint>
+<navPoint id="navPoint-272" playOrder="272">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೬೨೩೯. –  ವೈಶ್ವಾನರಾಗ್ನಿಯೂ ಆತ್ಮನೇ</text></navLabel><content src="008-chapter008.xhtml#id-008.26"/>
+</navPoint>
+<navPoint id="navPoint-273" playOrder="273">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೭೨೪೦. –  ಆತ್ಮಜ್ಞಾನದೀಪವಿದು</text></navLabel><content src="008-chapter008.xhtml#id-008.27"/>
+</navPoint>
+<navPoint id="navPoint-274" playOrder="274">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೮೨೪೧. –  ಬಟ್ಟೆಗಳಂತೆ ದೇಹಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.28"/>
+</navPoint>
+<navPoint id="navPoint-275" playOrder="275">
+<navLabel><text>ಆಗಸ್ಟ್ ೨೯೨೪೨. –  ಧ್ಯಾನಕ್ಕೆ ಸ್ಥಳ, ಆಸನಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008.29"/>
+</navPoint>
+<navPoint id="navPoint-276" playOrder="276">
+<navLabel><text>ಆಗಸ್ಟ್ ೩೦೨೪೩. –  ಶ್ರದ್ಧೆಯೇ ಜೀವನ</text></navLabel><content src="008-chapter008.xhtml#id-008.30"/>
+</navPoint>
+<navPoint id="navPoint-277" playOrder="277">
+<navLabel><text>ಆಗಸ್ಟ್ ೩೧೨೪೪. –  ಇಂಥವನಿಗೆ ಪಾಪವಿಲ್ಲ</text></navLabel><content src="008-chapter008.xhtml#id-008.31"/>
+</navPoint>
+<navPoint id="navPoint-278" playOrder="278">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೨೪೫. –  ಇದೆಲ್ಲವೂ ಒಂದಂಶಮಾತ್ರ</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
+</navPoint>
+<navPoint id="navPoint-279" playOrder="279">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೨೪೬. –  ಇವನೂ ಸಂನ್ಯಾಸಿಯೇ</text></navLabel><content src="009-chapter009.xhtml#id-009.02"/>
+</navPoint>
+<navPoint id="navPoint-280" playOrder="280">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೩೨೪೭. –  ಚಿತ್ತಶುದ್ಧಿಯ ಮಹಿಮೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.03"/>
+</navPoint>
+<navPoint id="navPoint-281" playOrder="281">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೪೨೪೮. –  ಇಂಥವನಿಗೇ ಶಾಂತಿ</text></navLabel><content src="009-chapter009.xhtml#id-009.04"/>
+</navPoint>
+<navPoint id="navPoint-282" playOrder="282">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೫೨೪೯. –  ರಾಕ್ಷಸಭೀತಿಪರಿಹಾರಕಮಂತ್ರ</text></navLabel><content src="009-chapter009.xhtml#id-009.05"/>
+</navPoint>
+<navPoint id="navPoint-283" playOrder="283">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೬೨೫೦. –  ಮುಳ್ಳಿನಿಂದ ಮುಳ್ಳನ್ನು ತೆಗೆದಂತೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.06"/>
+</navPoint>
+<navPoint id="navPoint-284" playOrder="284">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೭೨೫೧. –  ಜ್ಯೋತಿಗಳಿಗೆಲ್ಲ ಜ್ಯೋತಿ</text></navLabel><content src="009-chapter009.xhtml#id-009.07"/>
+</navPoint>
+<navPoint id="navPoint-285" playOrder="285">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೮೨೫೨. –  ಷಡ್ಗುಣಸಂಪನ್ನನಾದ ಭಕ್ತನು</text></navLabel><content src="009-chapter009.xhtml#id-009.08"/>
+</navPoint>
+<navPoint id="navPoint-286" playOrder="286">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೯೨೫೩. –  ಈ ನಾಲ್ವರೂ ಅನಧಿಕಾರಿಗಳೇ</text></navLabel><content src="009-chapter009.xhtml#id-009.09"/>
+</navPoint>
+<navPoint id="navPoint-287" playOrder="287">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೦೨೫೪. –  ಮುಕ್ತಿಯ ಮಹಿಮೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.10"/>
+</navPoint>
+<navPoint id="navPoint-288" playOrder="288">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೧೨೫೫. –  ಕಾಮವಿಜಯಕ್ಕೆ ಉಪಾಯ</text></navLabel><content src="009-chapter009.xhtml#id-009.11"/>
+</navPoint>
+<navPoint id="navPoint-289" playOrder="289">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೨೨೫೬. –  ಎಲ್ಲರಿಗೂ ತಿಳಿಯುವವನಲ್ಲ</text></navLabel><content src="009-chapter009.xhtml#id-009.12"/>
+</navPoint>
+<navPoint id="navPoint-290" playOrder="290">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೩೨೫೭. –  ಅಧ್ಯಾಸದಿಂದಲೇ ಸೃಷ್ಟಿ</text></navLabel><content src="009-chapter009.xhtml#id-009.13"/>
+</navPoint>
+<navPoint id="navPoint-291" playOrder="291">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೪೨೫೮. –  ಯುಕ್ತತಮರಾದ ಭಕ್ತರಿವರು</text></navLabel><content src="009-chapter009.xhtml#id-009.14"/>
+</navPoint>
+<navPoint id="navPoint-292" playOrder="292">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೫೨೫೯. –  ಯೋಗಿಗೆ ಬ್ರಹ್ಮಾನುಭವಪ್ರಾಪ್ತಿ</text></navLabel><content src="009-chapter009.xhtml#id-009.15"/>
+</navPoint>
+<navPoint id="navPoint-293" playOrder="293">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೬೨೬೦. –  ದೈವ, ಆಸುರ ಮಾನವರು</text></navLabel><content src="009-chapter009.xhtml#id-009.16"/>
+</navPoint>
+<navPoint id="navPoint-294" playOrder="294">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೭೨೬೧. –  ಈಶ್ವರಾನುಗ್ರಹದ ಫಲವಿದು</text></navLabel><content src="009-chapter009.xhtml#id-009.17"/>
+</navPoint>
+<navPoint id="navPoint-295" playOrder="295">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೮೨೬೨. –  ಭಕ್ತಪ್ರಿಯ ಭಗವಂತ</text></navLabel><content src="009-chapter009.xhtml#id-009.18"/>
+</navPoint>
+<navPoint id="navPoint-296" playOrder="296">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೯೨೬೩. –  ಗೀತಾಚಾರ್ಯನ ಹಿತವಚನವಿದು</text></navLabel><content src="009-chapter009.xhtml#id-009.19"/>
+</navPoint>
+<navPoint id="navPoint-297" playOrder="297">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೦೨೬೪. –  ಆತ್ಮನ ಒಂಬತ್ತು ಲಕ್ಷಣಗಳು</text></navLabel><content src="009-chapter009.xhtml#id-009.20"/>
+</navPoint>
+<navPoint id="navPoint-298" playOrder="298">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೧೨೬೫. –  ಪರತತ್ತ್ವವೇ ಶ್ರೀಕೃಷ್ಣ</text></navLabel><content src="009-chapter009.xhtml#id-009.21"/>
+</navPoint>
+<navPoint id="navPoint-299" playOrder="299">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೨೨೬೬. –  ಎರಡಕ್ಕೂ ಅಜಗಜಾಂತರ</text></navLabel><content src="009-chapter009.xhtml#id-009.22"/>
+</navPoint>
+<navPoint id="navPoint-300" playOrder="300">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೩೨೬೭. –  ಯೋಗಿಯ ಲಕ್ಷಣವಿದು</text></navLabel><content src="009-chapter009.xhtml#id-009.23"/>
+</navPoint>
+<navPoint id="navPoint-301" playOrder="301">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೪೨೬೮. –  ತಾಮಸ ಸುಖವಿದು</text></navLabel><content src="009-chapter009.xhtml#id-009.24"/>
+</navPoint>
+<navPoint id="navPoint-302" playOrder="302">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೫೨೬೯. –  ಇದೆಲ್ಲವೂ ಕ್ಷೇತ್ರವೇ</text></navLabel><content src="009-chapter009.xhtml#id-009.25"/>
+</navPoint>
+<navPoint id="navPoint-303" playOrder="303">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೬೨೭೦. –  ಸಾತ್ತ್ವಿಕಧೃತಿಯಿದು</text></navLabel><content src="009-chapter009.xhtml#id-009.26"/>
+</navPoint>
+<navPoint id="navPoint-304" playOrder="304">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೭೨೭೧. –  ಬ್ರಹ್ಮಿಷ್ಠರಿಗೆ ಮುಕ್ತಿ</text></navLabel><content src="009-chapter009.xhtml#id-009.27"/>
+</navPoint>
+<navPoint id="navPoint-305" playOrder="305">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೮೨೭೨. –  ಸರ್ವಾತ್ಮಕನಾದ ಶ್ರೀಕೃಷ್ಣ</text></navLabel><content src="009-chapter009.xhtml#id-009.28"/>
+</navPoint>
+<navPoint id="navPoint-306" playOrder="306">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೯೨೭೩. –  ರಾಗದ್ವೇಷರಹಿತನೇ ಸಂನ್ಯಾಸಿಯು</text></navLabel><content src="009-chapter009.xhtml#id-009.29"/>
+</navPoint>
+<navPoint id="navPoint-307" playOrder="307">
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೩೦೨೭೪. –  ಪಾಪಗಳಿಂದ ಮುಕ್ತನಿವನು </text></navLabel><content src="009-chapter009.xhtml#id-009.30"/>
+</navPoint>
+<navPoint id="navPoint-308" playOrder="308">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೨೭೫. –  ಬಿಡಬೇಕಾದ ದೋಷಗಳಿವು</text></navLabel><content src="010-chapter010.xhtml#id-010.01"/>
+</navPoint>
+<navPoint id="navPoint-309" playOrder="309">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೨೭೬. –  ಹನ್ನೊಂದು ದೈವೀಸಂಪತ್ತುಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-010.02"/>
+</navPoint>
+<navPoint id="navPoint-310" playOrder="310">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೩೨೭೭. –  ಇಂಥವನಿಗೇ ಶಾಂತಿಯು</text></navLabel><content src="010-chapter010.xhtml#id-010.03"/>
+</navPoint>
+<navPoint id="navPoint-311" playOrder="311">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೪೨೭೮. –  ಗೀತಾಶ್ರವಣದ ಫಲ</text></navLabel><content src="010-chapter010.xhtml#id-010.04"/>
+</navPoint>
+<navPoint id="navPoint-312" playOrder="312">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೫೨೭೯. –  ಇವನಿಗೇ ಅಮೃತತ್ವವು</text></navLabel><content src="010-chapter010.xhtml#id-010.05"/>
+</navPoint>
+<navPoint id="navPoint-313" playOrder="313">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೬೨೮೦. –  ಇವನೇ ತತ್ತ್ವವಿದನು</text></navLabel><content src="010-chapter010.xhtml#id-010.06"/>
+</navPoint>
+<navPoint id="navPoint-314" playOrder="314">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೭೨೮೧. –  ಜ್ಞಾನಚಕ್ಷುಷರಿವರು</text></navLabel><content src="010-chapter010.xhtml#id-010.07"/>
+</navPoint>
+<navPoint id="navPoint-315" playOrder="315">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೮೨೮೨. –  ಆಸುರಯಜ್ಞವಿದು</text></navLabel><content src="010-chapter010.xhtml#id-010.08"/>
+</navPoint>
+<navPoint id="navPoint-316" playOrder="316">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೯೨೮೩. –  ಮೂವರಿಗೂ ಮೂರುವಿಧ ಲೋಕಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-010.09"/>
+</navPoint>
+<navPoint id="navPoint-317" playOrder="317">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೦೨೮೪. –  ಸ್ವಧರ್ಮಾಚರಣೆಯೇ ಶ್ರೇಷ್ಠ</text></navLabel><content src="010-chapter010.xhtml#id-010.10"/>
+</navPoint>
+<navPoint id="navPoint-318" playOrder="318">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೧೨೮೫. –  ವಿವೇಕಿಗಳಿವರು!</text></navLabel><content src="010-chapter010.xhtml#id-010.11"/>
+</navPoint>
+<navPoint id="navPoint-319" playOrder="319">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೨೨೮೬. –  ಇವನಿಗೆ ದುರ್ಗತಿಯಿಲ್ಲ</text></navLabel><content src="010-chapter010.xhtml#id-010.12"/>
+</navPoint>
+<navPoint id="navPoint-320" playOrder="320">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೩೨೮೭. –  ಭಗವಂತನ ವಿಭೂತಿಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-010.13"/>
+</navPoint>
+<navPoint id="navPoint-321" playOrder="321">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೪೨೮೮. –  ತ್ರಿಗುಣಗಳ ಫಲಗಳಿವು</text></navLabel><content src="010-chapter010.xhtml#id-010.14"/>
+</navPoint>
+<navPoint id="navPoint-322" playOrder="322">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೫೨೮೯. –  ಪರಸ್ಪರಾತ್ಮರಿವರು</text></navLabel><content src="010-chapter010.xhtml#id-010.15"/>
+</navPoint>
+<navPoint id="navPoint-323" playOrder="323">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೬೨೯೦. –  ಭಕ್ತಿಗೇ ಬೆಲೆಯಿಲ್ಲಿ!</text></navLabel><content src="010-chapter010.xhtml#id-010.16"/>
+</navPoint>
+<navPoint id="navPoint-324" playOrder="324">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೭೨೯೧. –  ವಿಶ್ವರೂಪದ ಚಿತ್ರಣ!</text></navLabel><content src="010-chapter010.xhtml#id-010.17"/>
+</navPoint>
+<navPoint id="navPoint-325" playOrder="325">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೮೨೯೨. –  ಆತ್ಮನಿಗೆ ನಾಶವಿಲ್ಲ</text></navLabel><content src="010-chapter010.xhtml#id-010.18"/>
+</navPoint>
+<navPoint id="navPoint-326" playOrder="326">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೯೨೯೩. –  ಪ್ರತ್ಯಗಾತ್ಮನ ಮಹಿಮೆ</text></navLabel><content src="010-chapter010.xhtml#id-010.19"/>
+</navPoint>
+<navPoint id="navPoint-327" playOrder="327">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೦೨೯೪. –  ಕರ್ಮಫಲಗಳು ಅನಿತ್ಯ</text></navLabel><content src="010-chapter010.xhtml#id-010.20"/>
+</navPoint>
+<navPoint id="navPoint-328" playOrder="328">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೧೨೯೫. –  ಮಾಯಾತರಣೋಪಾಯವಿದು</text></navLabel><content src="010-chapter010.xhtml#id-010.21"/>
+</navPoint>
+<navPoint id="navPoint-329" playOrder="329">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೨೨೯೬. –  ಹತ್ತು ದೈವೀಸಂಪತ್ತುಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-010.22"/>
+</navPoint>
+<navPoint id="navPoint-330" playOrder="330">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೩೨೯೭. –  ಗುಣಾತೀತನಿವನು</text></navLabel><content src="010-chapter010.xhtml#id-010.23"/>
+</navPoint>
+<navPoint id="navPoint-331" playOrder="331">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೪೨೯೮. –  ಮೋಹವು ನಾಶವಾದರೆ</text></navLabel><content src="010-chapter010.xhtml#id-010.24"/>
+</navPoint>
+<navPoint id="navPoint-332" playOrder="332">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೫೨೯೯. –  ಜೀವನ್ಮುಕ್ತನಿವನು</text></navLabel><content src="010-chapter010.xhtml#id-010.25"/>
+</navPoint>
+<navPoint id="navPoint-333" playOrder="333">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೬೩೦೦. –  ಅರಿಯರಿವರು</text></navLabel><content src="010-chapter010.xhtml#id-010.26"/>
+</navPoint>
+<navPoint id="navPoint-334" playOrder="334">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೭೩೦೧. –  ಓಂಕಾರದ ಮಹಿಮೆ</text></navLabel><content src="010-chapter010.xhtml#id-010.27"/>
+</navPoint>
+<navPoint id="navPoint-335" playOrder="335">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೮೩೦೨. –  ಸುಲಭ ಕರ್ಮಯೋಗವಿದು</text></navLabel><content src="010-chapter010.xhtml#id-010.28"/>
+</navPoint>
+<navPoint id="navPoint-336" playOrder="336">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೯೩೦೩. –  ತಮ್ಮ ಬಂಧನಕ್ಕೆ ತಾವೇ ಕಾರಣ</text></navLabel><content src="010-chapter010.xhtml#id-010.29"/>
+</navPoint>
+<navPoint id="navPoint-337" playOrder="337">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೩೦೩೦೪. –  ಗತಾಗತಮಾರ್ಗವಿದು</text></navLabel><content src="010-chapter010.xhtml#id-010.30"/>
+</navPoint>
+<navPoint id="navPoint-338" playOrder="338">
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೩೧೩೦೫. –  ಬ್ರಹ್ಮನಿಷ್ಠನೇ ಧೀರನು!</text></navLabel><content src="010-chapter010.xhtml#id-010.31"/>
+</navPoint>
+<navPoint id="navPoint-339" playOrder="339">
+<navLabel><text>ನವೆಂಬರ್ ೧೩೦೬. –  ಜ್ಞಾನಿಯೆಂದರೆ ಪರಬ್ರಹ್ಮವೇ</text></navLabel><content src="011-chapter011.xhtml#id-011.01"/>
+</navPoint>
+<navPoint id="navPoint-340" playOrder="340">
+<navLabel><text>ನವೆಂಬರ್ ೨೩೦೭. –  ಸ್ಥಿತಪ್ರಜ್ಞನಿವನು</text></navLabel><content src="011-chapter011.xhtml#id-011.02"/>
+</navPoint>
+<navPoint id="navPoint-341" playOrder="341">
+<navLabel><text>ನವೆಂಬರ್ ೩೩೦೮. –  ಶರಣಾಗತಿಯಿಂದ ಪಾಪವಿಮೋಚನೆ</text></navLabel><content src="011-chapter011.xhtml#id-011.03"/>
+</navPoint>
+<navPoint id="navPoint-342" playOrder="342">
+<navLabel><text>ನವೆಂಬರ್ ೪೩೦೯. –  ಆಸುರರ ನಾಲ್ಕು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="011-chapter011.xhtml#id-011.04"/>
+</navPoint>
+<navPoint id="navPoint-343" playOrder="343">
+<navLabel><text>ನವೆಂಬರ್ ೫೩೧೦. –  ಅಧಿಭೂತಾಧಿದೈವಗಳೂ ಈಶ್ವರನೇ</text></navLabel><content src="011-chapter011.xhtml#id-011.05"/>
+</navPoint>
+<navPoint id="navPoint-344" playOrder="344">
+<navLabel><text>ನವೆಂಬರ್ ೬೩೧೧. –  ಇಂಥವರು ಅತ್ಯಂತ ದುರ್ಲಭರೇ</text></navLabel><content src="011-chapter011.xhtml#id-011.06"/>
+</navPoint>
+<navPoint id="navPoint-345" playOrder="345">
+<navLabel><text>ನವೆಂಬರ್ ೭೩೧೨. –  ಆತ್ಮಾನಾತ್ಮರ ವಿವೇಕವಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.07"/>
+</navPoint>
+<navPoint id="navPoint-346" playOrder="346">
+<navLabel><text>ನವೆಂಬರ್ ೮೩೧೩. –  ಸಾತ್ತ್ವಿಕದಾನವಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.08"/>
+</navPoint>
+<navPoint id="navPoint-347" playOrder="347">
+<navLabel><text>ನವೆಂಬರ್ ೯೩೧೪. –  ಭಕ್ತಿಯ ಫಲವಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.09"/>
+</navPoint>
+<navPoint id="navPoint-348" playOrder="348">
+<navLabel><text>ನವೆಂಬರ್ ೧೦೩೧೫. –  ಬ್ರಹ್ಮಿಷ್ಠನ ಐದು ಲಕ್ಷಣಗಳಿವು</text></navLabel><content src="011-chapter011.xhtml#id-011.10"/>
+</navPoint>
+<navPoint id="navPoint-349" playOrder="349">
+<navLabel><text>ನವೆಂಬರ್ ೧೧೩೧೬. –  ಮೂರು ಉಪದೇಶಗಳು</text></navLabel><content src="011-chapter011.xhtml#id-011.11"/>
+</navPoint>
+<navPoint id="navPoint-350" playOrder="350">
+<navLabel><text>ನವೆಂಬರ್ ೧೨೩೧೭. –  ಸತ್ತ್ವಗುಣಕ್ಕೆ ಗುರುತು</text></navLabel><content src="011-chapter011.xhtml#id-011.12"/>
+</navPoint>
+<navPoint id="navPoint-351" playOrder="351">
+<navLabel><text>ನವೆಂಬರ್ ೧೩೩೧೮. –  ಪರಬ್ರಹ್ಮದ ಮಹಿಮೆಯಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.13"/>
+</navPoint>
+<navPoint id="navPoint-352" playOrder="352">
+<navLabel><text>ನವೆಂಬರ್ ೧೪೩೧೯. –  ಬಂಧನದಿಂದ ನಿವೃತ್ತಿ</text></navLabel><content src="011-chapter011.xhtml#id-011.14"/>
+</navPoint>
+<navPoint id="navPoint-353" playOrder="353">
+<navLabel><text>ನವೆಂಬರ್ ೧೫೩೨೦. –  ವಿಷಯೇಂದ್ರಿಯಸಂಬಂಧ</text></navLabel><content src="011-chapter011.xhtml#id-011.15"/>
+</navPoint>
+<navPoint id="navPoint-354" playOrder="354">
+<navLabel><text>ನವೆಂಬರ್ ೧೬೩೨೧. –  ಮುಮುಕ್ಷುಗಳಿಗೆ ಫಲವಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.16"/>
+</navPoint>
+<navPoint id="navPoint-355" playOrder="355">
+<navLabel><text>ನವೆಂಬರ್ ೧೭೩೨೨. –  ಯಜ್ಞದ ಫಲವಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.17"/>
+</navPoint>
+<navPoint id="navPoint-356" playOrder="356">
+<navLabel><text>ನವೆಂಬರ್ ೧೮೩೨೩. –  ಆತ್ಮನ ನಾಲ್ಕು ಲಕ್ಷಣಗಳು</text></navLabel><content src="011-chapter011.xhtml#id-011.18"/>
+</navPoint>
+<navPoint id="navPoint-357" playOrder="357">
+<navLabel><text>ನವೆಂಬರ್ ೧೯೩೨೪. –  ಅಧ್ಯಾತ್ಮವಿದ್ಯೆಯೇ ವಿದ್ಯೆ</text></navLabel><content src="011-chapter011.xhtml#id-011.19"/>
+</navPoint>
+<navPoint id="navPoint-358" playOrder="358">
+<navLabel><text>ನವೆಂಬರ್ ೨೦೩೨೫. –  ಕ್ರತು, ಮಂತ್ರಗಳೂ ಭಗವಂತನೇ</text></navLabel><content src="011-chapter011.xhtml#id-011.20"/>
+</navPoint>
+<navPoint id="navPoint-359" playOrder="359">
+<navLabel><text>ನವೆಂಬರ್ ೨೧೩೨೬. –  ಇಂಥವನು ಮುಕ್ತನಾಗುತ್ತಾನೆ</text></navLabel><content src="011-chapter011.xhtml#id-011.21"/>
+</navPoint>
+<navPoint id="navPoint-360" playOrder="360">
+<navLabel><text>ನವೆಂಬರ್ ೨೨೩೨೭. –  ಪರಮಯೋಗಿಯಿವನು</text></navLabel><content src="011-chapter011.xhtml#id-011.22"/>
+</navPoint>
+<navPoint id="navPoint-361" playOrder="361">
+<navLabel><text>ನವೆಂಬರ್ ೨೩೩೨೮. –  ನಾರದಮಹರ್ಷಿ</text></navLabel><content src="011-chapter011.xhtml#id-011.23"/>
+</navPoint>
+<navPoint id="navPoint-362" playOrder="362">
+<navLabel><text>ನವೆಂಬರ್ ೨೪೩೨೯. –  ತಾಮಸಕರ್ತೃವಿನ ಎಂಟು ಲಕ್ಷಣಗಳು</text></navLabel><content src="011-chapter011.xhtml#id-011.24"/>
+</navPoint>
+<navPoint id="navPoint-363" playOrder="363">
+<navLabel><text>ನವೆಂಬರ್ ೨೫೩೩೦. –  ಪ್ರಕೃತಿಯ ಎಂಟು ರೂಪಗಳು</text></navLabel><content src="011-chapter011.xhtml#id-011.25"/>
+</navPoint>
+<navPoint id="navPoint-364" playOrder="364">
+<navLabel><text>ನವೆಂಬರ್ ೨೬೩೩೧. –  ಧೀರನಿಗೆ ದುಃಖವಿಲ್ಲ</text></navLabel><content src="011-chapter011.xhtml#id-011.26"/>
+</navPoint>
+<navPoint id="navPoint-365" playOrder="365">
+<navLabel><text>ನವೆಂಬರ್ ೨೭೩೩೨. –  ಗೀತಾಚಾರ್ಯನ ಪ್ರತಿಜ್ಞೆ !</text></navLabel><content src="011-chapter011.xhtml#id-011.27"/>
+</navPoint>
+<navPoint id="navPoint-366" playOrder="366">
+<navLabel><text>ನವೆಂಬರ್ ೨೮೩೩೩. –  ಸೂರ್ಯನಂತೆ ಆತ್ಮನು</text></navLabel><content src="011-chapter011.xhtml#id-011.28"/>
+</navPoint>
+<navPoint id="navPoint-367" playOrder="367">
+<navLabel><text>ನವೆಂಬರ್ ೨೯೩೩೪. –  ಅಭ್ಯಾಸಯೋಗದ ಫಲ</text></navLabel><content src="011-chapter011.xhtml#id-011.29"/>
+</navPoint>
+<navPoint id="navPoint-368" playOrder="368">
+<navLabel><text>ನವೆಂಬರ್ ೩೦೩೩೫. –  ದೇವತಾಪೂಜೆಯ ಫಲವಿದು</text></navLabel><content src="011-chapter011.xhtml#id-011.30"/>
+</navPoint>
+<navPoint id="navPoint-369" playOrder="369">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೩೩೬. –  ಗೀತೋಪದೇಶಕನಿಗೆ ಫಲವಿದು</text></navLabel><content src="012-chapter012.xhtml#id-012.01"/>
+</navPoint>
+<navPoint id="navPoint-370" playOrder="370">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೩೩೭. –  ಜ್ಞಾನವೆಂಬ ದೋಣಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.02"/>
+</navPoint>
+<navPoint id="navPoint-371" playOrder="371">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೩೩೩೮. –  ಚಂಚಲ ಮನಸ್ಸಿನಿಂದ ಅಪಾಯ!</text></navLabel><content src="012-chapter012.xhtml#id-012.03"/>
+</navPoint>
+<navPoint id="navPoint-372" playOrder="372">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೪೩೩೯. –  ಇಂಥವರಿಗೆ ಸ್ವರ್ಗಪ್ರಾಪ್ತಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.04"/>
+</navPoint>
+<navPoint id="navPoint-373" playOrder="373">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೫೩೪೦. –  ಇಂಥವನಿಗೆ ಪರಮಶಾಂತಿಯು</text></navLabel><content src="012-chapter012.xhtml#id-012.05"/>
+</navPoint>
+<navPoint id="navPoint-374" playOrder="374">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೬೩೪೧. –  ಇಂಥವನಿಗೆ ಪಾಪಲೇಪವಿಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-012.06"/>
+</navPoint>
+<navPoint id="navPoint-375" playOrder="375">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೭೩೪೨. –  ಮುಕ್ತಿಗೆ ಯೋಗ್ಯನಿವನು</text></navLabel><content src="012-chapter012.xhtml#id-012.07"/>
+</navPoint>
+<navPoint id="navPoint-376" playOrder="376">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೮೩೪೩. –  ಇಂಥವನಿಗೆ ಸುಖಪ್ರಾಪ್ತಿಯು</text></navLabel><content src="012-chapter012.xhtml#id-012.08"/>
+</navPoint>
+<navPoint id="navPoint-377" playOrder="377">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೯೩೪೪. –  ಸ್ವಧರ್ಮದಿಂದ ಸಂಸಿದ್ಧಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.09"/>
+</navPoint>
+<navPoint id="navPoint-378" playOrder="378">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೦೩೪೫. –  ಸಮತ್ವವೇ ಯೋಗವು</text></navLabel><content src="012-chapter012.xhtml#id-012.10"/>
+</navPoint>
+<navPoint id="navPoint-379" playOrder="379">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೧೩೪೬. –  ಮಿಥ್ಯಾಚಾರನಾಗಬಾರದು</text></navLabel><content src="012-chapter012.xhtml#id-012.11"/>
+</navPoint>
+<navPoint id="navPoint-380" playOrder="380">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೨೩೪೭. –  ಸ್ಥಿತಪ್ರಜ್ಞನ ನಾಲ್ಕು ಲಕ್ಷಣಗಳು</text></navLabel><content src="012-chapter012.xhtml#id-012.12"/>
+</navPoint>
+<navPoint id="navPoint-381" playOrder="381">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೩೩೪೮. –  ಜ್ಞಾನಾಗ್ನಿಯ ಮಹಿಮೆ</text></navLabel><content src="012-chapter012.xhtml#id-012.13"/>
+</navPoint>
+<navPoint id="navPoint-382" playOrder="382">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೪೩೪೯. –  ಕರ್ಮಯೋಗದ ನಾಲ್ಕು ರಹಸ್ಯಗಳು</text></navLabel><content src="012-chapter012.xhtml#id-012.14"/>
+</navPoint>
+<navPoint id="navPoint-383" playOrder="383">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೫೩೫೦. –  ಧ್ಯಾನಕ್ಕೆ ಐದು ಕ್ರಮಗಳು</text></navLabel><content src="012-chapter012.xhtml#id-012.15"/>
+</navPoint>
+<navPoint id="navPoint-384" playOrder="384">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೬೩೫೧. –  ಶ್ರವಣದ ನಾಲ್ಕು ಫಲಗಳಿವು!</text></navLabel><content src="012-chapter012.xhtml#id-012.16"/>
+</navPoint>
+<navPoint id="navPoint-385" playOrder="385">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೭೩೫೨. –  ತುಂಟ ಇಂದ್ರಿಯಗಳಿವು!</text></navLabel><content src="012-chapter012.xhtml#id-012.17"/>
+</navPoint>
+<navPoint id="navPoint-386" playOrder="386">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೮೩೫೩. –  ಸಂನ್ಯಾಸಿಗೆ ಹಿತೋಪದೇಶ</text></navLabel><content src="012-chapter012.xhtml#id-012.18"/>
+</navPoint>
+<navPoint id="navPoint-387" playOrder="387">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೯೩೫೪. –  ಬ್ರಹ್ಮವಿದ್ಯಾಚಾರ್ಯಪರಂಪರಾ</text></navLabel><content src="012-chapter012.xhtml#id-012.19"/>
+</navPoint>
+<navPoint id="navPoint-388" playOrder="388">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೦೩೫೫. –  ಜ್ಞಾನದಿಂದ ಮೋಹನಿವೃತ್ತಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.20"/>
+</navPoint>
+<navPoint id="navPoint-389" playOrder="389">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೧೩೫೬. –  ಇಂಥವನಿಗೇ ಸುಖ</text></navLabel><content src="012-chapter012.xhtml#id-012.21"/>
+</navPoint>
+<navPoint id="navPoint-390" playOrder="390">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೨೩೫೭. –  ಅವಿದ್ಯಾಸ್ವಭಾವವಿದು</text></navLabel><content src="012-chapter012.xhtml#id-012.22"/>
+</navPoint>
+<navPoint id="navPoint-391" playOrder="391">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೩೩೫೮. –  ಸಂಪತ್ತುಗಳ ಸಂಗಮವಿಲ್ಲಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.23"/>
+</navPoint>
+<navPoint id="navPoint-392" playOrder="392">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೪೩೫೯. –  ಅಂತಕಾಲದಲ್ಲೂ ಫಲಕಾರಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.24"/>
+</navPoint>
+<navPoint id="navPoint-393" playOrder="393">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೫೩೬೦. –  ಜ್ಞಾನಿಗೆ ಬಂಧನವಿಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-012.25"/>
+</navPoint>
+<navPoint id="navPoint-394" playOrder="394">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೬೩೬೧. –  ಕೃತಕೃತ್ಯನಿವನು!</text></navLabel><content src="012-chapter012.xhtml#id-012.26"/>
+</navPoint>
+<navPoint id="navPoint-395" playOrder="395">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೭೩೬೨. –  ಭಕ್ತಿಯಿಂದ ಮುಕ್ತಿ</text></navLabel><content src="012-chapter012.xhtml#id-012.27"/>
+</navPoint>
+<navPoint id="navPoint-396" playOrder="396">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೮೩೬೩. –  ಮಹಾತ್ಮರಿಗೆ ಜನ್ಮವಿಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-012.28"/>
+</navPoint>
+<navPoint id="navPoint-397" playOrder="397">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೯೩೬೪. –  ಜ್ಞಾನಯಜ್ಞದ ಪ್ರಸಾರ</text></navLabel><content src="012-chapter012.xhtml#id-012.29"/>
+</navPoint>
+<navPoint id="navPoint-398" playOrder="398">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೩೦೩೬೫. –  ಪುಣ್ಯಲೋಕಗಳೂ ಮೋಕ್ಷವೂ</text></navLabel><content src="012-chapter012.xhtml#id-012.30"/>
+</navPoint>
+<navPoint id="navPoint-399" playOrder="399">
+<navLabel><text>ಡಿಸೆಂಬರ್ ೩೧೩೬೬. –  ಜ್ಞಾನಿಗೆ ಪುನರ್ಜನ್ಮವಿಲ್ಲ !</text></navLabel><content src="012-chapter012.xhtml#id-012.31"/>
+</navPoint>
+   </navMap>
+</ncx>
