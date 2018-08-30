@@ -1,9 +1,10 @@
 <?php 
 
-class Dumpjunk{
+class Dumpjunk {
+
+	private $langConstraint;
 
 	public function __construct() {
-		
 		
 	}
 
@@ -13,14 +14,14 @@ class Dumpjunk{
 		
 		$folderPath = UNICODE_SRC . $bookID . '/';
 		
-	    $iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($folderPath));
+		$iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($folderPath));
 
-	    foreach($iterator as $file => $object) {
-	    	
-	    	if(preg_match('/.*' . $bookID . '\/\d.*\.xhtml$/',$file)) array_push($allFiles, $file);
-	    }
+		foreach($iterator as $file => $object) {
 
-	    sort($allFiles);
+			if(preg_match('/.*' . $bookID . '\/\d.*\.xhtml$/',$file)) array_push($allFiles, $file);
+		}
+
+		sort($allFiles);
 
 		return $allFiles;
 	}
@@ -30,68 +31,189 @@ class Dumpjunk{
 		$allXhtmlFiles = $this->getAllFiles($bookID);
 
 		$junkWords = [];
+		$falseWord = [];
 
 		foreach($allXhtmlFiles as $xhtmlFile){
 
-			$xhtmlFileContents = file_get_contents($xhtmlFile);
-
-			$xhtmlFileContents = strip_tags($xhtmlFileContents);
-			// new file normalizations
-			$xhtmlFileContents = str_replace('.', '. ', $xhtmlFileContents);
-			$xhtmlFileContents = preg_replace('/\s+/', ' ', $xhtmlFileContents);
-			$xhtmlFileContents = preg_replace('/ /', "\n", $xhtmlFileContents);
-			$xhtmlFileContents = str_replace('–', '-', $xhtmlFileContents);		
+			$tempJunk = [];
+			$tempFalse = [];
+			$alphaNumeric = [];
+			$finalWords = $this->getArrayOfWords(file_get_contents($xhtmlFile));
+			$xhtmlFile = str_replace(constant('UNICODE_SRC'), '',$xhtmlFile); 
 			
-			$finalWords = explode("\n",$xhtmlFileContents);
-
-			$tempArray = [];
-
 			foreach($finalWords as $word){
-
-
-				if(preg_match('/È|É|Ë|Ì|Ï|Ò|Ó|Õ|Ö|Ø|Œ|Ù|œ|Ú|Û|Ü|ß|â|μ|ä|å|æ|š|é|ë|%|&|ï|ñ|ò|ó|ô|‰|õ|ö|ù|û|ü|‹|Ÿ|›|ÿ|@|¢|£|¤|¥|©|ª|«|®|°|»|¿|À|Á|Â|Ã|Å|Æ|~|Ç|[a-zA-Z]/u', $word)){
-			
-					if($word != '&amp;'){				
-						
-						array_push($tempArray, $word);
-					}						
-				}				
-				if(preg_match('/^[\s\W]?(ा|ि|ी|ु|ू|ृ|ॄ|ॅ|ॆ|े|ै|ॉ|ॊ|ो|ौ|्|ं|ः|ऽ)/u', $word)){
-						
-					if($word != '&amp;'){
-						
-						array_push($tempArray, $word);
-					}		
+				
+				// Alpha Numeric word
+				if(preg_match('/^[+a-zA-Z0-9-,#:;.()@\\/"]+$/u', $word)){
+					array_push($alphaNumeric, $word);
+					continue;
 				}
-				if(preg_match('/(ा|ि|ी|ु|ू|ृ|ॄ|ॅ|ॆ|े|ै|ॉ|ॊ|ो|ौ|्){2}/u', $word)){
 
-					if($word != '&amp;'){				
-						
-						array_push($tempArray, $word);
-					}							
-				}
-				if(preg_match('/ंे/u', $word)){
+				if($this->checkWord($word))
+					array_push($tempFalse, $word);
 
-					if($word != '&amp;'){				
-						
-						array_push($tempArray, $word);
-					}							
-				}
+				if($this->checkLetters($word))
+					array_push($tempJunk, $word);
+				
 			}
 
-			if($tempArray){
+			if($tempJunk){
 
 				array_push($junkWords, $xhtmlFile);
-				$junkWords = array_merge($junkWords,$tempArray);
+				array_push($junkWords, "List of Junk Word");
+				$junkWords = array_merge($junkWords,$tempJunk);
+			}
+
+			if($tempFalse){
+
+				array_push($falseWord, $xhtmlFile);
+				array_push($falseWord, "List of False Word");
+				$falseWord = array_merge($falseWord,$tempFalse);
 			}
 		}
 
-		if(file_exists(RAW_SRC . $bookID . '/' . $bookID . ".junk.txt")) unlink(RAW_SRC . $bookID . '/' . $bookID . ".junk.txt");
+		// array_push($alphaNumeric, $xhtmlFile);
+		// array_push($falseWord, "List of alphaNumeric Word");
+		// $falseWord = array_merge($falseWord,$alphaNumeric);
 
-		if($junkWords){
+		if(file_exists(RAW_SRC . $bookID . '/' . $bookID . ".junk.txt"))
+			unlink(RAW_SRC . $bookID . '/' . $bookID . ".junk.txt");
 
-			file_put_contents(RAW_SRC . $bookID . '/' . $bookID . ".junk.txt", implode("\n",$junkWords));
-		}	
+		if($junkWords || $falseWord)
+			file_put_contents(RAW_SRC . $bookID . '/' . $bookID . ".junk.txt", implode("\n",array_merge($junkWords, $falseWord)));
+
+	}
+
+	public function checkWord($word) {
+
+		$vyanjana = $this->langConstraint['vyanjana'];
+		$swara_endings = $this->langConstraint['swaraEndings'];
+		$halanta = $this->langConstraint['halanta'];
+		$yogavahagalu = $this->langConstraint['yogavahagalu'];
+		$swara = $this->langConstraint['swara'];;
+		
+		// checking word start with swara endings
+		if(preg_match("/^($swara_endings|$yogavahagalu)/u", $word))
+			return 1;
+
+		// checking word contain more than one swara endings or yogavahagalu or halanta
+		elseif(preg_match("/($swara_endings){2}|($yogavahagalu){2}|($halanta){2}/u", $word))
+			return 1;
+		
+		// checking word contain yogavahagalu followed by swara endings
+		elseif(preg_match("/($yogavahagalu)($swara_endings|$halanta)/u", $word))
+			return 1;
+
+		elseif(preg_match("/($swara_endings)($halanta)/u", $word))
+			return 1;
+			
+		elseif(preg_match("/($swara_endings)($halanta)/u", $word))
+			return 1;
+
+		return 0;
+	}
+
+	public function checkLetters($word) {
+
+		$characters = preg_split('//u', $word, -1, PREG_SPLIT_NO_EMPTY);
+
+		foreach ($characters as $character) {
+
+			if(!((ord($character) >= ord($this->langConstraint['range']['start'])) && (ord($character) <= ord($this->langConstraint['range']['end']))))
+				if(!preg_match('/[(),\'“”—\-\.‘’!?;=:#,]/', $character))
+					return 1;
+		}
+
+		return 0;
+	}
+
+	public function sanityCheck($bookID){
+
+		$allXhtmlFiles = $this->getAllFiles($bookID);
+		
+		foreach($allXhtmlFiles as $xhtmlFile) {
+
+			$xhtmlFileContents = file_get_contents($xhtmlFile);
+			$xhtmlFileContents = explode('\n', $xhtmlFileContents);
+			$data = '';
+			$insideBody = 0;
+
+			foreach ($xhtmlFileContents as $line) {
+
+				if(preg_match('/<body/i', $line)){
+					$insideBody = 1;
+				}
+
+				if($insideBody) {
+
+					// Spacing between characters
+					$line = preg_replace('/(॥|।)/', " $1 ", $line);
+
+					//Right Spacing
+					$line = preg_replace('/\h*(,|;|’|”)\h*/u', "$1 ", $line);
+					
+					//Left Spacing
+					$line = preg_replace('/\h*(‘|“)\h*/u', " $1", $line);
+
+					// Spacing between inline elements
+					$line = preg_replace('/<strong>\h*(.*?)\h*<\/strong>/u', " <strong>$1</strong> ", $line);
+					$line = preg_replace('/<span(.*?)>\h*(.*?)\h*<\/span>/', " <span$1>$2</span> ", $line);
+					$line = preg_replace('/<a(.*?)>(.*?)<\/a>/', " <a$1>$2</a> ", $line);
+
+					// Replace multiple space with single space
+					$line = preg_replace('/\h+/u', ' ', $line);
+
+					// Remove extra space
+					$line = preg_replace('/\h+(\.|”|,|’)/u', "$1", $line); // space before '.' OR '”' tag
+					$line = preg_replace('/\w(\()/', " $1", $line); // space between bracket tag
+					$line = preg_replace('/(\()\h*/', "$1", $line); // space between BR tag
+					$line = preg_replace('/\h*(\))/', "$1", $line); // space between BR tag
+					$line = preg_replace('/\h*<br\h*\/>\h*/u', '<br />', $line); // space between BR tag
+					$line = preg_replace('/\h*(<h[1-6].*?>)\h*/u', "$1", $line); // space at starting of heading tags
+					$line = preg_replace('/\h*(<\/h[1-6]>)\h*/u', "$1", $line); // space at ending of heading tags
+					$line = preg_replace('/\h*(<(p|li|td|th|section).*?>)\h*/u', "$1", $line); // space at ending of heading tags
+					$line = preg_replace('/\h*(<\/(p|li|td|th|section)>)\h*/u', "$1", $line); // space at ending of heading tags
+
+					// Final Modification
+					$line = str_replace(' ‘ <strong>', " ‘<strong>", $line);
+					$line = preg_replace("/ \n /u", "\n", $line);
+				}
+
+				$data .= $line;
+			}
+		
+			file_put_contents($xhtmlFile, $data);
+		}
+	}
+
+	public function getArrayOfWords($xhtmlFileContents){
+
+		$xhtmlFileContents = preg_replace('/\h*<br\h*\/>\h*/u', ' ', $xhtmlFileContents);
+		$xhtmlFileContents = strip_tags($xhtmlFileContents);
+		// new file normalizations
+		$xhtmlFileContents = str_replace('.', '. ', $xhtmlFileContents);
+		$xhtmlFileContents = preg_replace('/,/', ', ', $xhtmlFileContents);
+		$xhtmlFileContents = preg_replace('/\s+/', ' ', $xhtmlFileContents);
+		$xhtmlFileContents = preg_replace('/ /', "\n", $xhtmlFileContents);
+		$xhtmlFileContents = str_replace('–', '-', $xhtmlFileContents);
+		$finalWords = explode("\n", $xhtmlFileContents);
+
+		return $finalWords;
+	}
+
+	public function setLanguageContraint($language){
+
+		$contentString = file_get_contents(JSON_PRECAST . 'language-details.json');
+		$content = json_decode($contentString, true);
+
+		if(isset($content[$language])){
+			$this->langConstraint = $content[$language];
+			return 1;
+		}
+		else
+			return 0;
+
+
 	}
 }
 ?>
