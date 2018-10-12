@@ -2,9 +2,28 @@
 
 	require_once 'constants.php';
 	require_once 'dumpjunk.php';
-
-	$id = $argv[1];
-	$language = $argv[2];
+	
+	if(isset($argv[1]))	{
+		
+		$id = $argv[1];
+	}
+	else{
+		
+		echo "\n\tERROR: Please enter Book id\n\n";
+		exit;
+	}
+	
+	if(isset($argv[2]))	{
+		
+		$language = $argv[2];
+	}
+	else{
+		
+		echo "\n\tERROR: Please Specify language [kan, hin, tel]\n\n";
+		exit;
+	}
+	
+	
 	$dumpjunk = new Dumpjunk();
 	
 	if(!$dumpjunk->setLanguageContraint($language))	{

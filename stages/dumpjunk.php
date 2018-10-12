@@ -26,7 +26,7 @@ class Dumpjunk {
 		return $allFiles;
 	}
 
-	public function extractJunk($bookID){
+	public function extractJunk($bookID) {
 		
 		$allXhtmlFiles = $this->getAllFiles($bookID);
 
@@ -44,7 +44,7 @@ class Dumpjunk {
 			foreach($finalWords as $word){
 				
 				// Alpha Numeric word
-				if(preg_match('/^[+a-zA-Z0-9-,#:;.()@\\/"]+$/u', $word)){
+				if(preg_match('/^[+a-zA-Z0-9-,#:;.()@\\/*"‘’“&!”—?\'\[\]_]+$/u', $word)){
 					array_push($alphaNumeric, $word);
 					continue;
 				}
@@ -91,9 +91,10 @@ class Dumpjunk {
 		$halanta = $this->langConstraint['halanta'];
 		$yogavahagalu = $this->langConstraint['yogavahagalu'];
 		$swara = $this->langConstraint['swara'];;
+		$numeric = $this->langConstraint['numeric'];;
 		
 		// checking word start with swara endings
-		if(preg_match("/^($swara_endings|$yogavahagalu)/u", $word))
+		if(preg_match("/^($swara_endings|$yogavahagalu|$halanta)/u", $word))
 			return 1;
 
 		// checking word contain more than one swara endings or yogavahagalu or halanta
@@ -107,10 +108,24 @@ class Dumpjunk {
 		elseif(preg_match("/($swara_endings)($halanta)/u", $word))
 			return 1;
 			
-		elseif(preg_match("/($swara_endings)($halanta)/u", $word))
+		elseif(preg_match("/($halanta)($swara_endings)/u", $word))
 			return 1;
 
-		return 0;
+		elseif(preg_match("/($swara)($swara_endings)/u", $word))
+			return 1;
+
+		elseif(preg_match("/($vyanjana|$swara_endings|$halanta|$yogavahagalu)($swara)/u", $word))
+			return 1;
+
+		elseif(preg_match("/[$numeric]+($yogavahagalu)|($yogavahagalu)[$numeric]+/u", $word))
+			return 1;
+		
+		//Zero width space followed by swaraending or halanta or yogavahagalu should not occur
+		elseif(preg_match("/​($swara_endings|$halanta|$yogavahagalu)/u", $word))
+			return 1;
+
+		else
+			return 0;
 	}
 
 	public function checkLetters($word) {
@@ -118,16 +133,20 @@ class Dumpjunk {
 		$characters = preg_split('//u', $word, -1, PREG_SPLIT_NO_EMPTY);
 
 		foreach ($characters as $character) {
+			
 
-			if(!((ord($character) >= ord($this->langConstraint['range']['start'])) && (ord($character) <= ord($this->langConstraint['range']['end']))))
-				if(!preg_match('/[(),\'“”—\-\.‘’!?;=:#,]/', $character))
+			// For zero width space character
+			if ($this->_uniord($character) == 8203 || $this->_uniord($character) == 8204 || $this->_uniord($character) == 8205)	continue;
+
+			if(!(($this->_uniord($character) >= $this->_uniord($this->langConstraint['range']['start'])) && ($this->_uniord($character) <= $this->_uniord($this->langConstraint['range']['end']))))
+				if(!preg_match('/[(),\'"“”—\-\.‘’!?;=:#,*`¯\[\]\\/॥।]/u', $character))
 					return 1;
 		}
-
-		return 0;
+		
+		return 0;	
 	}
 
-	public function sanityCheck($bookID){
+	public function sanityCheck($bookID) {
 
 		$allXhtmlFiles = $this->getAllFiles($bookID);
 		
@@ -157,22 +176,24 @@ class Dumpjunk {
 
 					// Spacing between inline elements
 					$line = preg_replace('/<strong>\h*(.*?)\h*<\/strong>/u', " <strong>$1</strong> ", $line);
-					$line = preg_replace('/<span(.*?)>\h*(.*?)\h*<\/span>/', " <span$1>$2</span> ", $line);
-					$line = preg_replace('/<a(.*?)>(.*?)<\/a>/', " <a$1>$2</a> ", $line);
-
+					$line = preg_replace('/<span(.*?)>\h*(.*?)\h*<\/span>/u', " <span$1>$2</span> ", $line);
+					$line = preg_replace('/<a(.*?)>(.*?)<\/a>/u', " <a$1>$2</a> ", $line);
+					
 					// Replace multiple space with single space
 					$line = preg_replace('/\h+/u', ' ', $line);
 
 					// Remove extra space
 					$line = preg_replace('/\h+(\.|”|,|’)/u', "$1", $line); // space before '.' OR '”' tag
-					$line = preg_replace('/\w(\()/', " $1", $line); // space between bracket tag
-					$line = preg_replace('/(\()\h*/', "$1", $line); // space between BR tag
-					$line = preg_replace('/\h*(\))/', "$1", $line); // space between BR tag
+					$line = preg_replace('/\w(\()/u', " $1", $line); // space between bracket tag
+					$line = preg_replace('/(\()\h*/u', "$1", $line); // space between BR tag
+					$line = preg_replace('/\h*(\))/u', "$1", $line); // space between BR tag
 					$line = preg_replace('/\h*<br\h*\/>\h*/u', '<br />', $line); // space between BR tag
 					$line = preg_replace('/\h*(<h[1-6].*?>)\h*/u', "$1", $line); // space at starting of heading tags
 					$line = preg_replace('/\h*(<\/h[1-6]>)\h*/u', "$1", $line); // space at ending of heading tags
 					$line = preg_replace('/\h*(<(p|li|td|th|section).*?>)\h*/u', "$1", $line); // space at ending of heading tags
 					$line = preg_replace('/\h*(<\/(p|li|td|th|section)>)\h*/u', "$1", $line); // space at ending of heading tags
+					$line = preg_replace('/\h*<sup>\h*<a/u', "<sup><a", $line); // space at sup tag
+					$line = preg_replace('/a>\h*<\/sup>\h*/u', "a></sup> ", $line); // space at sup tag
 
 					// Final Modification
 					$line = str_replace(' ‘ <strong>', " ‘<strong>", $line);
@@ -181,12 +202,12 @@ class Dumpjunk {
 
 				$data .= $line;
 			}
-		
+
 			file_put_contents($xhtmlFile, $data);
 		}
 	}
 
-	public function getArrayOfWords($xhtmlFileContents){
+	public function getArrayOfWords($xhtmlFileContents)	{
 
 		$xhtmlFileContents = preg_replace('/\h*<br\h*\/>\h*/u', ' ', $xhtmlFileContents);
 		$xhtmlFileContents = strip_tags($xhtmlFileContents);
@@ -201,7 +222,7 @@ class Dumpjunk {
 		return $finalWords;
 	}
 
-	public function setLanguageContraint($language){
+	public function setLanguageContraint($language)	{
 
 		$contentString = file_get_contents(JSON_PRECAST . 'language-details.json');
 		$content = json_decode($contentString, true);
@@ -212,8 +233,26 @@ class Dumpjunk {
 		}
 		else
 			return 0;
-
-
 	}
-}
+
+	public function _uniord($c) {
+
+		if (ord($c{0}) >=0 && ord($c{0}) <= 127)
+			return ord($c{0});
+		if (ord($c{0}) >= 192 && ord($c{0}) <= 223)
+			return (ord($c{0})-192)*64 + (ord($c{1})-128);
+		if (ord($c{0}) >= 224 && ord($c{0}) <= 239)
+			return (ord($c{0})-224)*4096 + (ord($c{1})-128)*64 + (ord($c{2})-128);
+		if (ord($c{0}) >= 240 && ord($c{0}) <= 247)
+			return (ord($c{0})-240)*262144 + (ord($c{1})-128)*4096 + (ord($c{2})-128)*64 + (ord($c{3})-128);
+		if (ord($c{0}) >= 248 && ord($c{0}) <= 251)
+			return (ord($c{0})-248)*16777216 + (ord($c{1})-128)*262144 + (ord($c{2})-128)*4096 + (ord($c{3})-128)*64 + (ord($c{4})-128);
+		if (ord($c{0}) >= 252 && ord($c{0}) <= 253)
+			return (ord($c{0})-252)*1073741824 + (ord($c{1})-128)*16777216 + (ord($c{2})-128)*262144 + (ord($c{3})-128)*4096 + (ord($c{4})-128)*64 + (ord($c{5})-128);
+		if (ord($c{0}) >= 254 && ord($c{0}) <= 255)    //  error
+			return FALSE;
+			
+		return 0;
+	}
+}	
 ?>
