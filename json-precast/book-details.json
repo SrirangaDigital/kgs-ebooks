@@ -10,6 +10,26 @@
             "pages": "418",
             "description": ""
         },
+        "004": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/004",
+            "isbn": "",
+            "title": "ಗೀತಾ ಸಂವತ್ಸರ",
+            "category": "",
+            "publisher": "",
+            "pages": "454",
+            "description": ""
+        },
+        "005": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/005",
+            "isbn": "",
+            "title": "ಸುಭಾಷಿತ ಸಂವತ್ಸರ",
+            "category": "",
+            "publisher": "",
+            "pages": "410",
+            "description": ""
+        },
         "016": {
             "language": "kn",
             "identifier": "kgs_eBooks/016",
@@ -98,6 +118,16 @@
             "category": "",
             "publisher": "",
             "pages": "52",
+            "description": ""
+        },
+        "092": {
+            "language": "kn",
+            "identifier": "kgs_eBooks/092",
+            "isbn": "",
+            "title": "ಸುರೇಶ್ವರ ಸಂವತ್ಸರ",
+            "category": "",
+            "publisher": "",
+            "pages": "434",
             "description": ""
         }
 	}
