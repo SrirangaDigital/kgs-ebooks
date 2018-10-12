@@ -22,7 +22,7 @@
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b.01"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಪ್ರಸ್ತಾವನೆ( ಪ್ರಥಮ ಮುದ್ರಣಕ್ಕೆ )</text></navLabel><content src="000c-Preface1.xhtml#id-000c.01.01"/>
+<navLabel><text>ಪ್ರಸ್ತಾವನೆ(ಪ್ರಥಮ ಮುದ್ರಣಕ್ಕೆ)</text></navLabel><content src="000c-Preface1.xhtml#id-000c.01.01"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>ಪ್ರಕಾಶಕರ ನುಡಿ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.01.02"/>
@@ -31,19 +31,19 @@
 <navLabel><text>ಲೇಖಕನ ಬಿನ್ನಹ</text></navLabel><content src="000c-Preface1.xhtml#id-000c.01.03"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ಪ್ರಕಾಶಕರ ನಿವೇದನೆ( ಎರಡನೆಯ ಮುದ್ರಣಕ್ಕೆ)</text></navLabel><content src="000c-Preface2.xhtml#id-000c.02"/>
+<navLabel><text>ಪ್ರಕಾಶಕರ ನಿವೇದನೆ(ಎರಡನೆಯ ಮುದ್ರಣಕ್ಕೆ)</text></navLabel><content src="000c-Preface2.xhtml#id-000c.02"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಲೇಖಕನ ಬಿನ್ನಪ( ತೃತೀಯ ಮುದ್ರಣಕ್ಕೆ)</text></navLabel><content src="000c-Preface3.xhtml#id-000c.03"/>
+<navLabel><text>ಲೇಖಕನ ಬಿನ್ನಪ(ತೃತೀಯ ಮುದ್ರಣಕ್ಕೆ)</text></navLabel><content src="000c-Preface3.xhtml#id-000c.03"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ಹದಿನಾಲ್ಕು ಉಪನಿಷತ್ತು’ಗಳು ಯಾವುವು?</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01"/>
+<navLabel><text>ಹದಿನಾಲ್ಕು ಉಪನಿಷತ್ತು’ ಗಳು ಯಾವುವು?</text></navLabel><content src="000d-Introduction1.xhtml#id-000d.01"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
 <navLabel><text>೧. ಭಾನುವಾರಬ್ರಹ್ಮಜ್ಞಾನವೇ ಮಾನವಜನ್ಮದ ಗುರಿ</text></navLabel><content src="000d-Introduction2.xhtml#id-000d.02.01"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>೨. ಸೋಮವಾರಇವುಗಳು ಜ್ಞಾನಪ್ರಾಪ್ತಿಗೆ ಸಾಧನಗಳು</text></navLabel><content src="000d-Introduction2.xhtml#id-000d.02.02"/>
+<navLabel><text>೨. ಸೋಮವಾರ ಇವುಗಳು ಜ್ಞಾನಪ್ರಾಪ್ತಿಗೆ ಸಾಧನಗಳು</text></navLabel><content src="000d-Introduction2.xhtml#id-000d.02.02"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
 <navLabel><text>೩. ಮಂಗಳವಾರಜ್ಞಾನಪ್ರಾಪ್ತಿಗೆ ಕರ್ಮಯೋಗವು ಬೇಕು</text></navLabel><content src="000d-Introduction2.xhtml#id-000d.02.03"/>
@@ -67,16 +67,16 @@
 <navLabel><text>೨. ವೈಶಾಖಮಾಸಸಾಧಕರಿಗೆ ಶಂಕರರ ‘ಎಚ್ಚರಿಕೆಯ ಗಂಟೆ’</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.02"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>೩. ಜ್ಯೇಷ್ಠಮಾಸಮಾನವನು ‘ಮಾಧವ’ನಾಗಬೇಕು</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.03"/>
+<navLabel><text>೩. ಜ್ಯೇಷ್ಠಮಾಸಮಾನವನು ‘ಮಾಧವ’ ನಾಗಬೇಕು</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.03"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
 <navLabel><text>೪. ಆಷಾಢಮಾಸಸದ್ಗುರು ಅನುಗ್ರಹದಿಂದ ಆತ್ಮಜ್ಞಾನಪ್ರಾಪ್ತಿ</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.04"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>೫. ಶ್ರಾವಣಮಾಸಆತ್ಮಜ್ಞಾನಕ್ಕೆ ‘ಶ್ರವಣ’ವು ಬೇಕೇ ಬೇಕು</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.05"/>
+<navLabel><text>೫. ಶ್ರಾವಣಮಾಸಆತ್ಮಜ್ಞಾನಕ್ಕೆ ‘ಶ್ರವಣ’ ವು ಬೇಕೇ ಬೇಕು</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.05"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>೬. ಭಾದ್ರಪದಮಾಸಜ್ಞಾನದಿಂದ “ವೈಷ್ಣವ ಪದ”ದ ಪ್ರಾಪ್ತಿ</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.06"/>
+<navLabel><text>೬. ಭಾದ್ರಪದಮಾಸಜ್ಞಾನದಿಂದ “ವೈಷ್ಣವ ಪದ” ದ ಪ್ರಾಪ್ತಿ</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.06"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
 <navLabel><text>೭. ಆಶ್ವಯುಜಮಾಸಮಾಯೆಯನ್ನು ದಾಟುವದು ಹೇಗೆ?</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.07"/>
@@ -97,16 +97,16 @@
 <navLabel><text>೧೨. ಫಾಲ್ಗುಣಮಾಸಬ್ರಹ್ಮಜ್ಞಾನಿಗಳೆಂದರೆ ಬ್ರಹ್ಮಸ್ವರೂಪರೇ</text></navLabel><content src="000d-Introduction3.xhtml#id-000d.03.12"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>‘ಪ್ರಸ್ಥಾನತ್ರಯ ಶಾಂಕರಭಾಷ್ಯ’ಗಳ ಪರಿಚಯ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04"/>
+<navLabel><text>‘ಪ್ರಸ್ಥಾನತ್ರಯ ಶಾಂಕರಭಾಷ್ಯ’ ಗಳ ಪರಿಚಯ</text></navLabel><content src="000d-Introduction4.xhtml#id-000d.04"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>“ಶಾಂಕರ ಸಂವತ್ಸರ” ಗ್ರಂಥವನ್ನು ಕುರಿತು ವಿವಿಧ ಹಿರಿಯ ವಿದ್ವಾಂಸರುಗಳ ‘ಅನಿಸಿಕೆ’ಗಳು</text></navLabel><content src="000d-Introduction5.xhtml#id-000d.05"/>
+<navLabel><text>“ಶಾಂಕರ ಸಂವತ್ಸರ” ಗ್ರಂಥವನ್ನು ಕುರಿತು ವಿವಿಧ ಹಿರಿಯ ವಿದ್ವಾಂಸರುಗಳ ‘ಅನಿಸಿಕೆ’ ಗಳು</text></navLabel><content src="000d-Introduction5.xhtml#id-000d.05"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
 <navLabel><text>ಯಾರಿಗಾಗಿ ಈ “ಶಾಂಕರ ಸಂವತ್ಸರ” ಗ್ರಂಥ?</text></navLabel><content src="000d-Introduction6.xhtml#id-000d.06"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>ಜನವರಿ ೧೧. –  ಮನುಷ್ಯನಿಗೆ ಎಂಥಾ ‘ಸುವರ್ಣಾವಕಾಶ’!</text></navLabel><content src="001-chapter001.xhtml#id-01.01"/>
+<navLabel><text>ಜನವರಿ ೧೧. –  ಮನುಷ್ಯನಿಗೆ ಎಂಥಾ ‘ಸುವರ್ಣಾವಕಾಶ’ !</text></navLabel><content src="001-chapter001.xhtml#id-01.01"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
 <navLabel><text>ಜನವರಿ ೨೨. –  ಮಾನವರಿಗೆ ಶ್ರೀಶಂಕರರ ‘ಕಿವಿಮಾತು’</text></navLabel><content src="001-chapter001.xhtml#id-01.02"/>
@@ -118,7 +118,7 @@
 <navLabel><text>ಜನವರಿ ೪೪. –  ‘ಉಪನಿಷತ್’ ಎಂದರೆ ಬ್ರಹ್ಮವಿದ್ಯೆಯೇ</text></navLabel><content src="001-chapter001.xhtml#id-01.04"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>ಜನವರಿ ೫೫. –  ‘ದುರಭಿಮಾನಿ’ಗೆ ಬ್ರಹ್ಮಜ್ಞಾನವು ಲಭಿಸದು</text></navLabel><content src="001-chapter001.xhtml#id-01.05"/>
+<navLabel><text>ಜನವರಿ ೫೫. –  ‘ದುರಭಿಮಾನಿ’ ಗೆ ಬ್ರಹ್ಮಜ್ಞಾನವು ಲಭಿಸದು</text></navLabel><content src="001-chapter001.xhtml#id-01.05"/>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
 <navLabel><text>ಜನವರಿ ೬೬. –  ಲೌಕಿಕಸಂಪತ್ತಿನಿಂದ ಮುಕ್ತಿಯು ದೊರಕದು</text></navLabel><content src="001-chapter001.xhtml#id-01.06"/>
@@ -160,7 +160,7 @@
 <navLabel><text>ಜನವರಿ ೧೮೧೮. –  ಆತ್ಮಜ್ಞಾನದಿಂದಲೇ ಕೃತಕೃತ್ಯತೆ</text></navLabel><content src="001-chapter001.xhtml#id-01.18"/>
 </navPoint>
 <navPoint id="navPoint-49" playOrder="49">
-<navLabel><text>ಜನವರಿ ೧೯೧೯. –  “ಬ್ರಹ್ಮ”ಶಬ್ದದ ಸ್ವಾರಸ್ಯ!</text></navLabel><content src="001-chapter001.xhtml#id-01.19"/>
+<navLabel><text>ಜನವರಿ ೧೯೧೯. –  “ಬ್ರಹ್ಮ” ಶಬ್ದದ ಸ್ವಾರಸ್ಯ!</text></navLabel><content src="001-chapter001.xhtml#id-01.19"/>
 </navPoint>
 <navPoint id="navPoint-50" playOrder="50">
 <navLabel><text>ಜನವರಿ ೨೦೨೦. –  ಬುದ್ಧಿಚಾತುರ್ಯದಿಂದ ಜ್ಞಾನವು ದೊರಕದು!</text></navLabel><content src="001-chapter001.xhtml#id-01.20"/>
@@ -193,7 +193,7 @@
 <navLabel><text>ಜನವರಿ ೨೯೨೯. –  ವಾಕ್ಯಾರ್ಥವಿಚಾರದಿಂದಲೇ ಬ್ರಹ್ಮಜ್ಞಾನ</text></navLabel><content src="001-chapter001.xhtml#id-01.29"/>
 </navPoint>
 <navPoint id="navPoint-60" playOrder="60">
-<navLabel><text>ಜನವರಿ ೩೦೩೦. –  ‘ಸುಸಂಸ್ಕೃತ’ವಾದ ಮನಸ್ಸು</text></navLabel><content src="001-chapter001.xhtml#id-01.30"/>
+<navLabel><text>ಜನವರಿ ೩೦೩೦. –  ‘ಸುಸಂಸ್ಕೃತ’ ವಾದ ಮನಸ್ಸು</text></navLabel><content src="001-chapter001.xhtml#id-01.30"/>
 </navPoint>
 <navPoint id="navPoint-61" playOrder="61">
 <navLabel><text>ಜನವರಿ ೩೧೩೧. –  ಆಸಕ್ತಿಯಿದ್ದವರಿಗೇ ಬ್ರಹ್ಮವಿದ್ಯಾಪ್ರಾಪ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-01.31"/>
@@ -220,13 +220,13 @@
 <navLabel><text>ಫೆಬ್ರುವರಿ ೭೩೮. –  ಪಾಶವೀವೃತ್ತಿಯಿಂದ ಅಧೋಗತಿ!</text></navLabel><content src="002-chapter002.xhtml#id-02.07"/>
 </navPoint>
 <navPoint id="navPoint-69" playOrder="69">
-<navLabel><text>ಫೆಬ್ರುವರಿ ೮೩೯. –  ‘ಗುರುಶಿಷ್ಯ’ರು ಹೇಗಿರಬೇಕು?</text></navLabel><content src="002-chapter002.xhtml#id-02.08"/>
+<navLabel><text>ಫೆಬ್ರುವರಿ ೮೩೯. –  ‘ಗುರುಶಿಷ್ಯ’ ರು ಹೇಗಿರಬೇಕು?</text></navLabel><content src="002-chapter002.xhtml#id-02.08"/>
 </navPoint>
 <navPoint id="navPoint-70" playOrder="70">
 <navLabel><text>ಫೆಬ್ರುವರಿ ೯೪೦. –  ಜ್ಞಾನವಾಗುವವರೆಗೂ ತಪಸ್ಸು ಬೇಕೇ ಬೇಕು</text></navLabel><content src="002-chapter002.xhtml#id-02.09"/>
 </navPoint>
 <navPoint id="navPoint-71" playOrder="71">
-<navLabel><text>ಫೆಬ್ರುವರಿ ೧೦೪೧. –  “ತತ್ ತ್ವಮ್ ಅಸಿ”—ಎಂದರೇನು?</text></navLabel><content src="002-chapter002.xhtml#id-02.10"/>
+<navLabel><text>ಫೆಬ್ರುವರಿ ೧೦೪೧. –  “ತತ್ ತ್ವಮ್ ಅಸಿ” —ಎಂದರೇನು?</text></navLabel><content src="002-chapter002.xhtml#id-02.10"/>
 </navPoint>
 <navPoint id="navPoint-72" playOrder="72">
 <navLabel><text>ಫೆಬ್ರುವರಿ ೧೧೪೨. –  ಉಪಾಸನೆಗೆ ನಾಲ್ಕು ಅಂಗಗಳು</text></navLabel><content src="002-chapter002.xhtml#id-02.11"/>
@@ -247,7 +247,7 @@
 <navLabel><text>ಫೆಬ್ರುವರಿ ೧೬೪೭. –  ಕೇವಲತಾರ್ಕಿಕರು ಭ್ರಾಂತರೇ</text></navLabel><content src="002-chapter002.xhtml#id-02.16"/>
 </navPoint>
 <navPoint id="navPoint-78" playOrder="78">
-<navLabel><text>ಫೆಬ್ರುವರಿ ೧೭೪೮. –  “ಸದ್ಯೋಮುಕ್ತಿ”ಯೆಂದರೇನು?</text></navLabel><content src="002-chapter002.xhtml#id-02.17"/>
+<navLabel><text>ಫೆಬ್ರುವರಿ ೧೭೪೮. –  “ಸದ್ಯೋಮುಕ್ತಿ” ಯೆಂದರೇನು?</text></navLabel><content src="002-chapter002.xhtml#id-02.17"/>
 </navPoint>
 <navPoint id="navPoint-79" playOrder="79">
 <navLabel><text>ಫೆಬ್ರುವರಿ ೧೮೪೯. –  ‘ಅನನ್ಯಭಕ್ತಿ’ ಎಂದರೇನು?</text></navLabel><content src="002-chapter002.xhtml#id-02.18"/>
@@ -259,7 +259,7 @@
 <navLabel><text>ಫೆಬ್ರುವರಿ ೨೦೫೧. –  ಅಜ್ಞಾನದಿಂದಲೇ ಕರ್ಮಗಳಲ್ಲಿ ಪ್ರವೃತ್ತಿ</text></navLabel><content src="002-chapter002.xhtml#id-02.20"/>
 </navPoint>
 <navPoint id="navPoint-82" playOrder="82">
-<navLabel><text>ಫೆಬ್ರುವರಿ ೨೧೫೨. –  ಜ್ಞಾನಿಗೆ ‘ಶೋಕಮೋಹ’ಗಳಿಲ್ಲ</text></navLabel><content src="002-chapter002.xhtml#id-02.21"/>
+<navLabel><text>ಫೆಬ್ರುವರಿ ೨೧೫೨. –  ಜ್ಞಾನಿಗೆ ‘ಶೋಕಮೋಹ’ ಗಳಿಲ್ಲ</text></navLabel><content src="002-chapter002.xhtml#id-02.21"/>
 </navPoint>
 <navPoint id="navPoint-83" playOrder="83">
 <navLabel><text>ಫೆಬ್ರುವರಿ ೨೨೫೩. –  ಮುಕ್ತಿಯೆಂಬುದು ಬದುಕಿರುವಾಗಲೇ</text></navLabel><content src="002-chapter002.xhtml#id-02.22"/>
@@ -295,13 +295,13 @@
 <navLabel><text>ಮಾರ್ಚ್ ೩೬೩. –  ಮಾಯೆಯೇ ಮಹಾಶತ್ರು!</text></navLabel><content src="003-chapter003.xhtml#id-03.03"/>
 </navPoint>
 <navPoint id="navPoint-94" playOrder="94">
-<navLabel><text>ಮಾರ್ಚ್ ೪೬೪. –  ಶಾಸ್ತ್ರವು ‘ಅಂತ್ಯಪ್ರಮಾಣ’ವಾಗಿದೆ</text></navLabel><content src="003-chapter003.xhtml#id-03.04"/>
+<navLabel><text>ಮಾರ್ಚ್ ೪೬೪. –  ಶಾಸ್ತ್ರವು ‘ಅಂತ್ಯಪ್ರಮಾಣ’ ವಾಗಿದೆ</text></navLabel><content src="003-chapter003.xhtml#id-03.04"/>
 </navPoint>
 <navPoint id="navPoint-95" playOrder="95">
-<navLabel><text>ಮಾರ್ಚ್ ೫೬೫. –  “ಶ್ರವಣ”ದ ಮಹತ್ತ್ವ</text></navLabel><content src="003-chapter003.xhtml#id-03.05"/>
+<navLabel><text>ಮಾರ್ಚ್ ೫೬೫. –  “ಶ್ರವಣ” ದ ಮಹತ್ತ್ವ</text></navLabel><content src="003-chapter003.xhtml#id-03.05"/>
 </navPoint>
 <navPoint id="navPoint-96" playOrder="96">
-<navLabel><text>ಮಾರ್ಚ್ ೬೬೬. –  ‘ಅವಿದ್ಯಾನಿವೃತ್ತಿ’ಯೇ ‘ಬ್ರಹ್ಮಪ್ರಾಪ್ತಿ’ಯು</text></navLabel><content src="003-chapter003.xhtml#id-03.06"/>
+<navLabel><text>ಮಾರ್ಚ್ ೬೬೬. –  ‘ಅವಿದ್ಯಾನಿವೃತ್ತಿ’ ಯೇ ‘ಬ್ರಹ್ಮಪ್ರಾಪ್ತಿ’ ಯು</text></navLabel><content src="003-chapter003.xhtml#id-03.06"/>
 </navPoint>
 <navPoint id="navPoint-97" playOrder="97">
 <navLabel><text>ಮಾರ್ಚ್ ೭೬೭. –  ಅಲ್ಲಿಯೂ ಇಷ್ಟೇ!</text></navLabel><content src="003-chapter003.xhtml#id-03.07"/>
@@ -319,7 +319,7 @@
 <navLabel><text>ಮಾರ್ಚ್ ೧೧೭೧. –  ಜ್ಞಾನವುಂಟಾದ ಕೂಡಲೇ ಮೋಕ್ಷ</text></navLabel><content src="003-chapter003.xhtml#id-03.11"/>
 </navPoint>
 <navPoint id="navPoint-102" playOrder="102">
-<navLabel><text>ಮಾರ್ಚ್ ೧೨೭೨. –  ‘ಅವಸ್ಥಾತ್ರಯಾನುಭವ’ವು ಸಾರ್ವತ್ರಿಕ</text></navLabel><content src="003-chapter003.xhtml#id-03.12"/>
+<navLabel><text>ಮಾರ್ಚ್ ೧೨೭೨. –  ‘ಅವಸ್ಥಾತ್ರಯಾನುಭವ’ ವು ಸಾರ್ವತ್ರಿಕ</text></navLabel><content src="003-chapter003.xhtml#id-03.12"/>
 </navPoint>
 <navPoint id="navPoint-103" playOrder="103">
 <navLabel><text>ಮಾರ್ಚ್ ೧೩೭೩. –  ದೇವತಾಸಾಯುಜ್ಯವೂ ಸಂಸಾರಗತಿಯೇ!</text></navLabel><content src="003-chapter003.xhtml#id-03.13"/>
@@ -331,13 +331,13 @@
 <navLabel><text>ಮಾರ್ಚ್ ೧೫೭೫. –  ಅಜ್ಞಾನಿಗಳಿಗೆ ಎಲ್ಲೆಲ್ಲೂ ರಾಗದ್ವೇಷಗಳೇ</text></navLabel><content src="003-chapter003.xhtml#id-03.15"/>
 </navPoint>
 <navPoint id="navPoint-106" playOrder="106">
-<navLabel><text>ಮಾರ್ಚ್ ೧೬೭೬. –  ಇವನೇ “ಔಪನಿಷದ ಪುರುಷ”ನು</text></navLabel><content src="003-chapter003.xhtml#id-03.16"/>
+<navLabel><text>ಮಾರ್ಚ್ ೧೬೭೬. –  ಇವನೇ “ಔಪನಿಷದ ಪುರುಷ” ನು</text></navLabel><content src="003-chapter003.xhtml#id-03.16"/>
 </navPoint>
 <navPoint id="navPoint-107" playOrder="107">
 <navLabel><text>ಮಾರ್ಚ್ ೧೭೭೭. –  ಅಜ್ಞಾನಿಗಳಿಗೆ ಆತ್ಮನು ತುಂಬಾ ದೂರ!</text></navLabel><content src="003-chapter003.xhtml#id-03.17"/>
 </navPoint>
 <navPoint id="navPoint-108" playOrder="108">
-<navLabel><text>ಮಾರ್ಚ್ ೧೮೭೮. –  ‘ಶ್ರುತಿಮಾತೆ’ಯ ಸಂಕಟ!</text></navLabel><content src="003-chapter003.xhtml#id-03.18"/>
+<navLabel><text>ಮಾರ್ಚ್ ೧೮೭೮. –  ‘ಶ್ರುತಿಮಾತೆ’ ಯ ಸಂಕಟ!</text></navLabel><content src="003-chapter003.xhtml#id-03.18"/>
 </navPoint>
 <navPoint id="navPoint-109" playOrder="109">
 <navLabel><text>ಮಾರ್ಚ್ ೧೯೭೯. –  ಶ್ರುತಿಮಾತೆಗೆ ಎಂಥ ಕರುಣೆ!</text></navLabel><content src="003-chapter003.xhtml#id-03.19"/>
@@ -346,13 +346,13 @@
 <navLabel><text>ಮಾರ್ಚ್ ೨೦೮೦. –  ವಾಕ್ಯಾರ್ಥಜ್ಞಾನದಿಂದಲೇ ಮುಕ್ತಿ</text></navLabel><content src="003-chapter003.xhtml#id-03.20"/>
 </navPoint>
 <navPoint id="navPoint-111" playOrder="111">
-<navLabel><text>ಮಾರ್ಚ್ ೨೧೮೧. –  ಜ್ಞಾನವೇ ‘ಸಂಸಾರವಿಷವೃಕ್ಷ’ಕ್ಕೆ ಖಡ್ಗ</text></navLabel><content src="003-chapter003.xhtml#id-03.21"/>
+<navLabel><text>ಮಾರ್ಚ್ ೨೧೮೧. –  ಜ್ಞಾನವೇ ‘ಸಂಸಾರವಿಷವೃಕ್ಷ’ ಕ್ಕೆ ಖಡ್ಗ</text></navLabel><content src="003-chapter003.xhtml#id-03.21"/>
 </navPoint>
 <navPoint id="navPoint-112" playOrder="112">
 <navLabel><text>ಮಾರ್ಚ್ ೨೨೮೨. –  ‘ಭಗವಾನ್’ ಎಂದರೆ ಏನರ್ಥ?</text></navLabel><content src="003-chapter003.xhtml#id-03.22"/>
 </navPoint>
 <navPoint id="navPoint-113" playOrder="113">
-<navLabel><text>ಮಾರ್ಚ್ ೨೩೮೩. –  ‘ಕಾಪಿಲಸಾಂಖ್ಯ’ವೂ ದ್ವೈತದರ್ಶನವೇ!</text></navLabel><content src="003-chapter003.xhtml#id-03.23"/>
+<navLabel><text>ಮಾರ್ಚ್ ೨೩೮೩. –  ‘ಕಾಪಿಲಸಾಂಖ್ಯ’ ವೂ ದ್ವೈತದರ್ಶನವೇ!</text></navLabel><content src="003-chapter003.xhtml#id-03.23"/>
 </navPoint>
 <navPoint id="navPoint-114" playOrder="114">
 <navLabel><text>ಮಾರ್ಚ್ ೨೪೮೪. –  ಅವಿದ್ಯೆಯಿಂದಲೇ ಸರ್ವವ್ಯವಹಾರ</text></navLabel><content src="003-chapter003.xhtml#id-03.24"/>
@@ -382,10 +382,10 @@
 <navLabel><text>ಏಪ್ರಿಲ್ ೧೯೨. –  ಮುಕ್ತಿಯೇ ಭಗವದ್ಗೀತೆಗೆ ಗುರಿ</text></navLabel><content src="004-chapter004.xhtml#id-04.01"/>
 </navPoint>
 <navPoint id="navPoint-123" playOrder="123">
-<navLabel><text>ಏಪ್ರಿಲ್ ೨೯೩. –  ‘ಬುದ್ಧಿಪ್ರತ್ಯಯಸಾಕ್ಷಿ’ಯೇ ಬ್ರಹ್ಮವು</text></navLabel><content src="004-chapter004.xhtml#id-04.02"/>
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೯೩. –  ‘ಬುದ್ಧಿಪ್ರತ್ಯಯಸಾಕ್ಷಿ’ ಯೇ ಬ್ರಹ್ಮವು</text></navLabel><content src="004-chapter004.xhtml#id-04.02"/>
 </navPoint>
 <navPoint id="navPoint-124" playOrder="124">
-<navLabel><text>ಏಪ್ರಿಲ್ ೩೯೪. –  ‘ಮಿಥ್ಯಾಜ್ಞಾನ’ದಿಂದಲೇ ‘ಸಶರೀರತ್ವ’ವು</text></navLabel><content src="004-chapter004.xhtml#id-04.03"/>
+<navLabel><text>ಏಪ್ರಿಲ್ ೩೯೪. –  ‘ಮಿಥ್ಯಾಜ್ಞಾನ’ ದಿಂದಲೇ ‘ಸಶರೀರತ್ವ’ ವು</text></navLabel><content src="004-chapter004.xhtml#id-04.03"/>
 </navPoint>
 <navPoint id="navPoint-125" playOrder="125">
 <navLabel><text>ಏಪ್ರಿಲ್ ೪೯೫. –  ಆತ್ಮನು ನಿತ್ಯ ಅಸಂಸಾರಿ</text></navLabel><content src="004-chapter004.xhtml#id-04.04"/>
@@ -409,7 +409,7 @@
 <navLabel><text>ಏಪ್ರಿಲ್ ೧೦೧೦೧. –  ದೂರವೂ ಹೌದು, ಹತ್ತಿರವೂ ಹೌದು</text></navLabel><content src="004-chapter004.xhtml#id-04.10"/>
 </navPoint>
 <navPoint id="navPoint-132" playOrder="132">
-<navLabel><text>ಏಪ್ರಿಲ್ ೧೧೧೦೨. –  ‘ಅವಿದ್ಯಾನಿವೃತ್ತಿ’ಯೇ ಮೋಕ್ಷ</text></navLabel><content src="004-chapter004.xhtml#id-04.11"/>
+<navLabel><text>ಏಪ್ರಿಲ್ ೧೧೧೦೨. –  ‘ಅವಿದ್ಯಾನಿವೃತ್ತಿ’ ಯೇ ಮೋಕ್ಷ</text></navLabel><content src="004-chapter004.xhtml#id-04.11"/>
 </navPoint>
 <navPoint id="navPoint-133" playOrder="133">
 <navLabel><text>ಏಪ್ರಿಲ್ ೧೨೧೦೩. –  ಅವಿದ್ಯೆಯಿಂದಲೇ ಭಯಪ್ರಾಪ್ತಿ</text></navLabel><content src="004-chapter004.xhtml#id-04.12"/>
@@ -457,10 +457,10 @@
 <navLabel><text>ಏಪ್ರಿಲ್ ೨೬೧೧೭. –  ಧ್ಯಾನಯೋಗವು ಜ್ಞಾನಕ್ಕೆ ಅಂತರಂಗಸಾಧನ</text></navLabel><content src="004-chapter004.xhtml#id-04.26"/>
 </navPoint>
 <navPoint id="navPoint-148" playOrder="148">
-<navLabel><text>ಏಪ್ರಿಲ್ ೨೭೧೧೮. –  ‘ಅಜ್ಞ’ರಾದ ಪಂಡಿತರಿವರು!</text></navLabel><content src="004-chapter004.xhtml#id-04.27"/>
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೭೧೧೮. –  ‘ಅಜ್ಞ’ ರಾದ ಪಂಡಿತರಿವರು!</text></navLabel><content src="004-chapter004.xhtml#id-04.27"/>
 </navPoint>
 <navPoint id="navPoint-149" playOrder="149">
-<navLabel><text>ಏಪ್ರಿಲ್ ೨೮೧೧೯. –  ‘ಬ್ರಹ್ಮಜ್ಞಾನ’ವೆಂದರೆ ಬ್ರಹ್ಮಪ್ರಾಪ್ತಿಯೇ</text></navLabel><content src="004-chapter004.xhtml#id-04.28"/>
+<navLabel><text>ಏಪ್ರಿಲ್ ೨೮೧೧೯. –  ‘ಬ್ರಹ್ಮಜ್ಞಾನ’ ವೆಂದರೆ ಬ್ರಹ್ಮಪ್ರಾಪ್ತಿಯೇ</text></navLabel><content src="004-chapter004.xhtml#id-04.28"/>
 </navPoint>
 <navPoint id="navPoint-150" playOrder="150">
 <navLabel><text>ಏಪ್ರಿಲ್ ೨೯೧೨೦. –  ವೇದಾಂತಗಳೇ ನಮಗೆ ಗತಿ!</text></navLabel><content src="004-chapter004.xhtml#id-04.29"/>
@@ -469,7 +469,7 @@
 <navLabel><text>ಏಪ್ರಿಲ್ ೩೦೧೨೧. –  ಧ್ಯಾನಕ್ಕೆ ‘ಎರಡು’ ಅಂಗಗಳು</text></navLabel><content src="004-chapter004.xhtml#id-04.30"/>
 </navPoint>
 <navPoint id="navPoint-152" playOrder="152">
-<navLabel><text>ಮೇ ೧೧೨೨. –  ‘ಜೀವನ್ಮುಕ್ತಿ’ಯೆಂದರೇನು?</text></navLabel><content src="005-chapter005.xhtml#id-05.01"/>
+<navLabel><text>ಮೇ ೧೧೨೨. –  ‘ಜೀವನ್ಮುಕ್ತಿ’ ಯೆಂದರೇನು?</text></navLabel><content src="005-chapter005.xhtml#id-05.01"/>
 </navPoint>
 <navPoint id="navPoint-153" playOrder="153">
 <navLabel><text>ಮೇ ೨೧೨೩. –  ಇವನು ಪಂಡಿತನಾದ ಅಜ್ಞಾನಿ</text></navLabel><content src="005-chapter005.xhtml#id-05.02"/>
@@ -493,10 +493,10 @@
 <navLabel><text>ಮೇ ೮೧೨೯. –  ಜ್ಞಾನಿಗೆ ಉಪರತಿಯು ಸಹಜ</text></navLabel><content src="005-chapter005.xhtml#id-05.08"/>
 </navPoint>
 <navPoint id="navPoint-160" playOrder="160">
-<navLabel><text>ಮೇ ೯೧೩೦. –  ಮೋಕ್ಷವು ಸ್ವತಃಸಿದ್ಧ, ಸ್ವಾಭಾವಿಕ </text></navLabel><content src="005-chapter005.xhtml#id-05.09"/>
+<navLabel><text>ಮೇ ೯೧೩೦. –  ಮೋಕ್ಷವು ಸ್ವತಃಸಿದ್ಧ, ಸ್ವಾಭಾವಿಕ</text></navLabel><content src="005-chapter005.xhtml#id-05.09"/>
 </navPoint>
 <navPoint id="navPoint-161" playOrder="161">
-<navLabel><text>ಮೇ ೧೦೧೩೧. –  ದೇವತೆಗಳೂ ‘ಸಂಸಾರಸಾಗರಮಗ್ನ’ರೇ</text></navLabel><content src="005-chapter005.xhtml#id-05.10"/>
+<navLabel><text>ಮೇ ೧೦೧೩೧. –  ದೇವತೆಗಳೂ ‘ಸಂಸಾರಸಾಗರಮಗ್ನ’ ರೇ</text></navLabel><content src="005-chapter005.xhtml#id-05.10"/>
 </navPoint>
 <navPoint id="navPoint-162" playOrder="162">
 <navLabel><text>ಮೇ ೧೧೧೩೨. –  ಆತ್ಮಜ್ಞಾನದಿಂದಲೇ ಮಾನವರ ಉದ್ಧಾರ</text></navLabel><content src="005-chapter005.xhtml#id-05.11"/>
@@ -508,7 +508,7 @@
 <navLabel><text>ಮೇ ೧೩೧೩೪. –  ಬುದ್ಧಿವಂತರ ವ್ಯವಹಾರವೂ ಇಷ್ಟೇ!</text></navLabel><content src="005-chapter005.xhtml#id-05.13"/>
 </navPoint>
 <navPoint id="navPoint-165" playOrder="165">
-<navLabel><text>ಮೇ ೧೪೧೩೫. –  “ಬ್ರಹ್ಮ”ವೆಂದರೇನು?</text></navLabel><content src="005-chapter005.xhtml#id-05.14"/>
+<navLabel><text>ಮೇ ೧೪೧೩೫. –  “ಬ್ರಹ್ಮ” ವೆಂದರೇನು?</text></navLabel><content src="005-chapter005.xhtml#id-05.14"/>
 </navPoint>
 <navPoint id="navPoint-166" playOrder="166">
 <navLabel><text>ಮೇ ೧೫೧೩೬. –  ಅವಿದ್ಯೆಯು ಆತ್ಮನ ಧರ್ಮವಲ್ಲ</text></navLabel><content src="005-chapter005.xhtml#id-05.15"/>
@@ -526,7 +526,7 @@
 <navLabel><text>ಮೇ ೧೯೧೪೦. –  ಬ್ರಹ್ಮವೇ ದೇವತೆಗಳಿಗೂ ‘ಪರದೇವತೆ’</text></navLabel><content src="005-chapter005.xhtml#id-05.19"/>
 </navPoint>
 <navPoint id="navPoint-171" playOrder="171">
-<navLabel><text>ಮೇ ೨೦೧೪೧. –  ‘ಧ್ಯಾನ’ದ ರಹಸ್ಯವಿದು!</text></navLabel><content src="005-chapter005.xhtml#id-05.20"/>
+<navLabel><text>ಮೇ ೨೦೧೪೧. –  ‘ಧ್ಯಾನ’ ದ ರಹಸ್ಯವಿದು!</text></navLabel><content src="005-chapter005.xhtml#id-05.20"/>
 </navPoint>
 <navPoint id="navPoint-172" playOrder="172">
 <navLabel><text>ಮೇ ೨೧೧೪೨. –  ಜ್ಞಾನದಿಂದಲೇ ‘ವಾಸನಾಕ್ಷಯ’</text></navLabel><content src="005-chapter005.xhtml#id-05.21"/>
@@ -544,7 +544,7 @@
 <navLabel><text>ಮೇ ೨೫೧೪೬. –  ವಿರಕ್ತನಿಗೇ ಆತ್ಮಜ್ಞಾನದಲ್ಲಿ ಅಧಿಕಾರ</text></navLabel><content src="005-chapter005.xhtml#id-05.25"/>
 </navPoint>
 <navPoint id="navPoint-177" playOrder="177">
-<navLabel><text>ಮೇ ೨೬೧೪೭. –  ‘ರಾಗದ್ವೇಷ’ಗಳನ್ನು ಗೆಲ್ಲುವದು ಹೇಗೆ?</text></navLabel><content src="005-chapter005.xhtml#id-05.26"/>
+<navLabel><text>ಮೇ ೨೬೧೪೭. –  ‘ರಾಗದ್ವೇಷ’ ಗಳನ್ನು ಗೆಲ್ಲುವದು ಹೇಗೆ?</text></navLabel><content src="005-chapter005.xhtml#id-05.26"/>
 </navPoint>
 <navPoint id="navPoint-178" playOrder="178">
 <navLabel><text>ಮೇ ೨೭೧೪೮. –  ಬುದ್ಧಿಯಲ್ಲೇ ಬ್ರಹ್ಮವನ್ನು ಅರಿಯಬೇಕು</text></navLabel><content src="005-chapter005.xhtml#id-05.27"/>
@@ -562,10 +562,10 @@
 <navLabel><text>ಮೇ ೩೧೧೫೨. –  ಒಬ್ಬನಲ್ಲಿಯೇ ಎರಡೂ ಇರಲಾರವು!</text></navLabel><content src="005-chapter005.xhtml#id-05.31"/>
 </navPoint>
 <navPoint id="navPoint-183" playOrder="183">
-<navLabel><text>ಜೂನ್ ೧೧೫೩. – ಅಜ್ಞಾನಿಗೆ ಎಂಥಾ ನಷ್ಟ!</text></navLabel><content src="006-chapter006.xhtml#id-06.01"/>
+<navLabel><text>ಜೂನ್ ೧೧೫೩. –  ಅಜ್ಞಾನಿಗೆ ಎಂಥಾ ನಷ್ಟ!</text></navLabel><content src="006-chapter006.xhtml#id-06.01"/>
 </navPoint>
 <navPoint id="navPoint-184" playOrder="184">
-<navLabel><text>ಜೂನ್ ೨೧೫೪. – ತಿಳಿದೇ ಕರ್ಮಗಳನ್ನು ಮಾಡಬೇಕು</text></navLabel><content src="006-chapter006.xhtml#id-06.02"/>
+<navLabel><text>ಜೂನ್ ೨೧೫೪. –  ತಿಳಿದೇ ಕರ್ಮಗಳನ್ನು ಮಾಡಬೇಕು</text></navLabel><content src="006-chapter006.xhtml#id-06.02"/>
 </navPoint>
 <navPoint id="navPoint-185" playOrder="185">
 <navLabel><text>ಜೂನ್ ೩೧೫೫. –  ಬ್ರಹ್ಮಜ್ಞಾನಿಗೆ ಯಾರ ಸಾಲವೂ ಇಲ್ಲ</text></navLabel><content src="006-chapter006.xhtml#id-06.03"/>
@@ -580,7 +580,7 @@
 <navLabel><text>ಜೂನ್ ೬೧೫೮. –  ಇದು, ಬಂಗಾರದ ಬೇಡಿ!</text></navLabel><content src="006-chapter006.xhtml#id-06.06"/>
 </navPoint>
 <navPoint id="navPoint-189" playOrder="189">
-<navLabel><text>ಜೂನ್ ೭೧೫೯. –  ವೇದಾಂತದಲ್ಲಿ ‘ಮೃತ್ಯು’ವೆಂದರೇನು?</text></navLabel><content src="006-chapter006.xhtml#id-06.07"/>
+<navLabel><text>ಜೂನ್ ೭೧೫೯. –  ವೇದಾಂತದಲ್ಲಿ ‘ಮೃತ್ಯು’ ವೆಂದರೇನು?</text></navLabel><content src="006-chapter006.xhtml#id-06.07"/>
 </navPoint>
 <navPoint id="navPoint-190" playOrder="190">
 <navLabel><text>ಜೂನ್ ೮೧೬೦. –  ಈ ‘ನಾಲ್ಕು’ ಇದ್ದವರಿಗೆ ಆತ್ಮಜ್ಞಾನ!</text></navLabel><content src="006-chapter006.xhtml#id-06.08"/>
@@ -592,16 +592,16 @@
 <navLabel><text>ಜೂನ್ ೧೦೧೬೨. –  ಭಕ್ತಿಯಿಂದ ಮುಕ್ತಿ</text></navLabel><content src="006-chapter006.xhtml#id-06.10"/>
 </navPoint>
 <navPoint id="navPoint-193" playOrder="193">
-<navLabel><text>ಜೂನ್ ೧೧೧೬೩. –  ‘ಗುರು’ವೇ ನಿಜವಾದ ತಂದೆ</text></navLabel><content src="006-chapter006.xhtml#id-06.11"/>
+<navLabel><text>ಜೂನ್ ೧೧೧೬೩. –  ‘ಗುರು’ ವೇ ನಿಜವಾದ ತಂದೆ</text></navLabel><content src="006-chapter006.xhtml#id-06.11"/>
 </navPoint>
 <navPoint id="navPoint-194" playOrder="194">
 <navLabel><text>ಜೂನ್ ೧೨೧೬೪. –  ಬ್ರಹ್ಮವಿದ್ಯೆಯಿಂದ ಸರ್ವಜ್ಞತ್ವ</text></navLabel><content src="006-chapter006.xhtml#id-06.12"/>
 </navPoint>
 <navPoint id="navPoint-195" playOrder="195">
-<navLabel><text>ಜೂನ್ ೧೩೧೬೫. –  ಜ್ಞಾನೋತ್ಪತ್ತಿಗೆ ‘ಸತ್ಯವಚನ’ವು ಬೇಕು</text></navLabel><content src="006-chapter006.xhtml#id-06.13"/>
+<navLabel><text>ಜೂನ್ ೧೩೧೬೫. –  ಜ್ಞಾನೋತ್ಪತ್ತಿಗೆ ‘ಸತ್ಯವಚನ’ ವು ಬೇಕು</text></navLabel><content src="006-chapter006.xhtml#id-06.13"/>
 </navPoint>
 <navPoint id="navPoint-196" playOrder="196">
-<navLabel><text>ಜೂನ್ ೧೪೧೬೬. –  ‘ಅವಿದ್ಯಾನಿವೃತ್ತಿ’ಯೇ ಮುಕ್ತಿ</text></navLabel><content src="006-chapter006.xhtml#id-06.14"/>
+<navLabel><text>ಜೂನ್ ೧೪೧೬೬. –  ‘ಅವಿದ್ಯಾನಿವೃತ್ತಿ’ ಯೇ ಮುಕ್ತಿ</text></navLabel><content src="006-chapter006.xhtml#id-06.14"/>
 </navPoint>
 <navPoint id="navPoint-197" playOrder="197">
 <navLabel><text>ಜೂನ್ ೧೫೧೬೭. –  ಜ್ಞಾನಿಯೇ ವೇದಗಳಿಗೂ ಮೂಲ</text></navLabel><content src="006-chapter006.xhtml#id-06.15"/>
@@ -610,13 +610,13 @@
 <navLabel><text>ಜೂನ್ ೧೬೧೬೮. –  ತನ್ನಿಂದ ತನಗೆ ಭಯವಿರುವದಿಲ್ಲ</text></navLabel><content src="006-chapter006.xhtml#id-06.16"/>
 </navPoint>
 <navPoint id="navPoint-199" playOrder="199">
-<navLabel><text>ಜೂನ್ ೧೭೧೬೯. –  ‘ಕರ್ಮಯೋಗಿ’ಯೂ ಸಂನ್ಯಾಸಿಯೇ</text></navLabel><content src="006-chapter006.xhtml#id-06.17"/>
+<navLabel><text>ಜೂನ್ ೧೭೧೬೯. –  ‘ಕರ್ಮಯೋಗಿ’ ಯೂ ಸಂನ್ಯಾಸಿಯೇ</text></navLabel><content src="006-chapter006.xhtml#id-06.17"/>
 </navPoint>
 <navPoint id="navPoint-200" playOrder="200">
 <navLabel><text>ಜೂನ್ ೧೮೧೭೦. –  ಇದೆಲ್ಲವೂ ಅವಿದ್ಯೆಯ ಅನುಗ್ರಹ!</text></navLabel><content src="006-chapter006.xhtml#id-06.18"/>
 </navPoint>
 <navPoint id="navPoint-201" playOrder="201">
-<navLabel><text>ಜೂನ್ ೧೯೧೭೧. –  ‘ಅಧ್ಯಾಸ’ವೆಂದರೇನು?</text></navLabel><content src="006-chapter006.xhtml#id-06.19"/>
+<navLabel><text>ಜೂನ್ ೧೯೧೭೧. –  ‘ಅಧ್ಯಾಸ’ ವೆಂದರೇನು?</text></navLabel><content src="006-chapter006.xhtml#id-06.19"/>
 </navPoint>
 <navPoint id="navPoint-202" playOrder="202">
 <navLabel><text>ಜೂನ್ ೨೦೧೭೨. –  ವಾಸನೆಗಳ ಪ್ರಾಬಲ್ಯ!</text></navLabel><content src="006-chapter006.xhtml#id-06.20"/>
@@ -640,16 +640,16 @@
 <navLabel><text>ಜೂನ್ ೨೬೧೭೮. –  ಈ ‘ಮೂರು’ ಇದ್ದರೆ ಜ್ಞಾನಪ್ರಾಪ್ತಿ!</text></navLabel><content src="006-chapter006.xhtml#id-06.26"/>
 </navPoint>
 <navPoint id="navPoint-209" playOrder="209">
-<navLabel><text>ಜೂನ್ ೨೭೧೭೯. –  ‘ಆತ್ಮೈಕತ್ವಜ್ಞಾನ’ವು ಅತ್ಯಂತ ಗಹನ!</text></navLabel><content src="006-chapter006.xhtml#id-06.27"/>
+<navLabel><text>ಜೂನ್ ೨೭೧೭೯. –  ‘ಆತ್ಮೈಕತ್ವಜ್ಞಾನ’ ವು ಅತ್ಯಂತ ಗಹನ!</text></navLabel><content src="006-chapter006.xhtml#id-06.27"/>
 </navPoint>
 <navPoint id="navPoint-210" playOrder="210">
 <navLabel><text>ಜೂನ್ ೨೮೧೮೦. –  ಆತ್ಮನು ಹೇಯೋಪಾದೇಯನಲ್ಲ</text></navLabel><content src="006-chapter006.xhtml#id-06.28"/>
 </navPoint>
 <navPoint id="navPoint-211" playOrder="211">
-<navLabel><text>ಜೂನ್ ೨೯೧೮೧. – ‘ಅವಿದ್ಯಾಕೃಪೆ’ಯಿಂದಲೇ ಜೀವತ್ವವು</text></navLabel><content src="006-chapter006.xhtml#id-06.29"/>
+<navLabel><text>ಜೂನ್ ೨೯೧೮೧. –  ‘ಅವಿದ್ಯಾಕೃಪೆ’ ಯಿಂದಲೇ ಜೀವತ್ವವು</text></navLabel><content src="006-chapter006.xhtml#id-06.29"/>
 </navPoint>
 <navPoint id="navPoint-212" playOrder="212">
-<navLabel><text>ಜೂನ್ ೩೦೧೮೨. – ಬಂಧಮೋಕ್ಷಗಳೂ ಆತ್ಮನಲ್ಲಿ ಇಲ್ಲ</text></navLabel><content src="006-chapter006.xhtml#id-06.30"/>
+<navLabel><text>ಜೂನ್ ೩೦೧೮೨. –  ಬಂಧಮೋಕ್ಷಗಳೂ ಆತ್ಮನಲ್ಲಿ ಇಲ್ಲ</text></navLabel><content src="006-chapter006.xhtml#id-06.30"/>
 </navPoint>
 <navPoint id="navPoint-213" playOrder="213">
 <navLabel><text>ಜುಲೈ ೧೧೮೩. –  ಸಂಶಯಜ್ಞಾನದಿಂದ ಅನರ್ಥಪ್ರಾಪ್ತಿ</text></navLabel><content src="007-chapter007.xhtml#id-07.01"/>
@@ -679,10 +679,10 @@
 <navLabel><text>ಜುಲೈ ೯೧೯೧. –  ಅಬ್ಬಾ, ಜ್ಞಾನಕ್ಕೆ ಎಂಥಾ ಶಕ್ತಿ!</text></navLabel><content src="007-chapter007.xhtml#id-07.09"/>
 </navPoint>
 <navPoint id="navPoint-222" playOrder="222">
-<navLabel><text>ಜುಲೈ ೧೦೧೯೨. –  ಬ್ರಹ್ಮಕ್ಕೆ ‘ವಿಶೇಷಣ’ಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-07.10"/>
+<navLabel><text>ಜುಲೈ ೧೦೧೯೨. –  ಬ್ರಹ್ಮಕ್ಕೆ ‘ವಿಶೇಷಣ’ ಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-07.10"/>
 </navPoint>
 <navPoint id="navPoint-223" playOrder="223">
-<navLabel><text>ಜುಲೈ ೧೧೧೯೩. –  ಬ್ರಹ್ಮನಿಷ್ಠನೇ ‘ಅನ್ವರ್ಥ ಆಚಾರ್ಯ’ನು</text></navLabel><content src="007-chapter007.xhtml#id-07.11"/>
+<navLabel><text>ಜುಲೈ ೧೧೧೯೩. –  ಬ್ರಹ್ಮನಿಷ್ಠನೇ ‘ಅನ್ವರ್ಥ ಆಚಾರ್ಯ’ ನು</text></navLabel><content src="007-chapter007.xhtml#id-07.11"/>
 </navPoint>
 <navPoint id="navPoint-224" playOrder="224">
 <navLabel><text>ಜುಲೈ ೧೨೧೯೪. –  ಉಪಾಸನೆಗೆ ತಕ್ಕಂತೆ ಫಲ</text></navLabel><content src="007-chapter007.xhtml#id-07.12"/>
@@ -721,7 +721,7 @@
 <navLabel><text>ಜುಲೈ ೨೩೨೦೫. –  ‘ಆತ್ಮನಿಷ್ಠೆ’ ಎಂದರೇನು?</text></navLabel><content src="007-chapter007.xhtml#id-07.23"/>
 </navPoint>
 <navPoint id="navPoint-236" playOrder="236">
-<navLabel><text>ಜುಲೈ ೨೪೨೦೬. –  ‘ಸಾಧುಸ್ವಭಾವ’ದವರಿಗೇ ಜ್ಞಾನೋತ್ಪತ್ತಿ</text></navLabel><content src="007-chapter007.xhtml#id-07.24"/>
+<navLabel><text>ಜುಲೈ ೨೪೨೦೬. –  ‘ಸಾಧುಸ್ವಭಾವ’ ದವರಿಗೇ ಜ್ಞಾನೋತ್ಪತ್ತಿ</text></navLabel><content src="007-chapter007.xhtml#id-07.24"/>
 </navPoint>
 <navPoint id="navPoint-237" playOrder="237">
 <navLabel><text>ಜುಲೈ ೨೫೨೦೭. –  ಇಂಥವರು ಪಶುಸಮಾನರೇ</text></navLabel><content src="007-chapter007.xhtml#id-07.25"/>
@@ -739,7 +739,7 @@
 <navLabel><text>ಜುಲೈ ೨೯೨೧೧. –  ಅಶರೀರತ್ವವೇ ಸ್ವಾಭಾವಿಕ</text></navLabel><content src="007-chapter007.xhtml#id-07.29"/>
 </navPoint>
 <navPoint id="navPoint-242" playOrder="242">
-<navLabel><text>ಜುಲೈ ೩೦೨೧೨. –  ‘ತುರೀಯ’ಜ್ಞಾನವು ಸರ್ಕಸ್ಸಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-07.30"/>
+<navLabel><text>ಜುಲೈ ೩೦೨೧೨. –  ‘ತುರೀಯ’ ಜ್ಞಾನವು ಸರ್ಕಸ್ಸಲ್ಲ</text></navLabel><content src="007-chapter007.xhtml#id-07.30"/>
 </navPoint>
 <navPoint id="navPoint-243" playOrder="243">
 <navLabel><text>ಜುಲೈ ೩೧೨೧೩. –  ಅನಾತ್ಮಾಧ್ಯಾಸದಿಂದಲೇ ಸಂಸಾರಬಂಧನ</text></navLabel><content src="007-chapter007.xhtml#id-07.31"/>
@@ -757,7 +757,7 @@
 <navLabel><text>ಆಗಸ್ಟ್ ೪೨೧೭. –  ಶುಷ್ಕಪಾಂಡಿತ್ಯದಿಂದ ಮುಕ್ತಿಯು ಲಭಿಸದು!</text></navLabel><content src="008-chapter008.xhtml#id-08.04"/>
 </navPoint>
 <navPoint id="navPoint-248" playOrder="248">
-<navLabel><text>ಆಗಸ್ಟ್ ೫೨೧೮. –  ಬ್ರಹ್ಮಜ್ಞಾನಿಗೆ ‘ಕರ್ತವ್ಯ’ವಿಲ್ಲ</text></navLabel><content src="008-chapter008.xhtml#id-08.05"/>
+<navLabel><text>ಆಗಸ್ಟ್ ೫೨೧೮. –  ಬ್ರಹ್ಮಜ್ಞಾನಿಗೆ ‘ಕರ್ತವ್ಯ’ ವಿಲ್ಲ</text></navLabel><content src="008-chapter008.xhtml#id-08.05"/>
 </navPoint>
 <navPoint id="navPoint-249" playOrder="249">
 <navLabel><text>ಆಗಸ್ಟ್ ೬೨೧೯. –  ಬ್ರಹ್ಮಚರ್ಯದ ಮಹಿಮೆ!</text></navLabel><content src="008-chapter008.xhtml#id-08.06"/>
@@ -790,13 +790,13 @@
 <navLabel><text>ಆಗಸ್ಟ್ ೧೫೨೨೮. –  ಶಬ್ದಗಳು ಬ್ರಹ್ಮವನ್ನು ತಿಳಿಸಲಾರವು</text></navLabel><content src="008-chapter008.xhtml#id-08.15"/>
 </navPoint>
 <navPoint id="navPoint-259" playOrder="259">
-<navLabel><text>ಆಗಸ್ಟ್ ೧೬೨೨೯.  – ಸದ್ಗುರುಪ್ರಾಪ್ತಿಯು ಅತ್ಯಂತದುರ್ಲಭ!</text></navLabel><content src="008-chapter008.xhtml#id-08.16"/>
+<navLabel><text>ಆಗಸ್ಟ್ ೧೬೨೨೯. –  ಸದ್ಗುರುಪ್ರಾಪ್ತಿಯು ಅತ್ಯಂತದುರ್ಲಭ!</text></navLabel><content src="008-chapter008.xhtml#id-08.16"/>
 </navPoint>
 <navPoint id="navPoint-260" playOrder="260">
 <navLabel><text>ಆಗಸ್ಟ್ ೧೭೨೩೦. –  ಬ್ರಹ್ಮನಿಷ್ಠನಿಗೆ ಸಂಸಾರವಿಲ್ಲ</text></navLabel><content src="008-chapter008.xhtml#id-08.17"/>
 </navPoint>
 <navPoint id="navPoint-261" playOrder="261">
-<navLabel><text>ಆಗಸ್ಟ್ ೧೮೨೩೧. –  ‘ಅಧ್ಯಾತ್ಮಯೋಗ’ವೆಂದರೇನು?</text></navLabel><content src="008-chapter008.xhtml#id-08.18"/>
+<navLabel><text>ಆಗಸ್ಟ್ ೧೮೨೩೧. –  ‘ಅಧ್ಯಾತ್ಮಯೋಗ’ ವೆಂದರೇನು?</text></navLabel><content src="008-chapter008.xhtml#id-08.18"/>
 </navPoint>
 <navPoint id="navPoint-262" playOrder="262">
 <navLabel><text>ಆಗಸ್ಟ್ ೧೯೨೩೨. –  ವೇದಾಂತಗಳು ಮುಮುಕ್ಷುಗಳ ಆಸ್ತಿ!</text></navLabel><content src="008-chapter008.xhtml#id-08.19"/>
@@ -811,13 +811,13 @@
 <navLabel><text>ಆಗಸ್ಟ್ ೨೨೨೩೫. –  ಬ್ರಹ್ಮಲೋಕವೂ ಅನಿತ್ಯವೇ!</text></navLabel><content src="008-chapter008.xhtml#id-08.22"/>
 </navPoint>
 <navPoint id="navPoint-266" playOrder="266">
-<navLabel><text>ಆಗಸ್ಟ್ ೨೩೨೩೬. –  ‘ಬ್ರಹ್ಮ’ಕ್ಕೇ ಅನೇಕ ಹೆಸರುಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-08.23"/>
+<navLabel><text>ಆಗಸ್ಟ್ ೨೩೨೩೬. –  ‘ಬ್ರಹ್ಮ’ ಕ್ಕೇ ಅನೇಕ ಹೆಸರುಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-08.23"/>
 </navPoint>
 <navPoint id="navPoint-267" playOrder="267">
 <navLabel><text>ಆಗಸ್ಟ್ ೨೪೨೩೭. –  ಆತ್ಮಜ್ಞಾನದಿಂದ ಮಾತ್ರವೇ ಸ್ವಸ್ಥತೆ</text></navLabel><content src="008-chapter008.xhtml#id-08.24"/>
 </navPoint>
 <navPoint id="navPoint-268" playOrder="268">
-<navLabel><text>ಆಗಸ್ಟ್ ೨೫೨೩೮. –  ‘ಪಂಚಕೋಶ’ಗಳ ವಿವೇಕ</text></navLabel><content src="008-chapter008.xhtml#id-08.25"/>
+<navLabel><text>ಆಗಸ್ಟ್ ೨೫೨೩೮. –  ‘ಪಂಚಕೋಶ’ ಗಳ ವಿವೇಕ</text></navLabel><content src="008-chapter008.xhtml#id-08.25"/>
 </navPoint>
 <navPoint id="navPoint-269" playOrder="269">
 <navLabel><text>ಆಗಸ್ಟ್ ೨೬೨೩೯. –  ಅವಿದ್ಯೆಯಿಂದಲೇ ಸಕಲವ್ಯವಹಾರ</text></navLabel><content src="008-chapter008.xhtml#id-08.26"/>
@@ -835,7 +835,7 @@
 <navLabel><text>ಆಗಸ್ಟ್ ೩೦೨೪೩. –  ಎಂಥಾ ಅಮೂಲ್ಯ ಸಂಪತ್ತು, ಬ್ರಹ್ಮವಿದ್ಯೆ!</text></navLabel><content src="008-chapter008.xhtml#id-08.30"/>
 </navPoint>
 <navPoint id="navPoint-274" playOrder="274">
-<navLabel><text>ಆಗಸ್ಟ್ ೩೧೨೪೪. –  ‘ಆಸ್ತಿಕ’ನಾದವನಿಗೇ ಬ್ರಹ್ಮಜ್ಞಾನ</text></navLabel><content src="008-chapter008.xhtml#id-08.31"/>
+<navLabel><text>ಆಗಸ್ಟ್ ೩೧೨೪೪. –  ‘ಆಸ್ತಿಕ’ ನಾದವನಿಗೇ ಬ್ರಹ್ಮಜ್ಞಾನ</text></navLabel><content src="008-chapter008.xhtml#id-08.31"/>
 </navPoint>
 <navPoint id="navPoint-275" playOrder="275">
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೨೪೫. –  ಬ್ರಹ್ಮಜ್ಞಾನಿಗೆ ಬ್ರಹ್ಮಪ್ರಾಪ್ತಿಯೇ ಫಲ</text></navLabel><content src="009-chapter009.xhtml#id-09.01"/>
@@ -844,10 +844,10 @@
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೨೪೬. –  ಮೋಕ್ಷವು ಈ ‘ನಾಲ್ಕೂ’ ಅಲ್ಲ!</text></navLabel><content src="009-chapter009.xhtml#id-09.02"/>
 </navPoint>
 <navPoint id="navPoint-277" playOrder="277">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೩೨೪೭. –  ಇದೆಲ್ಲವೂ ‘ನಾಟಕ’ಮಾತ್ರ!</text></navLabel><content src="009-chapter009.xhtml#id-09.03"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೩೨೪೭. –  ಇದೆಲ್ಲವೂ ‘ನಾಟಕ’ ಮಾತ್ರ!</text></navLabel><content src="009-chapter009.xhtml#id-09.03"/>
 </navPoint>
 <navPoint id="navPoint-278" playOrder="278">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೪೨೪೮.  – ಜ್ಞಾನದಿಂದ ಸರ್ವಕರ್ಮಗಳೂ ಭಸ್ಮ!</text></navLabel><content src="009-chapter009.xhtml#id-09.04"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೪೨೪೮. –  ಜ್ಞಾನದಿಂದ ಸರ್ವಕರ್ಮಗಳೂ ಭಸ್ಮ!</text></navLabel><content src="009-chapter009.xhtml#id-09.04"/>
 </navPoint>
 <navPoint id="navPoint-279" playOrder="279">
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೫೨೪೯. –  ಜ್ಞಾನವುಂಟಾಗದಿರುವದಕ್ಕೆ ಎರಡು ಕಾರಣ</text></navLabel><content src="009-chapter009.xhtml#id-09.05"/>
@@ -874,7 +874,7 @@
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೨೨೫೬. –  ಜ್ಞಾನಿಯ ‘ಲೋಕಸಂಗ್ರಹ’</text></navLabel><content src="009-chapter009.xhtml#id-09.12"/>
 </navPoint>
 <navPoint id="navPoint-287" playOrder="287">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೩೨೫೭. –  ‘ಅವಿದ್ಯಾಕಾಮಕರ್ಮ’ಗಳೇ ಪಾಪ</text></navLabel><content src="009-chapter009.xhtml#id-09.13"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೩೨೫೭. –  ‘ಅವಿದ್ಯಾಕಾಮಕರ್ಮ’ ಗಳೇ ಪಾಪ</text></navLabel><content src="009-chapter009.xhtml#id-09.13"/>
 </navPoint>
 <navPoint id="navPoint-288" playOrder="288">
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೪೨೫೮. –  ಬ್ರಹ್ಮಪ್ರಾಪ್ತಿಗೆ ಇವು ಸಾಧನಗಳು</text></navLabel><content src="009-chapter009.xhtml#id-09.14"/>
@@ -886,7 +886,7 @@
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೬೨೬೦. –  ಎಷ್ಟು ತಿಳಿದರೂ ಇಷ್ಟೇ!</text></navLabel><content src="009-chapter009.xhtml#id-09.16"/>
 </navPoint>
 <navPoint id="navPoint-291" playOrder="291">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೭೨೬೧. –  ಬ್ರಹ್ಮಕ್ಕೆ “ದೇಹದಲ್ಲಿ ಪ್ರವೇಶ”ವೆಂದರೇನು?</text></navLabel><content src="009-chapter009.xhtml#id-09.17"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೭೨೬೧. –  ಬ್ರಹ್ಮಕ್ಕೆ “ದೇಹದಲ್ಲಿ ಪ್ರವೇಶ” ವೆಂದರೇನು?</text></navLabel><content src="009-chapter009.xhtml#id-09.17"/>
 </navPoint>
 <navPoint id="navPoint-292" playOrder="292">
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೧೮೨೬೨. –  ಬ್ರಹ್ಮಾತ್ಮಜ್ಞಾನವು ‘ಅಂತೆ’ ಅಲ್ಲ</text></navLabel><content src="009-chapter009.xhtml#id-09.18"/>
@@ -901,7 +901,7 @@
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೧೨೬೫. –  ಕರ್ಮಜ್ಞಾನಗಳಿಗೆ ಸಹಭಾವಿತ್ವವಿಲ್ಲ</text></navLabel><content src="009-chapter009.xhtml#id-09.21"/>
 </navPoint>
 <navPoint id="navPoint-296" playOrder="296">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೨೨೬೬. –  ಆತ್ಮನು ‘ಪಂಚಕೋಶಾತೀತ’ನು</text></navLabel><content src="009-chapter009.xhtml#id-09.22"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೨೨೬೬. –  ಆತ್ಮನು ‘ಪಂಚಕೋಶಾತೀತ’ ನು</text></navLabel><content src="009-chapter009.xhtml#id-09.22"/>
 </navPoint>
 <navPoint id="navPoint-297" playOrder="297">
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೩೨೬೭. –  ಅಬ್ಬಾ, ಬ್ರಹ್ಮವಿದ್ಯೆಯ ಮಹಿಮೆ!</text></navLabel><content src="009-chapter009.xhtml#id-09.23"/>
@@ -910,7 +910,7 @@
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೪೨೬೮. –  ಸಕಲಶಾಸ್ತ್ರಾರ್ಥವೆಲ್ಲ ಇಷ್ಟೇ</text></navLabel><content src="009-chapter009.xhtml#id-09.24"/>
 </navPoint>
 <navPoint id="navPoint-299" playOrder="299">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೫೨೬೯. –  ‘ ಔಪನಿಷದಜ್ಞಾನ ’ವೇ ಸಮ್ಯಗ್ಜ್ಞಾನವು</text></navLabel><content src="009-chapter009.xhtml#id-09.25"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೫೨೬೯. –  ‘ಔಪನಿಷದಜ್ಞಾನ’ ವೇ ಸಮ್ಯಗ್ಜ್ಞಾನವು</text></navLabel><content src="009-chapter009.xhtml#id-09.25"/>
 </navPoint>
 <navPoint id="navPoint-300" playOrder="300">
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೬೨೭೦. –  ಜ್ಞಾನವೂ ಮುಕ್ತಿಯೂ, ಎಲ್ಲರಿಗೂ ಸಮಾನ</text></navLabel><content src="009-chapter009.xhtml#id-09.26"/>
@@ -925,7 +925,7 @@
 <navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೨೯೨೭೩. –  ಬ್ರಹ್ಮಜ್ಞಾನದಿಂದಲೇ ನೈಜ ಆನಂದ</text></navLabel><content src="009-chapter009.xhtml#id-09.29"/>
 </navPoint>
 <navPoint id="navPoint-304" playOrder="304">
-<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೩೦೨೭೪. – ‘ಒಣತರ್ಕ’ದಿಂದ ಜ್ಞಾನವಾಗಲಾರದು</text></navLabel><content src="009-chapter009.xhtml#id-09.30"/>
+<navLabel><text>ಸೆಪ್ಟೆಂಬರ್ ೩೦೨೭೪. –  ‘ಒಣತರ್ಕ’ ದಿಂದ ಜ್ಞಾನವಾಗಲಾರದು</text></navLabel><content src="009-chapter009.xhtml#id-09.30"/>
 </navPoint>
 <navPoint id="navPoint-305" playOrder="305">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೧೨೭೫. –  ಬ್ರಹ್ಮಜ್ಞಾನಿಗೆ ಕನಸಿನಲ್ಲೂ ಕರ್ಮವಿಲ್ಲ</text></navLabel><content src="010-chapter010.xhtml#id-10.01"/>
@@ -937,34 +937,34 @@
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೩೨೭೭. –  ಉಪಾಧಿಯಿಂದಲೇ ಭೇದವು</text></navLabel><content src="010-chapter010.xhtml#id-10.03"/>
 </navPoint>
 <navPoint id="navPoint-308" playOrder="308">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೪೨೭೮. –  ಜ್ಞಾನದಿಂದ ‘ಸಂಸಾರಗತಿ’ತ್ರಯದ ನಾಶ!</text></navLabel><content src="010-chapter010.xhtml#id-10.04"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೪೨೭೮. –  ಜ್ಞಾನದಿಂದ ‘ಸಂಸಾರಗತಿ’ ತ್ರಯದ ನಾಶ!</text></navLabel><content src="010-chapter010.xhtml#id-10.04"/>
 </navPoint>
 <navPoint id="navPoint-309" playOrder="309">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೫೨೭೯. –  ವೇದಾಂತಜ್ಞಾನದ ಫಲವೆಲ್ಲ ‘ಈ ಎರಡೇ’</text></navLabel><content src="010-chapter010.xhtml#id-10.05"/>
 </navPoint>
 <navPoint id="navPoint-310" playOrder="310">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೬೨೮೦. –  ಆತ್ಮವಿದ್ಯೆಯಿಂದಲೇ ‘ಅಮೃತತ್ವ’ಪ್ರಾಪ್ತಿ</text></navLabel><content src="010-chapter010.xhtml#id-10.06"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೬೨೮೦. –  ಆತ್ಮವಿದ್ಯೆಯಿಂದಲೇ ‘ಅಮೃತತ್ವ’ ಪ್ರಾಪ್ತಿ</text></navLabel><content src="010-chapter010.xhtml#id-10.06"/>
 </navPoint>
 <navPoint id="navPoint-311" playOrder="311">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೭೨೮೧. –  ‘ಸತ್ಯ’ವೆಂದರೆ ಯಾವದು?</text></navLabel><content src="010-chapter010.xhtml#id-10.07"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೭೨೮೧. –  ‘ಸತ್ಯ’ ವೆಂದರೆ ಯಾವದು?</text></navLabel><content src="010-chapter010.xhtml#id-10.07"/>
 </navPoint>
 <navPoint id="navPoint-312" playOrder="312">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೮೨೮೨. –  ‘ಅಂತ್ಯಪ್ರಮಾಣ’ವೆಂದರೇನು?</text></navLabel><content src="010-chapter010.xhtml#id-10.08"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೮೨೮೨. –  ‘ಅಂತ್ಯಪ್ರಮಾಣ’ ವೆಂದರೇನು?</text></navLabel><content src="010-chapter010.xhtml#id-10.08"/>
 </navPoint>
 <navPoint id="navPoint-313" playOrder="313">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೯೨೮೩. –  ‘ಬ್ರಹ್ಮಸೂತ್ರ’ಗಳ ಗುರಿಯೇನು?</text></navLabel><content src="010-chapter010.xhtml#id-10.09"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೯೨೮೩. –  ‘ಬ್ರಹ್ಮಸೂತ್ರ’ ಗಳ ಗುರಿಯೇನು?</text></navLabel><content src="010-chapter010.xhtml#id-10.09"/>
 </navPoint>
 <navPoint id="navPoint-314" playOrder="314">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೧೦೨೮೪. –  ಇದು ವಿವೇಕದ ವೈಭವ!</text></navLabel><content src="010-chapter010.xhtml#id-10.10"/>
 </navPoint>
 <navPoint id="navPoint-315" playOrder="315">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೧೨೮೫. –  ‘ಸಂಪ್ರದಾಯ’ದ ಮಹತ್ತ್ವ</text></navLabel><content src="010-chapter010.xhtml#id-10.11"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೧೨೮೫. –  ‘ಸಂಪ್ರದಾಯ’ ದ ಮಹತ್ತ್ವ</text></navLabel><content src="010-chapter010.xhtml#id-10.11"/>
 </navPoint>
 <navPoint id="navPoint-316" playOrder="316">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೨೨೮೬. –  ‘ತತ್ತ್ವಮಸಿ’ಯ ಫಲವಿದು!</text></navLabel><content src="010-chapter010.xhtml#id-10.12"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೨೨೮೬. –  ‘ತತ್ತ್ವಮಸಿ’ ಯ ಫಲವಿದು!</text></navLabel><content src="010-chapter010.xhtml#id-10.12"/>
 </navPoint>
 <navPoint id="navPoint-317" playOrder="317">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೩೨೮೭. –  ‘ಆತ್ಮನಿಶ್ಚಯ’ವೆಂದರೆ ಇದೇ</text></navLabel><content src="010-chapter010.xhtml#id-10.13"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೩೨೮೭. –  ‘ಆತ್ಮನಿಶ್ಚಯ’ ವೆಂದರೆ ಇದೇ</text></navLabel><content src="010-chapter010.xhtml#id-10.13"/>
 </navPoint>
 <navPoint id="navPoint-318" playOrder="318">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೧೪೨೮೮. –  ಆತ್ಮವಿದ್ಯೆಯು ಬುದ್ಧಿಗೆ ಮೀರಿದ್ದು</text></navLabel><content src="010-chapter010.xhtml#id-10.14"/>
@@ -976,10 +976,10 @@
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೧೬೨೯೦. –  ವಿದ್ಯೆಗೆ ಇವು ಸಾಕ್ಷಾತ್ ಸಾಧನಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-10.16"/>
 </navPoint>
 <navPoint id="navPoint-321" playOrder="321">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೭೨೯೧. –  ‘ಜಿಜ್ಞಾಸು’ಗಳಿಗೆ ‘ವೇದಾಂತ’ವೇ ಗತಿ</text></navLabel><content src="010-chapter010.xhtml#id-10.17"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೭೨೯೧. –  ‘ಜಿಜ್ಞಾಸು’ ಗಳಿಗೆ ‘ವೇದಾಂತ’ ವೇ ಗತಿ</text></navLabel><content src="010-chapter010.xhtml#id-10.17"/>
 </navPoint>
 <navPoint id="navPoint-322" playOrder="322">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೮೨೯೨. –  ‘ಅಮೃತತ್ವ’ವೆಂದರೆ ಮೋಕ್ಷವೇ</text></navLabel><content src="010-chapter010.xhtml#id-10.18"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೧೮೨೯೨. –  ‘ಅಮೃತತ್ವ’ ವೆಂದರೆ ಮೋಕ್ಷವೇ</text></navLabel><content src="010-chapter010.xhtml#id-10.18"/>
 </navPoint>
 <navPoint id="navPoint-323" playOrder="323">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೧೯೨೯೩. –  ಅಜ್ಞಾನಿಗೇ ಕರ್ಮಗಳು, ಜ್ಞಾನಿಗೆ ಇಲ್ಲ</text></navLabel><content src="010-chapter010.xhtml#id-10.19"/>
@@ -988,10 +988,10 @@
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೨೦೨೯೪. –  ಅಜ್ಞಾನದಿಂದಲೇ ‘ಸಂಸಾರಗತಿ’</text></navLabel><content src="010-chapter010.xhtml#id-10.20"/>
 </navPoint>
 <navPoint id="navPoint-325" playOrder="325">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೧೨೯೫. –  ವೇದಾಂತವು ‘ಅಂತ್ಯಪ್ರಮಾಣ’ವು</text></navLabel><content src="010-chapter010.xhtml#id-10.21"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೧೨೯೫. –  ವೇದಾಂತವು ‘ಅಂತ್ಯಪ್ರಮಾಣ’ ವು</text></navLabel><content src="010-chapter010.xhtml#id-10.21"/>
 </navPoint>
 <navPoint id="navPoint-326" playOrder="326">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೨೨೯೬. –  ‘ಶ್ರವಣ’ದಿಂದಲೇ ‘ಬ್ರಹ್ಮಜ್ಞಾನ’</text></navLabel><content src="010-chapter010.xhtml#id-10.22"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೨೨೯೬. –  ‘ಶ್ರವಣ’ ದಿಂದಲೇ ‘ಬ್ರಹ್ಮಜ್ಞಾನ’</text></navLabel><content src="010-chapter010.xhtml#id-10.22"/>
 </navPoint>
 <navPoint id="navPoint-327" playOrder="327">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೨೩೨೯೭. –  ಕರ್ಮಯೋಗವು ಮುಕ್ತಿಸಾಧನ ಹೇಗೆ?</text></navLabel><content src="010-chapter010.xhtml#id-10.23"/>
@@ -1000,10 +1000,10 @@
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೨೪೨೯೮. –  ಶಾಸ್ತ್ರೀಯಕರ್ಮಗಳೂ ಅಜ್ಞಾನಿಗೇ!</text></navLabel><content src="010-chapter010.xhtml#id-10.24"/>
 </navPoint>
 <navPoint id="navPoint-329" playOrder="329">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೫೨೯೯. –  ‘ತುರೀಯ’ನೇ ಪರಮಾರ್ಥ</text></navLabel><content src="010-chapter010.xhtml#id-10.25"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೫೨೯೯. –  ‘ತುರೀಯ’ ನೇ ಪರಮಾರ್ಥ</text></navLabel><content src="010-chapter010.xhtml#id-10.25"/>
 </navPoint>
 <navPoint id="navPoint-330" playOrder="330">
-<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೬೩೦೦. –  ‘ರಾಗದ್ವೇಷ’ಗಳಿಂದ ಎಂಥ ಅನರ್ಥ!</text></navLabel><content src="010-chapter010.xhtml#id-10.26"/>
+<navLabel><text>ಅಕ್ಟೋಬರ್ ೨೬೩೦೦. –  ‘ರಾಗದ್ವೇಷ’ ಗಳಿಂದ ಎಂಥ ಅನರ್ಥ!</text></navLabel><content src="010-chapter010.xhtml#id-10.26"/>
 </navPoint>
 <navPoint id="navPoint-331" playOrder="331">
 <navLabel><text>ಅಕ್ಟೋಬರ್ ೨೭೩೦೧. –  ಅಮರತ್ವವೂ ಅಮೃತತ್ವವೂ</text></navLabel><content src="010-chapter010.xhtml#id-10.27"/>
@@ -1027,37 +1027,37 @@
 <navLabel><text>ನವೆಂಬರ್ ೨೩೦೭. –  ಜ್ಞಾನವುಂಟಾದರೆ ಎಲ್ಲವೂ ಬ್ರಹ್ಮವೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.02"/>
 </navPoint>
 <navPoint id="navPoint-338" playOrder="338">
-<navLabel><text>ನವೆಂಬರ್ ೩೩೦೮. –  ‘ಜಗತ್ ಸೃಷ್ಟಿ’ಗೆ ತಾತ್ಪರ್ಯವೇನು?</text></navLabel><content src="011-chapter011.xhtml#id-11.03"/>
+<navLabel><text>ನವೆಂಬರ್ ೩೩೦೮. –  ‘ಜಗತ್ ಸೃಷ್ಟಿ’ ಗೆ ತಾತ್ಪರ್ಯವೇನು?</text></navLabel><content src="011-chapter011.xhtml#id-11.03"/>
 </navPoint>
 <navPoint id="navPoint-339" playOrder="339">
-<navLabel><text>ನವೆಂಬರ್ ೪೩೦೯. –  ಭಗವಂತನೊಬ್ಬನೇ ‘ಸುಹೃದ’ನು</text></navLabel><content src="011-chapter011.xhtml#id-11.04"/>
+<navLabel><text>ನವೆಂಬರ್ ೪೩೦೯. –  ಭಗವಂತನೊಬ್ಬನೇ ‘ಸುಹೃದ’ ನು</text></navLabel><content src="011-chapter011.xhtml#id-11.04"/>
 </navPoint>
 <navPoint id="navPoint-340" playOrder="340">
-<navLabel><text>ನವೆಂಬರ್ ೫೩೧೦. –  ‘ಸದ್ಗುರೂಪದೇಶ’ದ ಮಹಿಮೆ</text></navLabel><content src="011-chapter011.xhtml#id-11.05"/>
+<navLabel><text>ನವೆಂಬರ್ ೫೩೧೦. –  ‘ಸದ್ಗುರೂಪದೇಶ’ ದ ಮಹಿಮೆ</text></navLabel><content src="011-chapter011.xhtml#id-11.05"/>
 </navPoint>
 <navPoint id="navPoint-341" playOrder="341">
-<navLabel><text>ನವೆಂಬರ್ ೬೩೧೧. –  ‘ಆಚಾರ್ಯ’ನು ಯಾರು?</text></navLabel><content src="011-chapter011.xhtml#id-11.06"/>
+<navLabel><text>ನವೆಂಬರ್ ೬೩೧೧. –  ‘ಆಚಾರ್ಯ’ ನು ಯಾರು?</text></navLabel><content src="011-chapter011.xhtml#id-11.06"/>
 </navPoint>
 <navPoint id="navPoint-342" playOrder="342">
 <navLabel><text>ನವೆಂಬರ್ ೭೩೧೨. –  ಅವಿದ್ಯಾನಿವೃತ್ತಿಯೇ ಮೋಕ್ಷವು</text></navLabel><content src="011-chapter011.xhtml#id-11.07"/>
 </navPoint>
 <navPoint id="navPoint-343" playOrder="343">
-<navLabel><text>ನವೆಂಬರ್ ೮೩೧೩. –  “ತುರೀಯ”ನಲ್ಲಿ ಅಜ್ಞಾನವಿಲ್ಲ</text></navLabel><content src="011-chapter011.xhtml#id-11.08"/>
+<navLabel><text>ನವೆಂಬರ್ ೮೩೧೩. –  “ತುರೀಯ” ನಲ್ಲಿ ಅಜ್ಞಾನವಿಲ್ಲ</text></navLabel><content src="011-chapter011.xhtml#id-11.08"/>
 </navPoint>
 <navPoint id="navPoint-344" playOrder="344">
-<navLabel><text>ನವೆಂಬರ್ ೯೩೧೪. –  ‘ಧೀರ’ನಾದ ಮುಮುಕ್ಷು</text></navLabel><content src="011-chapter011.xhtml#id-11.09"/>
+<navLabel><text>ನವೆಂಬರ್ ೯೩೧೪. –  ‘ಧೀರ’ ನಾದ ಮುಮುಕ್ಷು</text></navLabel><content src="011-chapter011.xhtml#id-11.09"/>
 </navPoint>
 <navPoint id="navPoint-345" playOrder="345">
 <navLabel><text>ನವೆಂಬರ್ ೧೦೩೧೫. –  ಆಹಾ! ಇದಲ್ಲವೆ, ಬ್ರಹ್ಮವಿದ್ಯಾಫಲ?</text></navLabel><content src="011-chapter011.xhtml#id-11.10"/>
 </navPoint>
 <navPoint id="navPoint-346" playOrder="346">
-<navLabel><text>ನವೆಂಬರ್ ೧೧೩೧೬. –  ‘ಸಂನ್ಯಾಸಿ’ಗಳು ಹೇಗಿರಬೇಕು?</text></navLabel><content src="011-chapter011.xhtml#id-11.11"/>
+<navLabel><text>ನವೆಂಬರ್ ೧೧೩೧೬. –  ‘ಸಂನ್ಯಾಸಿ’ ಗಳು ಹೇಗಿರಬೇಕು?</text></navLabel><content src="011-chapter011.xhtml#id-11.11"/>
 </navPoint>
 <navPoint id="navPoint-347" playOrder="347">
 <navLabel><text>ನವೆಂಬರ್ ೧೨೩೧೭. –  ಮಂದಮತಿಗಳಿಗೆ ಆತ್ಮನು ದುರ್ಬೋಧನು</text></navLabel><content src="011-chapter011.xhtml#id-11.12"/>
 </navPoint>
 <navPoint id="navPoint-348" playOrder="348">
-<navLabel><text>ನವೆಂಬರ್ ೧೩೩೧೮. –  ‘ಸಂಗತ್ರಯ’ವೇ ಬಂಧಕ</text></navLabel><content src="011-chapter011.xhtml#id-11.13"/>
+<navLabel><text>ನವೆಂಬರ್ ೧೩೩೧೮. –  ‘ಸಂಗತ್ರಯ’ ವೇ ಬಂಧಕ</text></navLabel><content src="011-chapter011.xhtml#id-11.13"/>
 </navPoint>
 <navPoint id="navPoint-349" playOrder="349">
 <navLabel><text>ನವೆಂಬರ್ ೧೪೩೧೯. –  ಆತ್ಮೈಕತ್ವಜ್ಞಾನವೇ ಶಾಸ್ತ್ರಕ್ಕೆ ತಾತ್ಪರ್ಯ</text></navLabel><content src="011-chapter011.xhtml#id-11.14"/>
@@ -1066,7 +1066,7 @@
 <navLabel><text>ನವೆಂಬರ್ ೧೫೩೨೦. –  ಜನ್ಮಾಂತರಸಂಸ್ಕಾರವೂ ವಿದ್ಯೋತ್ಪತ್ತಿಗೆ ಸಹಾಯಕ</text></navLabel><content src="011-chapter011.xhtml#id-11.15"/>
 </navPoint>
 <navPoint id="navPoint-351" playOrder="351">
-<navLabel><text>ನವೆಂಬರ್ ೧೬೩೨೧. –  ‘ತತ್ತ್ವದರ್ಶಿ’ಗಳೆಂದರೆ ಇವರೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.16"/>
+<navLabel><text>ನವೆಂಬರ್ ೧೬೩೨೧. –  ‘ತತ್ತ್ವದರ್ಶಿ’ ಗಳೆಂದರೆ ಇವರೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.16"/>
 </navPoint>
 <navPoint id="navPoint-352" playOrder="352">
 <navLabel><text>ನವೆಂಬರ್ ೧೭೩೨೨. –  ಪುಣ್ಯವು ಬಂಗಾರದ ಬೇಡಿಯು!</text></navLabel><content src="011-chapter011.xhtml#id-11.17"/>
@@ -1093,13 +1093,13 @@
 <navLabel><text>ನವೆಂಬರ್ ೨೪೩೨೯. –  ಮುಮುಕ್ಷುಗಳಿಗೆ ಇದೇ ದೊಡ್ಡ ಶತ್ರು!</text></navLabel><content src="011-chapter011.xhtml#id-11.24"/>
 </navPoint>
 <navPoint id="navPoint-360" playOrder="360">
-<navLabel><text>ನವೆಂಬರ್ ೨೫೩೩೦. –  ‘ಮುಮುಕ್ಷು’ಗಳಿಗೆ ‘ಹಿತೋಪದೇಶ’</text></navLabel><content src="011-chapter011.xhtml#id-11.25"/>
+<navLabel><text>ನವೆಂಬರ್ ೨೫೩೩೦. –  ‘ಮುಮುಕ್ಷು’ ಗಳಿಗೆ ‘ಹಿತೋಪದೇಶ’</text></navLabel><content src="011-chapter011.xhtml#id-11.25"/>
 </navPoint>
 <navPoint id="navPoint-361" playOrder="361">
 <navLabel><text>ನವೆಂಬರ್ ೨೬೩೩೧. –  ಸಾಧನಗಳಿಗೆ ತಕ್ಕಂಥ ಫಲಗಳು</text></navLabel><content src="011-chapter011.xhtml#id-11.26"/>
 </navPoint>
 <navPoint id="navPoint-362" playOrder="362">
-<navLabel><text>ನವೆಂಬರ್ ೨೭೩೩೨. –  ‘ಆತ್ಮವಿದ್ಯೆ’ಯೆಂದರೆ ಇದೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.27"/>
+<navLabel><text>ನವೆಂಬರ್ ೨೭೩೩೨. –  ‘ಆತ್ಮವಿದ್ಯೆ’ ಯೆಂದರೆ ಇದೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.27"/>
 </navPoint>
 <navPoint id="navPoint-363" playOrder="363">
 <navLabel><text>ನವೆಂಬರ್ ೨೮೩೩೩. –  ಅವಿದ್ಯೆಯುಳ್ಳವನಿಗೇ ಶ್ರೌತಸ್ಮಾರ್ತಕರ್ಮಗಳು</text></navLabel><content src="011-chapter011.xhtml#id-11.28"/>
@@ -1108,7 +1108,7 @@
 <navLabel><text>ನವೆಂಬರ್ ೨೯೩೩೪. –  ಆತ್ಮಜ್ಞಾನದಿಂದ ಭಯನಿವೃತ್ತಿ</text></navLabel><content src="011-chapter011.xhtml#id-11.29"/>
 </navPoint>
 <navPoint id="navPoint-365" playOrder="365">
-<navLabel><text>ನವೆಂಬರ್ ೩೦೩೩೫. –  ‘ಅಮೃತತ್ವ’ವೆಂದರೆ ಇದೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.30"/>
+<navLabel><text>ನವೆಂಬರ್ ೩೦೩೩೫. –  ‘ಅಮೃತತ್ವ’ ವೆಂದರೆ ಇದೇ</text></navLabel><content src="011-chapter011.xhtml#id-11.30"/>
 </navPoint>
 <navPoint id="navPoint-366" playOrder="366">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೧೩೩೬. –  ಆತ್ಮಜ್ಞಾನದಿಂದಲೇ ಶೋಕಮೋಹನಿವೃತ್ತಿ</text></navLabel><content src="012-chapter012.xhtml#id-12.01"/>
@@ -1123,7 +1123,7 @@
 <navLabel><text>ಡಿಸೆಂಬರ್ ೪೩೩೯. –  ಶ್ರುತಿಗಳ ‘ರಹಸ್ಯ’ ಸಂದೇಶವಿದು!</text></navLabel><content src="012-chapter012.xhtml#id-12.04"/>
 </navPoint>
 <navPoint id="navPoint-370" playOrder="370">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೫೩೪೦. –  ‘ಸಂಸಾರ’ವೆಂದರೇನು?</text></navLabel><content src="012-chapter012.xhtml#id-12.05"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೫೩೪೦. –  ‘ಸಂಸಾರ’ ವೆಂದರೇನು?</text></navLabel><content src="012-chapter012.xhtml#id-12.05"/>
 </navPoint>
 <navPoint id="navPoint-371" playOrder="371">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೬೩೪೧. –  ಜ್ಞಾನದಿಂದಲೇ ಭ್ರಾಂತಿಯ ನಾಶ</text></navLabel><content src="012-chapter012.xhtml#id-12.06"/>
@@ -1138,19 +1138,19 @@
 <navLabel><text>ಡಿಸೆಂಬರ್ ೯೩೪೪. –  ಪಾಪಕ್ಷಯವಾದರೇ ಬ್ರಹ್ಮಜ್ಞಾನಪ್ರಾಪ್ತಿ</text></navLabel><content src="012-chapter012.xhtml#id-12.09"/>
 </navPoint>
 <navPoint id="navPoint-375" playOrder="375">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೧೦೩೪೫. –  ‘ವಿಷಯಾನಂದ’ದ ‘ಹಣೇಬರಹ’</text></navLabel><content src="012-chapter012.xhtml#id-12.10"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೦೩೪೫. –  ‘ವಿಷಯಾನಂದ’ ದ ‘ಹಣೇಬರಹ’</text></navLabel><content src="012-chapter012.xhtml#id-12.10"/>
 </navPoint>
 <navPoint id="navPoint-376" playOrder="376">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೧೧೩೪೬. –  ಅಜ್ಞಾನಿಗಳೆಲ್ಲರೂ ‘ಆತ್ಮಹನ’ರೇ!</text></navLabel><content src="012-chapter012.xhtml#id-12.11"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೧೩೪೬. –  ಅಜ್ಞಾನಿಗಳೆಲ್ಲರೂ ‘ಆತ್ಮಹನ’ ರೇ!</text></navLabel><content src="012-chapter012.xhtml#id-12.11"/>
 </navPoint>
 <navPoint id="navPoint-377" playOrder="377">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೧೨೩೪೭. –  ಜ್ಞಾನದಿಂದಲೇ ‘ಭೋಗರಸ’ದ ನಾಶ</text></navLabel><content src="012-chapter012.xhtml#id-12.12"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೨೩೪೭. –  ಜ್ಞಾನದಿಂದಲೇ ‘ಭೋಗರಸ’ ದ ನಾಶ</text></navLabel><content src="012-chapter012.xhtml#id-12.12"/>
 </navPoint>
 <navPoint id="navPoint-378" playOrder="378">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೧೩೩೪೮. –  ಒಮ್ಮೆ ಜ್ಞಾನೋದಯವಾದರೆ ಸಾಕೇ ಸಾಕು!</text></navLabel><content src="012-chapter012.xhtml#id-12.13"/>
 </navPoint>
 <navPoint id="navPoint-379" playOrder="379">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೧೪೩೪೯. –  ವೇದಾಂತವು ‘ಪವಾಡ’ವಿದ್ಯೆಯಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-12.14"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೪೩೪೯. –  ವೇದಾಂತವು ‘ಪವಾಡ’ ವಿದ್ಯೆಯಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-12.14"/>
 </navPoint>
 <navPoint id="navPoint-380" playOrder="380">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೧೫೩೫೦. –  ಇವು ಸಾಧಕರಿಗೆ ಸಾಧನ</text></navLabel><content src="012-chapter012.xhtml#id-12.15"/>
@@ -1159,28 +1159,28 @@
 <navLabel><text>ಡಿಸೆಂಬರ್ ೧೬೩೫೧. –  ಇದು ಪರಮಸತ್ಯಸಂದೇಶ!</text></navLabel><content src="012-chapter012.xhtml#id-12.16"/>
 </navPoint>
 <navPoint id="navPoint-382" playOrder="382">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೧೭೩೫೨. –  ‘ಸ್ವಾರಾಜ್ಯಕಾಮ’ರಿಗೆ ಕಿವಿಮಾತು</text></navLabel><content src="012-chapter012.xhtml#id-12.17"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೭೩೫೨. –  ‘ಸ್ವಾರಾಜ್ಯಕಾಮ’ ರಿಗೆ ಕಿವಿಮಾತು</text></navLabel><content src="012-chapter012.xhtml#id-12.17"/>
 </navPoint>
 <navPoint id="navPoint-383" playOrder="383">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೧೮೩೫೩. –  ಕರ್ಮೋಪರತಿಯಿಂದ ನೆಮ್ಮದಿ</text></navLabel><content src="012-chapter012.xhtml#id-12.18"/>
 </navPoint>
 <navPoint id="navPoint-384" playOrder="384">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೧೯೩೫೪. –  ಜ್ಞಾನದಿಂದಲೇ ‘ಸದ್ಯೋಮುಕ್ತಿ’ಯು</text></navLabel><content src="012-chapter012.xhtml#id-12.19"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೧೯೩೫೪. –  ಜ್ಞಾನದಿಂದಲೇ ‘ಸದ್ಯೋಮುಕ್ತಿ’ ಯು</text></navLabel><content src="012-chapter012.xhtml#id-12.19"/>
 </navPoint>
 <navPoint id="navPoint-385" playOrder="385">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೨೦೩೫೫. –  ‘ಜೀವನ್ಮುಕ್ತಿ’ಯ ರಹಸ್ಯ</text></navLabel><content src="012-chapter012.xhtml#id-12.20"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೦೩೫೫. –  ‘ಜೀವನ್ಮುಕ್ತಿ’ ಯ ರಹಸ್ಯ</text></navLabel><content src="012-chapter012.xhtml#id-12.20"/>
 </navPoint>
 <navPoint id="navPoint-386" playOrder="386">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೨೧೩೫೬. –  ‘ಆತ್ಮಾನುಭವ’ವೆಂದರೆ ಇದೇ</text></navLabel><content src="012-chapter012.xhtml#id-12.21"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೧೩೫೬. –  ‘ಆತ್ಮಾನುಭವ’ ವೆಂದರೆ ಇದೇ</text></navLabel><content src="012-chapter012.xhtml#id-12.21"/>
 </navPoint>
 <navPoint id="navPoint-387" playOrder="387">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೨೨೩೫೭. –  ಇವನೇ ‘ಸಮದರ್ಶಿ’</text></navLabel><content src="012-chapter012.xhtml#id-12.22"/>
 </navPoint>
 <navPoint id="navPoint-388" playOrder="388">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೨೩೩೫೮. –  ‘ಮೋಕ್ಷ’ವೆಂದರೆ ಭಯವೇಕೆ?</text></navLabel><content src="012-chapter012.xhtml#id-12.23"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೩೩೫೮. –  ‘ಮೋಕ್ಷ’ ವೆಂದರೆ ಭಯವೇಕೆ?</text></navLabel><content src="012-chapter012.xhtml#id-12.23"/>
 </navPoint>
 <navPoint id="navPoint-389" playOrder="389">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೨೪೩೫೯. –  ‘ಜ್ಞಾನ’, ‘ವಿಜ್ಞಾನ’ಗಳೆಂದರೇನು?</text></navLabel><content src="012-chapter012.xhtml#id-12.24"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೪೩೫೯. –  ‘ಜ್ಞಾನ’, ‘ವಿಜ್ಞಾನ’ ಗಳೆಂದರೇನು?</text></navLabel><content src="012-chapter012.xhtml#id-12.24"/>
 </navPoint>
 <navPoint id="navPoint-390" playOrder="390">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೨೫೩೬೦. –  ಬ್ರಹ್ಮಜ್ಞಾನವು ಭ್ರಾಂತಿಜ್ಞಾನವಲ್ಲ!</text></navLabel><content src="012-chapter012.xhtml#id-12.25"/>
@@ -1192,7 +1192,7 @@
 <navLabel><text>ಡಿಸೆಂಬರ್ ೨೭೩೬೨. –  ಜ್ಞಾನದಿಂದ ಅಜ್ಞಾನವು ಬೂದಿ!</text></navLabel><content src="012-chapter012.xhtml#id-12.27"/>
 </navPoint>
 <navPoint id="navPoint-393" playOrder="393">
-<navLabel><text>ಡಿಸೆಂಬರ್ ೨೮೩೬೩. –  ‘ಸದ್ಯೋಮುಕ್ತ’ರಿಗೆ ಜನ್ಮಾಂತರವಿಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-12.28"/>
+<navLabel><text>ಡಿಸೆಂಬರ್ ೨೮೩೬೩. –  ‘ಸದ್ಯೋಮುಕ್ತ’ ರಿಗೆ ಜನ್ಮಾಂತರವಿಲ್ಲ</text></navLabel><content src="012-chapter012.xhtml#id-12.28"/>
 </navPoint>
 <navPoint id="navPoint-394" playOrder="394">
 <navLabel><text>ಡಿಸೆಂಬರ್ ೨೯೩೬೪. –  ಜ್ಞಾನಿಯು ಕೃತಕೃತ್ಯ!</text></navLabel><content src="012-chapter012.xhtml#id-12.29"/>
