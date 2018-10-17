@@ -19,130 +19,133 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a.1"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>ನಮೋ ನಮಃ ಸದ್ಗುರುಪಾದುಕಾಭ್ಯಾಮ್</text></navLabel><content src="000b-preface.xhtml#id-000b.1"/>
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಸಾರ</text></navLabel><content src="000b-preface.xhtml#id-000b.2"/>
+<navLabel><text>ನಮೋ ನಮಃ ಸದ್ಗುರುಪಾದುಕಾಭ್ಯಾಮ್</text></navLabel><content src="000c-preface.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>1.  ಬ್ರಹ್ಮಸೂತ್ರಶಾಂಕರಭಾಷ್ಯಮ್</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+<navLabel><text>ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಸಾರ</text></navLabel><content src="000c-preface.xhtml#id-000b.2"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>2.  ಓದುಗರಿಗೊಂದು ಸಿಹಿಮಾತು, ಕಿವಿಮಾತು</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
+<navLabel><text>1.  ಬ್ರಹ್ಮಸೂತ್ರಶಾಂಕರಭಾಷ್ಯಮ್</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>3.  ಅಧ್ಯಾಸಭಾಷ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
+<navLabel><text>2.  ಓದುಗರಿಗೊಂದು ಸಿಹಿಮಾತು, ಕಿವಿಮಾತು</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>4. ಅಧ್ಯಾಸಭಾಷ್ಯದಲ್ಲಿನ ಹತ್ತು ಸಂದೇಶಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
+<navLabel><text>3.  ಅಧ್ಯಾಸಭಾಷ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>5. ಓಮ್॥ ಅಥಾತೋ ಬ್ರಹ್ಮಜಿಜ್ಞಾಸಾ</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
+<navLabel><text>4.  ಅಧ್ಯಾಸಭಾಷ್ಯದಲ್ಲಿನ ಹತ್ತು ಸಂದೇಶಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>6. ಓಮ್॥ ಜನ್ಮಾದ್ಯಸ್ಯ ಯತಃ</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
+<navLabel><text>5.  ಓಮ್ ॥ ಅಥಾತೋ ಬ್ರಹ್ಮಜಿಜ್ಞಾಸಾ</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>7.  ಓಮ್॥ ಶಾಸ್ತ್ರಯೋನಿತ್ವಾತ್</text></navLabel><content src="001-chapter001.xhtml#id-7"/>
+<navLabel><text>6.  ಓಮ್ ॥ ಜನ್ಮಾದ್ಯಸ್ಯ ಯತಃ</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>8.  ಓಮ್॥ ತತ್ತು ಸಮನ್ವಯಾತ್</text></navLabel><content src="001-chapter001.xhtml#id-8"/>
+<navLabel><text>7.  ಓಮ್ ॥ ಶಾಸ್ತ್ರಯೋನಿತ್ವಾತ್</text></navLabel><content src="001-chapter001.xhtml#id-7"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>9.  ವೇದಾಂತಸಮನ್ವಯ</text></navLabel><content src="001-chapter001.xhtml#id-9"/>
+<navLabel><text>8.  ಓಮ್ ॥ ತತ್ತು ಸಮನ್ವಯಾತ್</text></navLabel><content src="001-chapter001.xhtml#id-8"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>10.  ಬ್ರಹ್ಮಾತ್ಮಾವಗತಿಯಿಂದಲೇ ಪುರುಷಾರ್ಥಸಿದ್ಧಿ</text></navLabel><content src="001-chapter001.xhtml#id-10"/>
+<navLabel><text>9.  ವೇದಾಂತಸಮನ್ವಯ</text></navLabel><content src="001-chapter001.xhtml#id-9"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>11. ಶಾಸ್ತ್ರದಿಂದಲೇ ಬ್ರಹ್ಮಾತ್ಮಜ್ಞಾನಪ್ರಾಪ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-11"/>
+<navLabel><text>10.  ಬ್ರಹ್ಮಾತ್ಮಾವಗತಿಯಿಂದಲೇ ಪುರುಷಾರ್ಥಸಿದ್ಧಿ</text></navLabel><content src="001-chapter001.xhtml#id-10"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>12. ಎರಡೂಫಲಗಳಲ್ಲಿ ವೈಲಕ್ಷಣ್ಯವಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-12"/>
+<navLabel><text>11.  ಶಾಸ್ತ್ರದಿಂದಲೇ ಬ್ರಹ್ಮಾತ್ಮಜ್ಞಾನಪ್ರಾಪ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-11"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>13. ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಾಷ್ಟಕಸ್ತೋತ್ರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-13"/>
+<navLabel><text>12.  ಎರಡೂಫಲಗಳಲ್ಲಿ ವೈಲಕ್ಷಣ್ಯವಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-12"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>14.  ಅಶರೀರತ್ವವು ಸ್ವಾಭಾವಿಕವೇ ಆಗಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-14"/>
+<navLabel><text>13.  ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಾಷ್ಟಕಸ್ತೋತ್ರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-13"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>15. ಬ್ರಹ್ಮವಿದನಿಗೆ ಪುನಃ ಸಂಸಾರಿತ್ವವು ಇಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-15"/>
+<navLabel><text>14.  ಅಶರೀರತ್ವವು ಸ್ವಾಭಾವಿಕವೇ ಆಗಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-14"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>16. ಗೌಣಾತ್ಮನೂ ಮಿಥ್ಯಾತ್ಮನೂ</text></navLabel><content src="001-chapter001.xhtml#id-16"/>
+<navLabel><text>15.  ಬ್ರಹ್ಮವಿದನಿಗೆ ಪುನಃ ಸಂಸಾರಿತ್ವವು ಇಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-15"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>17. ಮನನನಿದಿಧ್ಯಾಸನಗಳೂ ಅವಗತ್ಯರ್ಥವೇ</text></navLabel><content src="001-chapter001.xhtml#id-17"/>
+<navLabel><text>16.  ಗೌಣಾತ್ಮನೂ ಮಿಥ್ಯಾತ್ಮನೂ</text></navLabel><content src="001-chapter001.xhtml#id-16"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>18.  ಬ್ರಹ್ಮವಿದನಿಗೆ ಪುನಃ ದ್ವೈತಜ್ಞಾನವಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-18"/>
+<navLabel><text>17.  ಮನನನಿದಿಧ್ಯಾಸನಗಳೂ ಅವಗತ್ಯರ್ಥವೇ</text></navLabel><content src="001-chapter001.xhtml#id-17"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>19. ಪರಬ್ರಹ್ಮವೇ ಔಪನಿಷದಪುರುಷ</text></navLabel><content src="001-chapter001.xhtml#id-19"/>
+<navLabel><text>18.  ಬ್ರಹ್ಮವಿದನಿಗೆ ಪುನಃ ದ್ವೈತಜ್ಞಾನವಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-18"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>20. ಇದು ವೇದಾಂತಿಗಳಿಗೆ ಅಲಂಕಾರ</text></navLabel><content src="001-chapter001.xhtml#id-20"/>
+<navLabel><text>19.  ಪರಬ್ರಹ್ಮವೇ ಔಪನಿಷದಪುರುಷ</text></navLabel><content src="001-chapter001.xhtml#id-19"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>21. ಮೋಕ್ಷವು ಉತ್ಪಾದ್ಯಾದಿವಿಲಕ್ಷಣವಾಗಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-21"/>
+<navLabel><text>20.  ಇದು ವೇದಾಂತಿಗಳಿಗೆ ಅಲಂಕಾರ</text></navLabel><content src="001-chapter001.xhtml#id-20"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>22. ಬ್ರಹ್ಮವಿದ್ಯೆಯಿಂದ ಅಜ್ಞಾನದ ನಿವೃತ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-22"/>
+<navLabel><text>21.  ಮೋಕ್ಷವು ಉತ್ಪಾದ್ಯಾದಿವಿಲಕ್ಷಣವಾಗಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-21"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>23. ಜ್ಞಾನಕ್ಕೂ ಮೋಕ್ಷಕ್ಕೂ ಮಧ್ಯೇ ಅಂತರವಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-23"/>
+<navLabel><text>22.  ಬ್ರಹ್ಮವಿದ್ಯೆಯಿಂದ ಅಜ್ಞಾನದ ನಿವೃತ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-22"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>24.  ಬ್ರಹ್ಮಜ್ಞಾನೋದಯವಾದಕೂಡಲೇ ಮೋಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-24"/>
+<navLabel><text>23.  ಜ್ಞಾನಕ್ಕೂ ಮೋಕ್ಷಕ್ಕೂ ಮಧ್ಯೇ ಅಂತರವಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-23"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>25.  ಮೋಕ್ಷದಲ್ಲಿ ಧರ್ಮಾಧರ್ಮಗಳಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-25"/>
+<navLabel><text>24.  ಬ್ರಹ್ಮಜ್ಞಾನೋದಯವಾದಕೂಡಲೇ ಮೋಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-24"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>26.  ಪರಬ್ರಹ್ಮದ ನಿಜಸ್ವರೂಪ</text></navLabel><content src="001-chapter001.xhtml#id-26"/>
+<navLabel><text>25.  ಮೋಕ್ಷದಲ್ಲಿ ಧರ್ಮಾಧರ್ಮಗಳಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-25"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>27.  ಬ್ರಹ್ಮಾತ್ಮೈಕತ್ವಜ್ಞಾನವು ಭಾವನೆಯಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-27"/>
+<navLabel><text>26.  ಪರಬ್ರಹ್ಮದ ನಿಜಸ್ವರೂಪ</text></navLabel><content src="001-chapter001.xhtml#id-26"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>28.  ಬ್ರಹ್ಮವಿದ್ಯೆಯು ವಸ್ತುತಂತ್ರ , ಕರ್ತೃತಂತ್ರವಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-28"/>
+<navLabel><text>27.  ಬ್ರಹ್ಮಾತ್ಮೈಕತ್ವಜ್ಞಾನವು ಭಾವನೆಯಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-27"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>29. ಶಾಸ್ತ್ರವು ಭೇದನಿವೃತ್ತಿಪರವಾಗಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-29"/>
+<navLabel><text>28.  ಬ್ರಹ್ಮವಿದ್ಯೆಯು ವಸ್ತುತಂತ್ರ, ಕರ್ತೃತಂತ್ರವಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-28"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
-<navLabel><text>30.  ಬ್ರಹ್ಮಜ್ಞಾನದಿಂದಮಾತ್ರವೇ ಮೋಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-30"/>
+<navLabel><text>29.  ಶಾಸ್ತ್ರವು ಭೇದನಿವೃತ್ತಿಪರವಾಗಿದೆ</text></navLabel><content src="001-chapter001.xhtml#id-29"/>
 </navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text>31. ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಕಾರಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-31"/>
+<navLabel><text>30.  ಬ್ರಹ್ಮಜ್ಞಾನದಿಂದಮಾತ್ರವೇ ಮೋಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-30"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>32. ‘ಆತ್ಮಾ ವಾ ಅರೇ ದ್ರಷ್ಟವ್ಯಃ’ಎಂಬಿದು ವಿಧಿವಾಕ್ಯವಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-32"/>
+<navLabel><text>31.  ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯಕಾರಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-31"/>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
-<navLabel><text>33. ವೇದಾಂತಪುರುಷನು ಸರ್ವಸಾಕ್ಷಿಯು</text></navLabel><content src="001-chapter001.xhtml#id-33"/>
+<navLabel><text>32.  ‘ಆತ್ಮಾ ವಾ ಅರೇ ದ್ರಷ್ಟವ್ಯಃ’ ಎಂಬಿದು ವಿಧಿವಾಕ್ಯವಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-32"/>
 </navPoint>
 <navPoint id="navPoint-37" playOrder="37">
-<navLabel><text>34. ಆತ್ಮಜ್ಞಾನದಿಂದ ಸರ್ವಾನರ್ಥನಿವೃತ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-34"/>
+<navLabel><text>33.  ವೇದಾಂತಪುರುಷನು ಸರ್ವಸಾಕ್ಷಿಯು</text></navLabel><content src="001-chapter001.xhtml#id-33"/>
 </navPoint>
 <navPoint id="navPoint-38" playOrder="38">
-<navLabel><text>35.  ಗೌಣಾತ್ಮಮಿಥ್ಯಾತ್ಮಜ್ಞಾನಗಳ ನಿವೃತ್ತಿಯೇ ಮೋಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-35"/>
+<navLabel><text>34.  ಆತ್ಮಜ್ಞಾನದಿಂದ ಸರ್ವಾನರ್ಥನಿವೃತ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-34"/>
 </navPoint>
 <navPoint id="navPoint-39" playOrder="39">
-<navLabel><text>36.  ಅನ್ವೇಷ್ಟೃವೇ ಅನ್ವೇಷ್ಟವ್ಯನು</text></navLabel><content src="001-chapter001.xhtml#id-36"/>
+<navLabel><text>35.  ಗೌಣಾತ್ಮಮಿಥ್ಯಾತ್ಮಜ್ಞಾನಗಳ ನಿವೃತ್ತಿಯೇ ಮೋಕ್ಷ</text></navLabel><content src="001-chapter001.xhtml#id-35"/>
 </navPoint>
 <navPoint id="navPoint-40" playOrder="40">
-<navLabel><text>37.  ಸರ್ವವ್ಯವಹಾರಗಳೂ ಕಲ್ಪಿತವೇ</text></navLabel><content src="001-chapter001.xhtml#id-37"/>
+<navLabel><text>36.  ಅನ್ವೇಷ್ಟೃವೇ ಅನ್ವೇಷ್ಟವ್ಯನು</text></navLabel><content src="001-chapter001.xhtml#id-36"/>
 </navPoint>
 <navPoint id="navPoint-41" playOrder="41">
-<navLabel><text>38. ಪ್ರಮಾಣಗಳು ಪ್ರಮಾಣಗಳೇ ಅಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-38"/>
+<navLabel><text>37.  ಸರ್ವವ್ಯವಹಾರಗಳೂ ಕಲ್ಪಿತವೇ</text></navLabel><content src="001-chapter001.xhtml#id-37"/>
 </navPoint>
 <navPoint id="navPoint-42" playOrder="42">
-<navLabel><text>39. ಜ್ಞಾನವಾದಮೇಲೆ ಜ್ಞಾನಿಗೆ ವಿಧಿನಿಷೇಧಗಳಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-39"/>
+<navLabel><text>38.  ಪ್ರಮಾಣಗಳು ಪ್ರಮಾಣಗಳೇ ಅಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-38"/>
 </navPoint>
 <navPoint id="navPoint-43" playOrder="43">
-<navLabel><text>40.  ಅಧ್ಯಾಸ +ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯದಲ್ಲಿ ಮನನೀಯ ವಾಕ್ಯಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-40"/>
+<navLabel><text>39.  ಜ್ಞಾನವಾದಮೇಲೆ ಜ್ಞಾನಿಗೆ ವಿಧಿನಿಷೇಧಗಳಿಲ್ಲ</text></navLabel><content src="001-chapter001.xhtml#id-39"/>
+</navPoint>
+<navPoint id="navPoint-44" playOrder="44">
+<navLabel><text>40.  ಅಧ್ಯಾಸ + ಚತುಸ್ಸೂತ್ರೀಭಾಷ್ಯದಲ್ಲಿ ಮನನೀಯ ವಾಕ್ಯಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-40"/>
 </navPoint>
    </navMap>
 </ncx>

@@ -19,69 +19,72 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a.1"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>ಶಾಂತಿಮಂತ್ರಗಳು</text></navLabel><content src="000b-preface.xhtml#id-000b.1"/>
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಲೇಖಕನ ನಾಲ್ಕು ನುಡಿಗಳು</text></navLabel><content src="000b-preface.xhtml#id-000b.2"/>
+<navLabel><text>ಶಾಂತಿಮಂತ್ರಗಳು</text></navLabel><content src="000c-preface.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>“ತಾಪತ್ರಯ”ಪರಿಹಾರಕ್ಕಾಗಿ “ಶಾಂತಿತ್ರಯ”</text></navLabel><content src="000b-preface.xhtml#id-000b.3"/>
+<navLabel><text>ಲೇಖಕನ ನಾಲ್ಕು ನುಡಿಗಳು</text></navLabel><content src="000c-preface.xhtml#id-000b.2"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000b-preface.xhtml#id-000b.4"/>
+<navLabel><text>“ತಾಪತ್ರಯ” ಪರಿಹಾರಕ್ಕಾಗಿ “ಶಾಂತಿತ್ರಯ”</text></navLabel><content src="000c-preface.xhtml#id-000b.3"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ಶುಭಾಶಂಸನಮ್</text></navLabel><content src="000b-preface.xhtml#id-000b.5"/>
+<navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000c-preface.xhtml#id-000b.4"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಅಭಿನವ ಶಂಕರ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
+<navLabel><text>ಶುಭಾಶಂಸನಮ್</text></navLabel><content src="000c-preface.xhtml#id-000b.5"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ವಂದೇಽಭಿನವಶಂಕರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
+<navLabel><text>ಅಭಿನವ ಶಂಕರ</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ಬ್ರಹ್ಮವಿದ್ಯಾಗುರುಪರಂಪರಾಸ್ತುತಿಃ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
+<navLabel><text>ವಂದೇಽಭಿನವಶಂಕರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-2"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>ಶಾಂತಿಮಂತ್ರಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
+<navLabel><text>ಬ್ರಹ್ಮವಿದ್ಯಾಗುರುಪರಂಪರಾಸ್ತುತಿಃ</text></navLabel><content src="001-chapter001.xhtml#id-3"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ಶಾಂತಿಮಂತ್ರಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
+<navLabel><text>ಶಾಂತಿಮಂತ್ರಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-4"/>
+</navPoint>
 <navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>ಶಾಂತಿಮಂತ್ರಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-5"/>
+<navPoint id="navPoint-13" playOrder="13">
 <navLabel><text>ಶಂ ನೋ ಮಿತ್ರಃ</text></navLabel><content src="001-chapter001.xhtml#id-5.1"/>
 </navPoint>
-<navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>೨. – ಸಹ ನಾವವತು</text></navLabel><content src="001-chapter001.xhtml#id-5.2"/>
-</navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>೩. – ಯಶ್ಛಂದಸಾಮೃಷಭೋ </text></navLabel><content src="001-chapter001.xhtml#id-5.3"/>
+<navLabel><text>೨. –  ಸಹ ನಾವವತು</text></navLabel><content src="001-chapter001.xhtml#id-5.2"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>೪. – ಅಹಂ ವೃಕ್ಷಸ್ಯ ರೇರಿವಾ</text></navLabel><content src="001-chapter001.xhtml#id-5.4"/>
+<navLabel><text>೩. –  ಯಶ್ಛಂದಸಾಮೃಷಭೋ</text></navLabel><content src="001-chapter001.xhtml#id-5.3"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>೫. – ಭದ್ರಂ ಕರ್ಣೇಭಿಃ ಶೃಣುಯಾಮ ದೇವಾಃ</text></navLabel><content src="001-chapter001.xhtml#id-5.5"/>
+<navLabel><text>೪. –  ಅಹಂ ವೃಕ್ಷಸ್ಯ ರೇರಿವಾ</text></navLabel><content src="001-chapter001.xhtml#id-5.4"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>೬. – ಪೂರ್ಣಮದಃ ಪೂರ್ಣಮಿದಂ</text></navLabel><content src="001-chapter001.xhtml#id-5.6"/>
+<navLabel><text>೫. –  ಭದ್ರಂ ಕರ್ಣೇಭಿಃ ಶೃಣುಯಾಮ ದೇವಾಃ</text></navLabel><content src="001-chapter001.xhtml#id-5.5"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>೭. – ಆಪ್ಯಾಯಂತು ಮಮಾಂಗಾನಿ</text></navLabel><content src="001-chapter001.xhtml#id-5.7"/>
+<navLabel><text>೬. –  ಪೂರ್ಣಮದಃ ಪೂರ್ಣಮಿದಂ</text></navLabel><content src="001-chapter001.xhtml#id-5.6"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>೮. – ಭದ್ರಂ ನೋ ಅಪಿವಾತಯ ಮನಃ</text></navLabel><content src="001-chapter001.xhtml#id-5.8"/>
+<navLabel><text>೭. –  ಆಪ್ಯಾಯಂತು ಮಮಾಂಗಾನಿ</text></navLabel><content src="001-chapter001.xhtml#id-5.7"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>೯. – ವಾಙೇ  ಮನಸಿ ಪ್ರತಿಷ್ಠಿತಾ</text></navLabel><content src="001-chapter001.xhtml#id-5.9"/>
+<navLabel><text>೮. –  ಭದ್ರಂ ನೋ ಅಪಿವಾತಯ ಮನಃ</text></navLabel><content src="001-chapter001.xhtml#id-5.8"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>೧೦. – ಯೋ ಬ್ರಹ್ಮಾಣಂ ವಿದಧಾತಿ ಪೂರ್ವಮ್</text></navLabel><content src="001-chapter001.xhtml#id-5.10"/>
+<navLabel><text>೯. –  ವಾಙೇ ಮನಸಿ ಪ್ರತಿಷ್ಠಿತಾ</text></navLabel><content src="001-chapter001.xhtml#id-5.9"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>ಗುರುಪರಂಪರೆಗೆ ನಮಸ್ಕಾರ ೧೧. – ನಮೋ ಬ್ರಹ್ಮಾದಿಭ್ಯೋ</text></navLabel><content src="001-chapter001.xhtml#id-5.11"/>
-</navPoint>
+<navLabel><text>೧೦. –  ಯೋ ಬ್ರಹ್ಮಾಣಂ ವಿದಧಾತಿ ಪೂರ್ವಮ್</text></navLabel><content src="001-chapter001.xhtml#id-5.10"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>ಗುರುಪರಂಪರೆಗೆ ನಮಸ್ಕಾರ೧೧. –  ನಮೋ ಬ್ರಹ್ಮಾದಿಭ್ಯೋ</text></navLabel><content src="001-chapter001.xhtml#id-5.11"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24">
 <navLabel><text>ಬ್ರಹ್ಮವಿದ್ಯಾಚಾರ್ಯಪರಂಪರಾಸ್ತೋತ್ರಮ್</text></navLabel><content src="001-chapter001.xhtml#id-6"/>
 </navPoint>
    </navMap>

@@ -19,10 +19,10 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b.1"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>108  “ಅಷ್ಟಕ”ಸ್ತೋತ್ರಗಳು</text></navLabel><content src="000c-Preface.xhtml#id-000c"/>
+<navLabel><text>108  “ಅಷ್ಟಕ” ಸ್ತೋತ್ರಗಳು</text></navLabel><content src="000c-Preface.xhtml#id-000c"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
 <navLabel><text>೧. –  ಗಣೇಶಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-1"/>
@@ -226,7 +226,7 @@
 <navLabel><text>೬೭. –  ಶನೈಶ್ಚರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-67"/>
 </navPoint>
 <navPoint id="navPoint-71" playOrder="71">
-<navLabel><text>೬೮. –  ಶಬರೀಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-68"/>
+<navLabel><text>೬೮. –  ಶಬರೀ ಅಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-68"/>
 </navPoint>
 <navPoint id="navPoint-72" playOrder="72">
 <navLabel><text>೬೯. –  ಚಂದ್ರಶೇಖರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-69"/>
@@ -292,7 +292,7 @@
 <navLabel><text>೮೯. –  ಅಧ್ಯಾರೋಪಾಪವಾದಪ್ರಕ್ರಿಯಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-89"/>
 </navPoint>
 <navPoint id="navPoint-93" playOrder="93">
-<navLabel><text>೯೦. –  Ph.D.ಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-90"/>
+<navLabel><text>೯೦. –  Ph.D. ಶಂಕರಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-90"/>
 </navPoint>
 <navPoint id="navPoint-94" playOrder="94">
 <navLabel><text>೯೧. –  ಗೌಡಪಾದಾಷ್ಟಕಮ್</text></navLabel><content src="001-chapter001.xhtml#id-91"/>
